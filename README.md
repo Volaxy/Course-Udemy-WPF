@@ -11,6 +11,7 @@ URL do curso -> [Easy WPF in C# Windows Presentation Foundation XAML ADO.Net](ht
 
 ## Siglas
 * WPF - **W**indows **P**resentation **F**oundation.
+* XAML - E**x**tensible **A**pplication **M**arkup **L**anguage.
 
 ## Atalhos
 *

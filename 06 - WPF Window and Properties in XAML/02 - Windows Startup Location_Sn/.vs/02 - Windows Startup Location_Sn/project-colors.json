@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1340fca6-215a-4d59-9d0e-a23bd17e0f6e": {
+      "ProjectGuid": "1340fca6-215a-4d59-9d0e-a23bd17e0f6e",
+      "DisplayName": "02 - Windows Startup Location",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

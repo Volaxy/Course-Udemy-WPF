@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d72e270a-0926-4482-a133-1efc523a149f": {
+      "ProjectGuid": "d72e270a-0926-4482-a133-1efc523a149f",
+      "DisplayName": "09 - Window RTL and LTR",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

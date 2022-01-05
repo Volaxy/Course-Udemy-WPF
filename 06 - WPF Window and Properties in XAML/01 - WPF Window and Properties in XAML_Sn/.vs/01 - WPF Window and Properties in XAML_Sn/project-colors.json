@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba42b9aa-bd1d-419c-b0b2-b93bf7fb8903": {
+      "ProjectGuid": "ba42b9aa-bd1d-419c-b0b2-b93bf7fb8903",
+      "DisplayName": "01 - WPF Window and Properties",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

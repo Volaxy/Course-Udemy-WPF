@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "458630b0-0050-45ef-9e2e-2eca42cf22d3": {
+      "ProjectGuid": "458630b0-0050-45ef-9e2e-2eca42cf22d3",
+      "DisplayName": "02 - Using XAML in WPF",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

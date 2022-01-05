@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\03 - Window Style_Sn\03 - Window Style\bin\Debug\03 - Window Style.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\03 - Window Style_Sn\03 - Window Style\bin\Debug\03 - Window Style.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\03 - Window Style_Sn\03 - Window Style\bin\Debug\03 - Window Style.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\03 - Window Style_Sn\03 - Window Style\obj\Debug\03 - Window Style.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\03 - Window Style_Sn\03 - Window Style\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\03 - Window Style_Sn\03 - Window Style\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\03 - Window Style_Sn\03 - Window Style\obj\Debug\03 - Window Style_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\03 - Window Style_Sn\03 - Window Style\obj\Debug\03 - Window Style_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\03 - Window Style_Sn\03 - Window Style\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\03 - Window Style_Sn\03 - Window Style\obj\Debug\03 - Window Style.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\03 - Window Style_Sn\03 - Window Style\obj\Debug\_03___Window_Style.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\03 - Window Style_Sn\03 - Window Style\obj\Debug\03 - Window Style.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\03 - Window Style_Sn\03 - Window Style\obj\Debug\03 - Window Style.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\03 - Window Style_Sn\03 - Window Style\obj\Debug\03 - Window Style.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\03 - Window Style_Sn\03 - Window Style\obj\Debug\03 - Window Style.pdb

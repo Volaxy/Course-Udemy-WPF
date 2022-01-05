@@ -1,0 +1,18 @@
+﻿<Window x:Class="_04___Window_Resize_Mode.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_04___Window_Resize_Mode"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" ResizeMode="CanResizeWithGrip">
+    <Grid>
+        <!--
+            The property "ResizeMode" defines the buttons of the right top in the window.
+            NoResize: Minimize and Maximize/minimize is disabled and only the close button appears.
+            CanMinimize: Only the maximize/mnimize is disable but appears in the top right.
+            CanResize: All buttons appears in the window and all are enabled.
+            CanResizeWithGrip: A simple image appears in the bottom right in the window, indicates that the window can be resized
+        -->
+    </Grid>
+</Window>

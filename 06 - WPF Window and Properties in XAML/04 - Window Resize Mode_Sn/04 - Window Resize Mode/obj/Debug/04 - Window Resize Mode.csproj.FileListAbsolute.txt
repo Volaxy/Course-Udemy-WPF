@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\04 - Window Resize Mode_Sn\04 - Window Resize Mode\bin\Debug\04 - Window Resize Mode.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\04 - Window Resize Mode_Sn\04 - Window Resize Mode\bin\Debug\04 - Window Resize Mode.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\04 - Window Resize Mode_Sn\04 - Window Resize Mode\bin\Debug\04 - Window Resize Mode.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\04 - Window Resize Mode_Sn\04 - Window Resize Mode\obj\Debug\04 - Window Resize Mode.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\04 - Window Resize Mode_Sn\04 - Window Resize Mode\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\04 - Window Resize Mode_Sn\04 - Window Resize Mode\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\04 - Window Resize Mode_Sn\04 - Window Resize Mode\obj\Debug\04 - Window Resize Mode_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\04 - Window Resize Mode_Sn\04 - Window Resize Mode\obj\Debug\04 - Window Resize Mode_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\04 - Window Resize Mode_Sn\04 - Window Resize Mode\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\04 - Window Resize Mode_Sn\04 - Window Resize Mode\obj\Debug\04 - Window Resize Mode.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\04 - Window Resize Mode_Sn\04 - Window Resize Mode\obj\Debug\_04___Window_Resize_Mode.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\04 - Window Resize Mode_Sn\04 - Window Resize Mode\obj\Debug\04 - Window Resize Mode.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\04 - Window Resize Mode_Sn\04 - Window Resize Mode\obj\Debug\04 - Window Resize Mode.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\04 - Window Resize Mode_Sn\04 - Window Resize Mode\obj\Debug\04 - Window Resize Mode.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\04 - Window Resize Mode_Sn\04 - Window Resize Mode\obj\Debug\04 - Window Resize Mode.pdb

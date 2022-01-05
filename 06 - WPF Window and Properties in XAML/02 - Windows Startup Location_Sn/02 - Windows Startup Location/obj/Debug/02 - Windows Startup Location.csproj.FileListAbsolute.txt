@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\02 - Windows Startup Location_Sn\02 - Windows Startup Location\bin\Debug\02 - Windows Startup Location.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\02 - Windows Startup Location_Sn\02 - Windows Startup Location\bin\Debug\02 - Windows Startup Location.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\02 - Windows Startup Location_Sn\02 - Windows Startup Location\bin\Debug\02 - Windows Startup Location.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\02 - Windows Startup Location_Sn\02 - Windows Startup Location\obj\Debug\02 - Windows Startup Location.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\02 - Windows Startup Location_Sn\02 - Windows Startup Location\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\02 - Windows Startup Location_Sn\02 - Windows Startup Location\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\02 - Windows Startup Location_Sn\02 - Windows Startup Location\obj\Debug\02 - Windows Startup Location_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\02 - Windows Startup Location_Sn\02 - Windows Startup Location\obj\Debug\02 - Windows Startup Location_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\02 - Windows Startup Location_Sn\02 - Windows Startup Location\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\02 - Windows Startup Location_Sn\02 - Windows Startup Location\obj\Debug\02 - Windows Startup Location.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\02 - Windows Startup Location_Sn\02 - Windows Startup Location\obj\Debug\_02___Windows_Startup_Location.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\02 - Windows Startup Location_Sn\02 - Windows Startup Location\obj\Debug\02 - Windows Startup Location.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\02 - Windows Startup Location_Sn\02 - Windows Startup Location\obj\Debug\02 - Windows Startup Location.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\02 - Windows Startup Location_Sn\02 - Windows Startup Location\obj\Debug\02 - Windows Startup Location.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\02 - Windows Startup Location_Sn\02 - Windows Startup Location\obj\Debug\02 - Windows Startup Location.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\02 - Windows Startup Location_Sn\02 - Windows Startup Location\obj\Debug\02 - Windows Startup Location.csproj.AssemblyReference.cache

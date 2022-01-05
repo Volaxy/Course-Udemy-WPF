@@ -1,0 +1,17 @@
+﻿<Window x:Class="_02___Windows_Startup_Location.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_02___Windows_Startup_Location"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterOwner">
+    <Grid>
+        <!--
+            The "WindowStartupLocation" makes the window startup in the especified value of the combobox:
+            * Manual: Starts the window in the default location, left top, the "Top" and "Left" porperty can be changed.
+            * CenterScreen: Starts the window in the center of screen computer.
+            * CenterOwner: Starts the window according the Owner property.
+        -->
+    </Grid>
+</Window>

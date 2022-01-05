@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\10 - Window Min and Max Width_Sn\10 - Window Min and Max Width\bin\Debug\10 - Window Min and Max Width.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\10 - Window Min and Max Width_Sn\10 - Window Min and Max Width\bin\Debug\10 - Window Min and Max Width.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\10 - Window Min and Max Width_Sn\10 - Window Min and Max Width\bin\Debug\10 - Window Min and Max Width.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\10 - Window Min and Max Width_Sn\10 - Window Min and Max Width\obj\Debug\10 - Window Min and Max Width.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\10 - Window Min and Max Width_Sn\10 - Window Min and Max Width\obj\Debug\10 - Window Min and Max Width.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\10 - Window Min and Max Width_Sn\10 - Window Min and Max Width\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\10 - Window Min and Max Width_Sn\10 - Window Min and Max Width\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\10 - Window Min and Max Width_Sn\10 - Window Min and Max Width\obj\Debug\10 - Window Min and Max Width_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\10 - Window Min and Max Width_Sn\10 - Window Min and Max Width\obj\Debug\10 - Window Min and Max Width_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\10 - Window Min and Max Width_Sn\10 - Window Min and Max Width\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\10 - Window Min and Max Width_Sn\10 - Window Min and Max Width\obj\Debug\10 - Window Min and Max Width.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\10 - Window Min and Max Width_Sn\10 - Window Min and Max Width\obj\Debug\_10___Window_Min_and_Max_Width.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\10 - Window Min and Max Width_Sn\10 - Window Min and Max Width\obj\Debug\10 - Window Min and Max Width.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\10 - Window Min and Max Width_Sn\10 - Window Min and Max Width\obj\Debug\10 - Window Min and Max Width.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\10 - Window Min and Max Width_Sn\10 - Window Min and Max Width\obj\Debug\10 - Window Min and Max Width.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\06 - WPF Window and Properties in XAML\10 - Window Min and Max Width_Sn\10 - Window Min and Max Width\obj\Debug\10 - Window Min and Max Width.pdb

@@ -1,0 +1,36 @@
+﻿<Window x:Class="_01___WPF_Window_and_Properties.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_01___WPF_Window_and_Properties"
+        mc:Ignorable="d"
+        Title="Hello, WPF!" Height="350" Width="800">
+    <!--
+        1 - Width & Height
+        It's possible change the "Width" and the "Height" from the Properties of Window, or in the designer
+        The values can be declared as "in" or "cm", they are converted to "px"
+    
+        2 - Background
+        The Option "No Brush" makes the window contain no color
+        The Option "Solid Color Brush" fill the window with the especified color
+        The "Gradient Brush" especifies 2 colors to gradient in the window, Top to Bottom for default
+    
+        3 - Border
+        It's possible set the border color and width of border changing the value of "BorderThickness"
+        and the color in "BorderBrush"
+    
+        4 - Icon & Cursor
+        To change the icon, just choise a image file and put in property "Icon"
+    
+        5 - Window Enable & Visible
+        All features in the window is disabled according the option "IsEnabled"
+        To set the visible of the window, set the "Visible"
+    
+        6 - Window Title
+        To change the title, set the value of "Title" property
+    -->
+    <Grid>
+
+    </Grid>
+</Window>

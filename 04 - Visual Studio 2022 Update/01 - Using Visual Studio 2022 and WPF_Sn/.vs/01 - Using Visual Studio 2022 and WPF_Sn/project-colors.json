@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "895c49e6-d6a8-4fcc-99b6-925576f2e405": {
+      "ProjectGuid": "895c49e6-d6a8-4fcc-99b6-925576f2e405",
+      "DisplayName": "01 - Using Visual Studio 2022",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

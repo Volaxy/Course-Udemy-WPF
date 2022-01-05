@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\01 - First WPF Project_Sn\01 - First WPF Project\bin\Debug\01 - First WPF Project.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\01 - First WPF Project_Sn\01 - First WPF Project\bin\Debug\01 - First WPF Project.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\01 - First WPF Project_Sn\01 - First WPF Project\bin\Debug\01 - First WPF Project.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\01 - First WPF Project_Sn\01 - First WPF Project\obj\Debug\01 - First WPF Project.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\01 - First WPF Project_Sn\01 - First WPF Project\obj\Debug\01 - First WPF Project.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\01 - First WPF Project_Sn\01 - First WPF Project\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\01 - First WPF Project_Sn\01 - First WPF Project\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\01 - First WPF Project_Sn\01 - First WPF Project\obj\Debug\01 - First WPF Project_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\01 - First WPF Project_Sn\01 - First WPF Project\obj\Debug\01 - First WPF Project_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\01 - First WPF Project_Sn\01 - First WPF Project\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\01 - First WPF Project_Sn\01 - First WPF Project\obj\Debug\01 - First WPF Project.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\01 - First WPF Project_Sn\01 - First WPF Project\obj\Debug\_01___First_WPF_Project.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\01 - First WPF Project_Sn\01 - First WPF Project\obj\Debug\01 - First WPF Project.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\01 - First WPF Project_Sn\01 - First WPF Project\obj\Debug\01 - First WPF Project.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\01 - First WPF Project_Sn\01 - First WPF Project\obj\Debug\01 - First WPF Project.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\01 - First WPF Project_Sn\01 - First WPF Project\obj\Debug\01 - First WPF Project.pdb

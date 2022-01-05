@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\02 - Using XAML in WPF_Sn\02 - Using XAML in WPF\bin\Debug\02 - Using XAML in WPF.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\02 - Using XAML in WPF_Sn\02 - Using XAML in WPF\bin\Debug\02 - Using XAML in WPF.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\02 - Using XAML in WPF_Sn\02 - Using XAML in WPF\bin\Debug\02 - Using XAML in WPF.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\02 - Using XAML in WPF_Sn\02 - Using XAML in WPF\obj\Debug\02 - Using XAML in WPF.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\02 - Using XAML in WPF_Sn\02 - Using XAML in WPF\obj\Debug\02 - Using XAML in WPF.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\02 - Using XAML in WPF_Sn\02 - Using XAML in WPF\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\02 - Using XAML in WPF_Sn\02 - Using XAML in WPF\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\02 - Using XAML in WPF_Sn\02 - Using XAML in WPF\obj\Debug\02 - Using XAML in WPF_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\02 - Using XAML in WPF_Sn\02 - Using XAML in WPF\obj\Debug\02 - Using XAML in WPF_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\02 - Using XAML in WPF_Sn\02 - Using XAML in WPF\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\02 - Using XAML in WPF_Sn\02 - Using XAML in WPF\obj\Debug\02 - Using XAML in WPF.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\02 - Using XAML in WPF_Sn\02 - Using XAML in WPF\obj\Debug\_02___Using_XAML_in_WPF.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\02 - Using XAML in WPF_Sn\02 - Using XAML in WPF\obj\Debug\02 - Using XAML in WPF.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\02 - Using XAML in WPF_Sn\02 - Using XAML in WPF\obj\Debug\02 - Using XAML in WPF.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\02 - Using XAML in WPF_Sn\02 - Using XAML in WPF\obj\Debug\02 - Using XAML in WPF.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\05 - Start Using WPF and XAML\02 - Using XAML in WPF_Sn\02 - Using XAML in WPF\obj\Debug\02 - Using XAML in WPF.pdb

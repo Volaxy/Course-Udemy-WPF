@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\02 - Common Properties of Grid Control_Sn\02 - Common Properties of Grid\bin\Debug\02 - Common Properties of Grid.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\02 - Common Properties of Grid Control_Sn\02 - Common Properties of Grid\bin\Debug\02 - Common Properties of Grid.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\02 - Common Properties of Grid Control_Sn\02 - Common Properties of Grid\bin\Debug\02 - Common Properties of Grid.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\02 - Common Properties of Grid Control_Sn\02 - Common Properties of Grid\obj\Debug\02 - Common Properties of Grid.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\02 - Common Properties of Grid Control_Sn\02 - Common Properties of Grid\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\02 - Common Properties of Grid Control_Sn\02 - Common Properties of Grid\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\02 - Common Properties of Grid Control_Sn\02 - Common Properties of Grid\obj\Debug\02 - Common Properties of Grid_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\02 - Common Properties of Grid Control_Sn\02 - Common Properties of Grid\obj\Debug\02 - Common Properties of Grid_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\02 - Common Properties of Grid Control_Sn\02 - Common Properties of Grid\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\02 - Common Properties of Grid Control_Sn\02 - Common Properties of Grid\obj\Debug\02 - Common Properties of Grid.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\02 - Common Properties of Grid Control_Sn\02 - Common Properties of Grid\obj\Debug\_02___Common_Properties_of_Grid.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\02 - Common Properties of Grid Control_Sn\02 - Common Properties of Grid\obj\Debug\02 - Common Properties of Grid.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\02 - Common Properties of Grid Control_Sn\02 - Common Properties of Grid\obj\Debug\02 - Common Properties of Grid.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\02 - Common Properties of Grid Control_Sn\02 - Common Properties of Grid\obj\Debug\02 - Common Properties of Grid.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\02 - Common Properties of Grid Control_Sn\02 - Common Properties of Grid\obj\Debug\02 - Common Properties of Grid.pdb

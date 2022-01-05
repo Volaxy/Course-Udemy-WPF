@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25f4a766-5d76-40ed-8088-e209244d252f": {
+      "ProjectGuid": "25f4a766-5d76-40ed-8088-e209244d252f",
+      "DisplayName": "01 - Add Grid to Window and use it",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

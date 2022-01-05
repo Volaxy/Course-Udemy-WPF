@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b37a606b-5086-4d3e-8062-8d535b0e8cf6": {
+      "ProjectGuid": "b37a606b-5086-4d3e-8062-8d535b0e8cf6",
+      "DisplayName": "02 - Common Properties of Grid",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\04 - Document Outline_Sn\04 - Document Outline\bin\Debug\04 - Document Outline.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\04 - Document Outline_Sn\04 - Document Outline\bin\Debug\04 - Document Outline.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\04 - Document Outline_Sn\04 - Document Outline\bin\Debug\04 - Document Outline.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\04 - Document Outline_Sn\04 - Document Outline\obj\Debug\04 - Document Outline.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\04 - Document Outline_Sn\04 - Document Outline\obj\Debug\04 - Document Outline.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\04 - Document Outline_Sn\04 - Document Outline\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\04 - Document Outline_Sn\04 - Document Outline\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\04 - Document Outline_Sn\04 - Document Outline\obj\Debug\04 - Document Outline_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\04 - Document Outline_Sn\04 - Document Outline\obj\Debug\04 - Document Outline_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\04 - Document Outline_Sn\04 - Document Outline\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\04 - Document Outline_Sn\04 - Document Outline\obj\Debug\04 - Document Outline.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\04 - Document Outline_Sn\04 - Document Outline\obj\Debug\_04___Document_Outline.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\04 - Document Outline_Sn\04 - Document Outline\obj\Debug\04 - Document Outline.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\04 - Document Outline_Sn\04 - Document Outline\obj\Debug\04 - Document Outline.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\04 - Document Outline_Sn\04 - Document Outline\obj\Debug\04 - Document Outline.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\04 - Document Outline_Sn\04 - Document Outline\obj\Debug\04 - Document Outline.pdb

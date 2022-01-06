@@ -1,0 +1,9 @@
+﻿<Application x:Class="_02___Grouping_Controls_Together.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_02___Grouping_Controls_Together"
+             StartupUri="App_GroupingControls.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

@@ -1,0 +1,17 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\02 - Grouping Controls Together_Sn\02 - Grouping Controls Together\bin\Debug\02 - Grouping Controls Together.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\02 - Grouping Controls Together_Sn\02 - Grouping Controls Together\bin\Debug\02 - Grouping Controls Together.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\02 - Grouping Controls Together_Sn\02 - Grouping Controls Together\bin\Debug\02 - Grouping Controls Together.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\02 - Grouping Controls Together_Sn\02 - Grouping Controls Together\obj\Debug\02 - Grouping Controls Together.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\02 - Grouping Controls Together_Sn\02 - Grouping Controls Together\obj\Debug\App_GroupingControls.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\02 - Grouping Controls Together_Sn\02 - Grouping Controls Together\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\02 - Grouping Controls Together_Sn\02 - Grouping Controls Together\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\02 - Grouping Controls Together_Sn\02 - Grouping Controls Together\obj\Debug\02 - Grouping Controls Together_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\02 - Grouping Controls Together_Sn\02 - Grouping Controls Together\obj\Debug\02 - Grouping Controls Together_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\02 - Grouping Controls Together_Sn\02 - Grouping Controls Together\obj\Debug\App_GroupingControls.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\02 - Grouping Controls Together_Sn\02 - Grouping Controls Together\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\02 - Grouping Controls Together_Sn\02 - Grouping Controls Together\obj\Debug\02 - Grouping Controls Together.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\02 - Grouping Controls Together_Sn\02 - Grouping Controls Together\obj\Debug\_02___Grouping_Controls_Together.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\02 - Grouping Controls Together_Sn\02 - Grouping Controls Together\obj\Debug\02 - Grouping Controls Together.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\02 - Grouping Controls Together_Sn\02 - Grouping Controls Together\obj\Debug\02 - Grouping Controls Together.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\02 - Grouping Controls Together_Sn\02 - Grouping Controls Together\obj\Debug\02 - Grouping Controls Together.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\10 - Advance WPF App Design\02 - Grouping Controls Together_Sn\02 - Grouping Controls Together\obj\Debug\02 - Grouping Controls Together.pdb

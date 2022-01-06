@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 - Vertical and Horizontal Align", "05 - Vertical and Horizontal Align\05 - Vertical and Horizontal Align.csproj", "{B609B0B5-A8E4-43B9-B675-2EB9479BA594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B609B0B5-A8E4-43B9-B675-2EB9479BA594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B609B0B5-A8E4-43B9-B675-2EB9479BA594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B609B0B5-A8E4-43B9-B675-2EB9479BA594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B609B0B5-A8E4-43B9-B675-2EB9479BA594}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C42BD238-C0B9-42F7-B6E6-1DEDA523668B}
+	EndGlobalSection
+EndGlobal

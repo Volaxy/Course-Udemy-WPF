@@ -1,0 +1,19 @@
+﻿<Window x:Class="_09___Default_Item_of_ComboBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_09___Default_Item_of_ComboBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ComboBox HorizontalAlignment="Center" VerticalAlignment="Center" Width="120" SelectedIndex="0">
+            <ComboBoxItem Content="ComboBoxItem 1"/>
+            <ComboBoxItem Content="ComboBoxItem 2"/>
+            <ComboBoxItem Content="ComboBoxItem 3"/>
+            <ComboBoxItem Content="ComboBoxItem 4"/>
+
+        </ComboBox>
+
+    </Grid>
+</Window>

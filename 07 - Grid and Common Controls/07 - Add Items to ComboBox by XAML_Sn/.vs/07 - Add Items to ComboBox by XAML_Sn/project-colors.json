@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a14355a-cb8c-421a-aad8-a2390e0db786": {
+      "ProjectGuid": "7a14355a-cb8c-421a-aad8-a2390e0db786",
+      "DisplayName": "07 - Add Items to ComboBox by XAML",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

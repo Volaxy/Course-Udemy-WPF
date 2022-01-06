@@ -1,0 +1,9 @@
+﻿<Application x:Class="_08___Items_to_ComboBox_by_Properties.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_08___Items_to_ComboBox_by_Properties"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

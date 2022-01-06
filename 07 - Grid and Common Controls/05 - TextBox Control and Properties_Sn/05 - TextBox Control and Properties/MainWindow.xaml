@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBox HorizontalAlignment="Center" Margin="0,180,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="298" Height="132" FontSize="36"/>
+        <TextBox HorizontalAlignment="Center" Text="TextBox" VerticalAlignment="Center" Width="298" Height="132" FontSize="36" HorizontalContentAlignment="Center" Background="#FFEAEAEA" BorderBrush="#FF4875FF" SelectionBrush="#FF006EC5" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Visible" TextWrapping="Wrap" Margin="0,0,0,0" MaxLines="2" MaxLength="9"/>
 
     </Grid>
 </Window>

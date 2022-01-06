@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\09 - Default Item of ComboBox_Sn\09 - Default Item of ComboBox\bin\Debug\09 - Default Item of ComboBox.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\09 - Default Item of ComboBox_Sn\09 - Default Item of ComboBox\bin\Debug\09 - Default Item of ComboBox.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\09 - Default Item of ComboBox_Sn\09 - Default Item of ComboBox\bin\Debug\09 - Default Item of ComboBox.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\09 - Default Item of ComboBox_Sn\09 - Default Item of ComboBox\obj\Debug\09 - Default Item of ComboBox.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\09 - Default Item of ComboBox_Sn\09 - Default Item of ComboBox\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\09 - Default Item of ComboBox_Sn\09 - Default Item of ComboBox\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\09 - Default Item of ComboBox_Sn\09 - Default Item of ComboBox\obj\Debug\09 - Default Item of ComboBox_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\09 - Default Item of ComboBox_Sn\09 - Default Item of ComboBox\obj\Debug\09 - Default Item of ComboBox_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\09 - Default Item of ComboBox_Sn\09 - Default Item of ComboBox\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\09 - Default Item of ComboBox_Sn\09 - Default Item of ComboBox\obj\Debug\09 - Default Item of ComboBox.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\09 - Default Item of ComboBox_Sn\09 - Default Item of ComboBox\obj\Debug\_09___Default_Item_of_ComboBox.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\09 - Default Item of ComboBox_Sn\09 - Default Item of ComboBox\obj\Debug\09 - Default Item of ComboBox.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\09 - Default Item of ComboBox_Sn\09 - Default Item of ComboBox\obj\Debug\09 - Default Item of ComboBox.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\09 - Default Item of ComboBox_Sn\09 - Default Item of ComboBox\obj\Debug\09 - Default Item of ComboBox.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\07 - Grid and Common Controls\09 - Default Item of ComboBox_Sn\09 - Default Item of ComboBox\obj\Debug\09 - Default Item of ComboBox.pdb

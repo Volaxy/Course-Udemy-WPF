@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7aed24c6-bd16-4d2a-9a48-450e43820efa": {
+      "ProjectGuid": "7aed24c6-bd16-4d2a-9a48-450e43820efa",
+      "DisplayName": "08 - Items to ComboBox by Properties",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

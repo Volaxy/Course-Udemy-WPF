@@ -1,0 +1,17 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\03 - Change Startup Window_Sn\03 - Change Startup Window\bin\Debug\03 - Change Startup Window.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\03 - Change Startup Window_Sn\03 - Change Startup Window\bin\Debug\03 - Change Startup Window.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\03 - Change Startup Window_Sn\03 - Change Startup Window\bin\Debug\03 - Change Startup Window.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\03 - Change Startup Window_Sn\03 - Change Startup Window\obj\Debug\03 - Change Startup Window.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\03 - Change Startup Window_Sn\03 - Change Startup Window\obj\Debug\AppSettings.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\03 - Change Startup Window_Sn\03 - Change Startup Window\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\03 - Change Startup Window_Sn\03 - Change Startup Window\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\03 - Change Startup Window_Sn\03 - Change Startup Window\obj\Debug\03 - Change Startup Window_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\03 - Change Startup Window_Sn\03 - Change Startup Window\obj\Debug\03 - Change Startup Window_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\03 - Change Startup Window_Sn\03 - Change Startup Window\obj\Debug\AppSettings.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\03 - Change Startup Window_Sn\03 - Change Startup Window\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\03 - Change Startup Window_Sn\03 - Change Startup Window\obj\Debug\03 - Change Startup Window.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\03 - Change Startup Window_Sn\03 - Change Startup Window\obj\Debug\_03___Change_Startup_Window.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\03 - Change Startup Window_Sn\03 - Change Startup Window\obj\Debug\03 - Change Startup Window.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\03 - Change Startup Window_Sn\03 - Change Startup Window\obj\Debug\03 - Change Startup Window.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\03 - Change Startup Window_Sn\03 - Change Startup Window\obj\Debug\03 - Change Startup Window.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\03 - Change Startup Window_Sn\03 - Change Startup Window\obj\Debug\03 - Change Startup Window.pdb

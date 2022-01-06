@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f05f3304-8e18-40a5-b4c2-74275b20189a": {
+      "ProjectGuid": "f05f3304-8e18-40a5-b4c2-74275b20189a",
+      "DisplayName": "02 - Add new Window to WPF Project",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

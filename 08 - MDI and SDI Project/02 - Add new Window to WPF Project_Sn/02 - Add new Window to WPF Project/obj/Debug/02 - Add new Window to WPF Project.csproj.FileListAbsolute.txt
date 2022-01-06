@@ -1,0 +1,18 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\02 - Add new Window to WPF Project_Sn\02 - Add new Window to WPF Project\bin\Debug\02 - Add new Window to WPF Project.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\02 - Add new Window to WPF Project_Sn\02 - Add new Window to WPF Project\bin\Debug\02 - Add new Window to WPF Project.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\02 - Add new Window to WPF Project_Sn\02 - Add new Window to WPF Project\bin\Debug\02 - Add new Window to WPF Project.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\02 - Add new Window to WPF Project_Sn\02 - Add new Window to WPF Project\obj\Debug\02 - Add new Window to WPF Project.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\02 - Add new Window to WPF Project_Sn\02 - Add new Window to WPF Project\obj\Debug\02 - Add new Window to WPF Project.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\02 - Add new Window to WPF Project_Sn\02 - Add new Window to WPF Project\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\02 - Add new Window to WPF Project_Sn\02 - Add new Window to WPF Project\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\02 - Add new Window to WPF Project_Sn\02 - Add new Window to WPF Project\obj\Debug\02 - Add new Window to WPF Project_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\02 - Add new Window to WPF Project_Sn\02 - Add new Window to WPF Project\obj\Debug\02 - Add new Window to WPF Project_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\02 - Add new Window to WPF Project_Sn\02 - Add new Window to WPF Project\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\02 - Add new Window to WPF Project_Sn\02 - Add new Window to WPF Project\obj\Debug\02 - Add new Window to WPF Project.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\02 - Add new Window to WPF Project_Sn\02 - Add new Window to WPF Project\obj\Debug\_02___Add_new_Window_to_WPF_Project.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\02 - Add new Window to WPF Project_Sn\02 - Add new Window to WPF Project\obj\Debug\02 - Add new Window to WPF Project.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\02 - Add new Window to WPF Project_Sn\02 - Add new Window to WPF Project\obj\Debug\02 - Add new Window to WPF Project.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\02 - Add new Window to WPF Project_Sn\02 - Add new Window to WPF Project\obj\Debug\02 - Add new Window to WPF Project.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\02 - Add new Window to WPF Project_Sn\02 - Add new Window to WPF Project\obj\Debug\02 - Add new Window to WPF Project.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\02 - Add new Window to WPF Project_Sn\02 - Add new Window to WPF Project\obj\Debug\App_Settings.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\08 - MDI and SDI Project\02 - Add new Window to WPF Project_Sn\02 - Add new Window to WPF Project\obj\Debug\App_Settings.baml

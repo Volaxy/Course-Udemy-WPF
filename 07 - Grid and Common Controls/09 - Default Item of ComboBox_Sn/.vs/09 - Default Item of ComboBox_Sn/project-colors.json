@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "931f917f-8b00-46d2-8aeb-a97e382aa76c": {
+      "ProjectGuid": "931f917f-8b00-46d2-8aeb-a97e382aa76c",
+      "DisplayName": "09 - Default Item of ComboBox",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

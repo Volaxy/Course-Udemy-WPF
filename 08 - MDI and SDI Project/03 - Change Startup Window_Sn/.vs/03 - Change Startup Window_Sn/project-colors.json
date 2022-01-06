@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "305bf4da-a493-44a8-914b-fea9e8d2c173": {
+      "ProjectGuid": "305bf4da-a493-44a8-914b-fea9e8d2c173",
+      "DisplayName": "03 - Change Startup Window",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

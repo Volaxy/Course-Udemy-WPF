@@ -1,0 +1,28 @@
+﻿<Window x:Class="_02___Add_Columns_and_Rows_to_Grid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_02___Add_Columns_and_Rows_to_Grid"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FF60FFF4">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="95*"/>
+            <RowDefinition Height="64*"/>
+            <RowDefinition Height="142*"/>
+            <RowDefinition Height="84*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="75*"/>
+            <ColumnDefinition Width="136*"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="138*"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="211*"/>
+        </Grid.ColumnDefinitions>
+
+    </Grid>
+</Window>

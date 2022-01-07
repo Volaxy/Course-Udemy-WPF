@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 - Change the Text Color Controls", "06 - Change the Text Color Controls\06 - Change the Text Color Controls.csproj", "{DF32FE0C-0575-4F88-8E69-AFE22C6A67FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF32FE0C-0575-4F88-8E69-AFE22C6A67FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF32FE0C-0575-4F88-8E69-AFE22C6A67FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF32FE0C-0575-4F88-8E69-AFE22C6A67FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF32FE0C-0575-4F88-8E69-AFE22C6A67FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CC5C946-16E0-4F99-A53F-AEE6E848B936}
+	EndGlobalSection
+EndGlobal

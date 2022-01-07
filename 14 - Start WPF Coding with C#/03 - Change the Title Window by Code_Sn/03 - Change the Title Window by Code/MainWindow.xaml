@@ -1,0 +1,13 @@
+﻿<Window x:Name="MainWindow1" x:Class="_03___Change_the_Title_Window_by_Code.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_03___Change_the_Title_Window_by_Code"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="223" Width="373">
+    <Grid>
+        <Button x:Name="ChangeTitleButton" Content="Change Window Title" HorizontalAlignment="Center" VerticalAlignment="Center" Height="48" Width="158" Click="ChangeTitleButton_Click"/>
+
+    </Grid>
+</Window>

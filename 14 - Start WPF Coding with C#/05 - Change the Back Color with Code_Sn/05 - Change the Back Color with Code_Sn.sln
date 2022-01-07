@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 - Change the Back Color with Code", "05 - Change the Back Color with Code\05 - Change the Back Color with Code.csproj", "{15601A90-9422-4A80-9EDE-42B5274D6A96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15601A90-9422-4A80-9EDE-42B5274D6A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15601A90-9422-4A80-9EDE-42B5274D6A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15601A90-9422-4A80-9EDE-42B5274D6A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15601A90-9422-4A80-9EDE-42B5274D6A96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22886601-8F1B-4D2F-AF80-F607A7F3D510}
+	EndGlobalSection
+EndGlobal

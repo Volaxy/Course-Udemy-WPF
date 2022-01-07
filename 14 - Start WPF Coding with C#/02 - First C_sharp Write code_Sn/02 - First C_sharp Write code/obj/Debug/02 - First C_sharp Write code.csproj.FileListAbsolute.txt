@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\02 - First C_sharp Write code_Sn\02 - First C_sharp Write code\bin\Debug\02 - First C_sharp Write code.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\02 - First C_sharp Write code_Sn\02 - First C_sharp Write code\bin\Debug\02 - First C_sharp Write code.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\02 - First C_sharp Write code_Sn\02 - First C_sharp Write code\bin\Debug\02 - First C_sharp Write code.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\02 - First C_sharp Write code_Sn\02 - First C_sharp Write code\obj\Debug\02 - First C_sharp Write code.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\02 - First C_sharp Write code_Sn\02 - First C_sharp Write code\obj\Debug\02 - First C_sharp Write code.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\02 - First C_sharp Write code_Sn\02 - First C_sharp Write code\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\02 - First C_sharp Write code_Sn\02 - First C_sharp Write code\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\02 - First C_sharp Write code_Sn\02 - First C_sharp Write code\obj\Debug\02 - First C_sharp Write code_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\02 - First C_sharp Write code_Sn\02 - First C_sharp Write code\obj\Debug\02 - First C_sharp Write code_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\02 - First C_sharp Write code_Sn\02 - First C_sharp Write code\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\02 - First C_sharp Write code_Sn\02 - First C_sharp Write code\obj\Debug\02 - First C_sharp Write code.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\02 - First C_sharp Write code_Sn\02 - First C_sharp Write code\obj\Debug\_02___First_C_sharp_Write_code.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\02 - First C_sharp Write code_Sn\02 - First C_sharp Write code\obj\Debug\02 - First C_sharp Write code.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\02 - First C_sharp Write code_Sn\02 - First C_sharp Write code\obj\Debug\02 - First C_sharp Write code.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\02 - First C_sharp Write code_Sn\02 - First C_sharp Write code\obj\Debug\02 - First C_sharp Write code.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\02 - First C_sharp Write code_Sn\02 - First C_sharp Write code\obj\Debug\02 - First C_sharp Write code.pdb

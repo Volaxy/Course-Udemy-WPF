@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b1617d4d-3e34-4b18-a382-d7f975afb79f": {
+      "ProjectGuid": "b1617d4d-3e34-4b18-a382-d7f975afb79f",
+      "DisplayName": "02 - Auto Resize Image by Margins",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

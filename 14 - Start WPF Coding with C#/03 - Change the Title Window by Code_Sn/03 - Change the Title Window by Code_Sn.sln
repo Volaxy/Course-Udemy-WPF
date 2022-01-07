@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 - Change the Title Window by Code", "03 - Change the Title Window by Code\03 - Change the Title Window by Code.csproj", "{689ABB1B-97D7-4E6A-B251-6E43E0B68161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{689ABB1B-97D7-4E6A-B251-6E43E0B68161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689ABB1B-97D7-4E6A-B251-6E43E0B68161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689ABB1B-97D7-4E6A-B251-6E43E0B68161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689ABB1B-97D7-4E6A-B251-6E43E0B68161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F297A85-8D88-46B4-A523-362B4CAE426E}
+	EndGlobalSection
+EndGlobal

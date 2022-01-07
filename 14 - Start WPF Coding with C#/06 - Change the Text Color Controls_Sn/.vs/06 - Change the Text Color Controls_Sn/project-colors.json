@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "df32fe0c-0575-4f88-8e69-afe22c6a67fc": {
+      "ProjectGuid": "df32fe0c-0575-4f88-8e69-afe22c6a67fc",
+      "DisplayName": "06 - Change the Text Color Controls",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

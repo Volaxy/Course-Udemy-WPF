@@ -1,0 +1,14 @@
+﻿<Window x:Class="_08___Show_and_Hide_Controls_in_Code.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_08___Show_and_Hide_Controls_in_Code"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="ChangeButton" Content="Show / Hide" HorizontalAlignment="Center" Margin="0,163,0,0" VerticalAlignment="Top" Height="115" Width="302" FontSize="36" Click="ChangeButton_Click"/>
+        <Label x:Name="TestLabel" Content="Label" HorizontalAlignment="Center" Margin="0,308,0,0" VerticalAlignment="Top" Height="51" Width="128" FontSize="24" Background="#FFFFDEDE"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+﻿<Window x:Class="_01___Image_Control_and_Properties.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_01___Image_Control_and_Properties"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="372" Margin="98,47,0,0" VerticalAlignment="Top" Width="477" Stretch="Fill" Source="/koala_resized.jpg">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <!--
+        The "Stretch" property sets the size of the image:
+        None: The image will display without distortion but can not appears completed.
+        Fill: The image will display fill the window sizes with distortion in the image.
+        Uniform: The image fill the max width or height of the window, without distorting the image.
+        UniformToFill: The image fill the window but not change the aspect radio and the outside parts will be hiden of the page.
+        -->
+    </Grid>
+</Window>

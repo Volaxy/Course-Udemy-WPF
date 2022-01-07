@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\07 - Enable and Disable in Code_Sn\07 - Enable and Disable in Code\bin\Debug\07 - Enable and Disable in Code.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\07 - Enable and Disable in Code_Sn\07 - Enable and Disable in Code\bin\Debug\07 - Enable and Disable in Code.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\07 - Enable and Disable in Code_Sn\07 - Enable and Disable in Code\bin\Debug\07 - Enable and Disable in Code.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\07 - Enable and Disable in Code_Sn\07 - Enable and Disable in Code\obj\Debug\07 - Enable and Disable in Code.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\07 - Enable and Disable in Code_Sn\07 - Enable and Disable in Code\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\07 - Enable and Disable in Code_Sn\07 - Enable and Disable in Code\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\07 - Enable and Disable in Code_Sn\07 - Enable and Disable in Code\obj\Debug\07 - Enable and Disable in Code_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\07 - Enable and Disable in Code_Sn\07 - Enable and Disable in Code\obj\Debug\07 - Enable and Disable in Code_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\07 - Enable and Disable in Code_Sn\07 - Enable and Disable in Code\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\07 - Enable and Disable in Code_Sn\07 - Enable and Disable in Code\obj\Debug\07 - Enable and Disable in Code.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\07 - Enable and Disable in Code_Sn\07 - Enable and Disable in Code\obj\Debug\_07___Enable_and_Disable_in_Code.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\07 - Enable and Disable in Code_Sn\07 - Enable and Disable in Code\obj\Debug\07 - Enable and Disable in Code.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\07 - Enable and Disable in Code_Sn\07 - Enable and Disable in Code\obj\Debug\07 - Enable and Disable in Code.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\07 - Enable and Disable in Code_Sn\07 - Enable and Disable in Code\obj\Debug\07 - Enable and Disable in Code.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\07 - Enable and Disable in Code_Sn\07 - Enable and Disable in Code\obj\Debug\07 - Enable and Disable in Code.pdb

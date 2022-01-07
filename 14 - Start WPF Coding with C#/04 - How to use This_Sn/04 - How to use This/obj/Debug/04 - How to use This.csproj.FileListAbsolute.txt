@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\04 - How to use This_Sn\04 - How to use This\bin\Debug\04 - How to use This.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\04 - How to use This_Sn\04 - How to use This\bin\Debug\04 - How to use This.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\04 - How to use This_Sn\04 - How to use This\bin\Debug\04 - How to use This.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\04 - How to use This_Sn\04 - How to use This\obj\Debug\04 - How to use This.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\04 - How to use This_Sn\04 - How to use This\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\04 - How to use This_Sn\04 - How to use This\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\04 - How to use This_Sn\04 - How to use This\obj\Debug\04 - How to use This_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\04 - How to use This_Sn\04 - How to use This\obj\Debug\04 - How to use This_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\04 - How to use This_Sn\04 - How to use This\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\04 - How to use This_Sn\04 - How to use This\obj\Debug\04 - How to use This.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\04 - How to use This_Sn\04 - How to use This\obj\Debug\_04___How_to_use_This.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\04 - How to use This_Sn\04 - How to use This\obj\Debug\04 - How to use This.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\04 - How to use This_Sn\04 - How to use This\obj\Debug\04 - How to use This.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\04 - How to use This_Sn\04 - How to use This\obj\Debug\04 - How to use This.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\14 - Start WPF Coding with C#\04 - How to use This_Sn\04 - How to use This\obj\Debug\04 - How to use This.pdb

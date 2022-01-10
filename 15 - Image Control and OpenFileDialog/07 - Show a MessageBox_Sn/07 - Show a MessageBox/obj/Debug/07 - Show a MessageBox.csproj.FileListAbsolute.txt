@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\07 - Show a MessageBox_Sn\07 - Show a MessageBox\bin\Debug\07 - Show a MessageBox.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\07 - Show a MessageBox_Sn\07 - Show a MessageBox\bin\Debug\07 - Show a MessageBox.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\07 - Show a MessageBox_Sn\07 - Show a MessageBox\bin\Debug\07 - Show a MessageBox.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\07 - Show a MessageBox_Sn\07 - Show a MessageBox\obj\Debug\07 - Show a MessageBox.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\07 - Show a MessageBox_Sn\07 - Show a MessageBox\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\07 - Show a MessageBox_Sn\07 - Show a MessageBox\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\07 - Show a MessageBox_Sn\07 - Show a MessageBox\obj\Debug\07 - Show a MessageBox_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\07 - Show a MessageBox_Sn\07 - Show a MessageBox\obj\Debug\07 - Show a MessageBox_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\07 - Show a MessageBox_Sn\07 - Show a MessageBox\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\07 - Show a MessageBox_Sn\07 - Show a MessageBox\obj\Debug\07 - Show a MessageBox.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\07 - Show a MessageBox_Sn\07 - Show a MessageBox\obj\Debug\_07___Show_a_MessageBox.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\07 - Show a MessageBox_Sn\07 - Show a MessageBox\obj\Debug\07 - Show a MessageBox.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\07 - Show a MessageBox_Sn\07 - Show a MessageBox\obj\Debug\07 - Show a MessageBox.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\07 - Show a MessageBox_Sn\07 - Show a MessageBox\obj\Debug\07 - Show a MessageBox.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\07 - Show a MessageBox_Sn\07 - Show a MessageBox\obj\Debug\07 - Show a MessageBox.pdb

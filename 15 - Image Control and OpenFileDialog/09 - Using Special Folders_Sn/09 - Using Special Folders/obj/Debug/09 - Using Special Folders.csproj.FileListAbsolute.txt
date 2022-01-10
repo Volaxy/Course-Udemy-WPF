@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\09 - Using Special Folders_Sn\09 - Using Special Folders\bin\Debug\09 - Using Special Folders.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\09 - Using Special Folders_Sn\09 - Using Special Folders\bin\Debug\09 - Using Special Folders.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\09 - Using Special Folders_Sn\09 - Using Special Folders\bin\Debug\09 - Using Special Folders.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\09 - Using Special Folders_Sn\09 - Using Special Folders\obj\Debug\09 - Using Special Folders.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\09 - Using Special Folders_Sn\09 - Using Special Folders\obj\Debug\09 - Using Special Folders.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\09 - Using Special Folders_Sn\09 - Using Special Folders\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\09 - Using Special Folders_Sn\09 - Using Special Folders\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\09 - Using Special Folders_Sn\09 - Using Special Folders\obj\Debug\09 - Using Special Folders_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\09 - Using Special Folders_Sn\09 - Using Special Folders\obj\Debug\09 - Using Special Folders_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\09 - Using Special Folders_Sn\09 - Using Special Folders\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\09 - Using Special Folders_Sn\09 - Using Special Folders\obj\Debug\09 - Using Special Folders.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\09 - Using Special Folders_Sn\09 - Using Special Folders\obj\Debug\_09___Using_Special_Folders.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\09 - Using Special Folders_Sn\09 - Using Special Folders\obj\Debug\09 - Using Special Folders.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\09 - Using Special Folders_Sn\09 - Using Special Folders\obj\Debug\09 - Using Special Folders.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\09 - Using Special Folders_Sn\09 - Using Special Folders\obj\Debug\09 - Using Special Folders.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\09 - Using Special Folders_Sn\09 - Using Special Folders\obj\Debug\09 - Using Special Folders.pdb

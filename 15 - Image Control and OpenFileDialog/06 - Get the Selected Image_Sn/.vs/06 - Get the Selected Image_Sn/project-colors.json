@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b53df27f-9402-4d67-8564-1ee1543aff52": {
+      "ProjectGuid": "b53df27f-9402-4d67-8564-1ee1543aff52",
+      "DisplayName": "06 - Get the Selected Image",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

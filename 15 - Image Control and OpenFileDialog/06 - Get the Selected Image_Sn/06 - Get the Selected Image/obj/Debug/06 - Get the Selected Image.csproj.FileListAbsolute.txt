@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\06 - Get the Selected Image_Sn\06 - Get the Selected Image\bin\Debug\06 - Get the Selected Image.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\06 - Get the Selected Image_Sn\06 - Get the Selected Image\bin\Debug\06 - Get the Selected Image.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\06 - Get the Selected Image_Sn\06 - Get the Selected Image\bin\Debug\06 - Get the Selected Image.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\06 - Get the Selected Image_Sn\06 - Get the Selected Image\obj\Debug\06 - Get the Selected Image.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\06 - Get the Selected Image_Sn\06 - Get the Selected Image\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\06 - Get the Selected Image_Sn\06 - Get the Selected Image\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\06 - Get the Selected Image_Sn\06 - Get the Selected Image\obj\Debug\06 - Get the Selected Image_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\06 - Get the Selected Image_Sn\06 - Get the Selected Image\obj\Debug\06 - Get the Selected Image_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\06 - Get the Selected Image_Sn\06 - Get the Selected Image\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\06 - Get the Selected Image_Sn\06 - Get the Selected Image\obj\Debug\06 - Get the Selected Image.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\06 - Get the Selected Image_Sn\06 - Get the Selected Image\obj\Debug\_06___Get_the_Selected_Image.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\06 - Get the Selected Image_Sn\06 - Get the Selected Image\obj\Debug\06 - Get the Selected Image.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\06 - Get the Selected Image_Sn\06 - Get the Selected Image\obj\Debug\06 - Get the Selected Image.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\06 - Get the Selected Image_Sn\06 - Get the Selected Image\obj\Debug\06 - Get the Selected Image.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\06 - Get the Selected Image_Sn\06 - Get the Selected Image\obj\Debug\06 - Get the Selected Image.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\06 - Get the Selected Image_Sn\06 - Get the Selected Image\obj\Debug\06 - Get the Selected Image.csproj.AssemblyReference.cache

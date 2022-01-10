@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "92418cd1-7188-4b48-86ea-a4044b00baa9": {
+      "ProjectGuid": "92418cd1-7188-4b48-86ea-a4044b00baa9",
+      "DisplayName": "03 - Load Image by Code",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

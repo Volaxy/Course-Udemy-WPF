@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\05 -  Using OpenFileDialouge_Sn\05 -  Using OpenFileDialouge\bin\Debug\05 -  Using OpenFileDialouge.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\05 -  Using OpenFileDialouge_Sn\05 -  Using OpenFileDialouge\bin\Debug\05 -  Using OpenFileDialouge.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\05 -  Using OpenFileDialouge_Sn\05 -  Using OpenFileDialouge\bin\Debug\05 -  Using OpenFileDialouge.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\05 -  Using OpenFileDialouge_Sn\05 -  Using OpenFileDialouge\obj\Debug\05 -  Using OpenFileDialouge.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\05 -  Using OpenFileDialouge_Sn\05 -  Using OpenFileDialouge\obj\Debug\05 -  Using OpenFileDialouge.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\05 -  Using OpenFileDialouge_Sn\05 -  Using OpenFileDialouge\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\05 -  Using OpenFileDialouge_Sn\05 -  Using OpenFileDialouge\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\05 -  Using OpenFileDialouge_Sn\05 -  Using OpenFileDialouge\obj\Debug\05 -  Using OpenFileDialouge_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\05 -  Using OpenFileDialouge_Sn\05 -  Using OpenFileDialouge\obj\Debug\05 -  Using OpenFileDialouge_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\05 -  Using OpenFileDialouge_Sn\05 -  Using OpenFileDialouge\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\05 -  Using OpenFileDialouge_Sn\05 -  Using OpenFileDialouge\obj\Debug\05 -  Using OpenFileDialouge.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\05 -  Using OpenFileDialouge_Sn\05 -  Using OpenFileDialouge\obj\Debug\_05____Using_OpenFileDialouge.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\05 -  Using OpenFileDialouge_Sn\05 -  Using OpenFileDialouge\obj\Debug\05 -  Using OpenFileDialouge.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\05 -  Using OpenFileDialouge_Sn\05 -  Using OpenFileDialouge\obj\Debug\05 -  Using OpenFileDialouge.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\05 -  Using OpenFileDialouge_Sn\05 -  Using OpenFileDialouge\obj\Debug\05 -  Using OpenFileDialouge.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\05 -  Using OpenFileDialouge_Sn\05 -  Using OpenFileDialouge\obj\Debug\05 -  Using OpenFileDialouge.pdb

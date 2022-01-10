@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\04 - Change Stretch with Code_Sn\04 - Change Stretch with Code\bin\Debug\04 - Change Stretch with Code.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\04 - Change Stretch with Code_Sn\04 - Change Stretch with Code\bin\Debug\04 - Change Stretch with Code.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\04 - Change Stretch with Code_Sn\04 - Change Stretch with Code\bin\Debug\04 - Change Stretch with Code.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\04 - Change Stretch with Code_Sn\04 - Change Stretch with Code\obj\Debug\04 - Change Stretch with Code.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\04 - Change Stretch with Code_Sn\04 - Change Stretch with Code\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\04 - Change Stretch with Code_Sn\04 - Change Stretch with Code\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\04 - Change Stretch with Code_Sn\04 - Change Stretch with Code\obj\Debug\04 - Change Stretch with Code_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\04 - Change Stretch with Code_Sn\04 - Change Stretch with Code\obj\Debug\04 - Change Stretch with Code_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\04 - Change Stretch with Code_Sn\04 - Change Stretch with Code\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\04 - Change Stretch with Code_Sn\04 - Change Stretch with Code\obj\Debug\04 - Change Stretch with Code.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\04 - Change Stretch with Code_Sn\04 - Change Stretch with Code\obj\Debug\_04___Change_Stretch_with_Code.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\04 - Change Stretch with Code_Sn\04 - Change Stretch with Code\obj\Debug\04 - Change Stretch with Code.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\04 - Change Stretch with Code_Sn\04 - Change Stretch with Code\obj\Debug\04 - Change Stretch with Code.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\04 - Change Stretch with Code_Sn\04 - Change Stretch with Code\obj\Debug\04 - Change Stretch with Code.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\15 - Image Control and OpenFileDialog\04 - Change Stretch with Code_Sn\04 - Change Stretch with Code\obj\Debug\04 - Change Stretch with Code.pdb

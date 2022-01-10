@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "033e486a-ec7e-441a-bc36-45be152dc617": {
+      "ProjectGuid": "033e486a-ec7e-441a-bc36-45be152dc617",
+      "DisplayName": "01 - Design Info Window",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

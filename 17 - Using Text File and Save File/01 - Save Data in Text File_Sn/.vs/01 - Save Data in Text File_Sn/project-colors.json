@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f549942a-a64d-4380-b893-4e1b837d0ff0": {
+      "ProjectGuid": "f549942a-a64d-4380-b893-4e1b837d0ff0",
+      "DisplayName": "01 - Save Data in Text File",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

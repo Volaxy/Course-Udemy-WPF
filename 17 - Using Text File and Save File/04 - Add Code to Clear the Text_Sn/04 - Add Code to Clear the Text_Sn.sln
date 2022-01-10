@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 - Add Code to Clear the Text", "04 - Add Code to Clear the Text\04 - Add Code to Clear the Text.csproj", "{D2C1B8C8-645A-4711-913C-1FD69E9C8247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2C1B8C8-645A-4711-913C-1FD69E9C8247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C1B8C8-645A-4711-913C-1FD69E9C8247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C1B8C8-645A-4711-913C-1FD69E9C8247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C1B8C8-645A-4711-913C-1FD69E9C8247}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9177FD7-A758-48A1-889E-B8662B4A680F}
+	EndGlobalSection
+EndGlobal

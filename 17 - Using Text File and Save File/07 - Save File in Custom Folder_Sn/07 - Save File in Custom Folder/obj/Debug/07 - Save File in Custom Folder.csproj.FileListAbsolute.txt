@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\07 - Save File in Custom Folder_Sn\07 - Save File in Custom Folder\bin\Debug\07 - Save File in Custom Folder.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\07 - Save File in Custom Folder_Sn\07 - Save File in Custom Folder\bin\Debug\07 - Save File in Custom Folder.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\07 - Save File in Custom Folder_Sn\07 - Save File in Custom Folder\bin\Debug\07 - Save File in Custom Folder.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\07 - Save File in Custom Folder_Sn\07 - Save File in Custom Folder\obj\Debug\07 - Save File in Custom Folder.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\07 - Save File in Custom Folder_Sn\07 - Save File in Custom Folder\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\07 - Save File in Custom Folder_Sn\07 - Save File in Custom Folder\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\07 - Save File in Custom Folder_Sn\07 - Save File in Custom Folder\obj\Debug\07 - Save File in Custom Folder_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\07 - Save File in Custom Folder_Sn\07 - Save File in Custom Folder\obj\Debug\07 - Save File in Custom Folder_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\07 - Save File in Custom Folder_Sn\07 - Save File in Custom Folder\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\07 - Save File in Custom Folder_Sn\07 - Save File in Custom Folder\obj\Debug\07 - Save File in Custom Folder.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\07 - Save File in Custom Folder_Sn\07 - Save File in Custom Folder\obj\Debug\_07___Save_File_in_Custom_Folder.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\07 - Save File in Custom Folder_Sn\07 - Save File in Custom Folder\obj\Debug\07 - Save File in Custom Folder.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\07 - Save File in Custom Folder_Sn\07 - Save File in Custom Folder\obj\Debug\07 - Save File in Custom Folder.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\07 - Save File in Custom Folder_Sn\07 - Save File in Custom Folder\obj\Debug\07 - Save File in Custom Folder.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\07 - Save File in Custom Folder_Sn\07 - Save File in Custom Folder\obj\Debug\07 - Save File in Custom Folder.pdb

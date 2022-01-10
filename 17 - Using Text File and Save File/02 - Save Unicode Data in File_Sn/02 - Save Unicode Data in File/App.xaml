@@ -1,0 +1,9 @@
+﻿<Application x:Class="_02___Save_Unicode_Data_in_File.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_02___Save_Unicode_Data_in_File"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

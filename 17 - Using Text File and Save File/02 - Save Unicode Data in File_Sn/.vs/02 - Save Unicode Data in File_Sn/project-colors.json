@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b7a5eeb3-5ed9-456e-84a6-f9bd39d93bc6": {
+      "ProjectGuid": "b7a5eeb3-5ed9-456e-84a6-f9bd39d93bc6",
+      "DisplayName": "02 - Save Unicode Data in File",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

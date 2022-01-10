@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\04 - Add Code to Clear the Text_Sn\04 - Add Code to Clear the Text\bin\Debug\04 - Add Code to Clear the Text.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\04 - Add Code to Clear the Text_Sn\04 - Add Code to Clear the Text\bin\Debug\04 - Add Code to Clear the Text.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\04 - Add Code to Clear the Text_Sn\04 - Add Code to Clear the Text\bin\Debug\04 - Add Code to Clear the Text.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\04 - Add Code to Clear the Text_Sn\04 - Add Code to Clear the Text\obj\Debug\04 - Add Code to Clear the Text.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\04 - Add Code to Clear the Text_Sn\04 - Add Code to Clear the Text\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\04 - Add Code to Clear the Text_Sn\04 - Add Code to Clear the Text\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\04 - Add Code to Clear the Text_Sn\04 - Add Code to Clear the Text\obj\Debug\04 - Add Code to Clear the Text_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\04 - Add Code to Clear the Text_Sn\04 - Add Code to Clear the Text\obj\Debug\04 - Add Code to Clear the Text_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\04 - Add Code to Clear the Text_Sn\04 - Add Code to Clear the Text\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\04 - Add Code to Clear the Text_Sn\04 - Add Code to Clear the Text\obj\Debug\04 - Add Code to Clear the Text.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\04 - Add Code to Clear the Text_Sn\04 - Add Code to Clear the Text\obj\Debug\_04___Add_Code_to_Clear_the_Text.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\04 - Add Code to Clear the Text_Sn\04 - Add Code to Clear the Text\obj\Debug\04 - Add Code to Clear the Text.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\04 - Add Code to Clear the Text_Sn\04 - Add Code to Clear the Text\obj\Debug\04 - Add Code to Clear the Text.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\04 - Add Code to Clear the Text_Sn\04 - Add Code to Clear the Text\obj\Debug\04 - Add Code to Clear the Text.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\04 - Add Code to Clear the Text_Sn\04 - Add Code to Clear the Text\obj\Debug\04 - Add Code to Clear the Text.pdb

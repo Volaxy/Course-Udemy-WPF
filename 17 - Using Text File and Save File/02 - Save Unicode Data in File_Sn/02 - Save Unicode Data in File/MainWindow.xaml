@@ -1,0 +1,14 @@
+﻿<Window x:Class="_02___Save_Unicode_Data_in_File.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_02___Save_Unicode_Data_in_File"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="300" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBox x:Name="textTextBox" HorizontalAlignment="Center" TextWrapping="Wrap" Text="TextBox" Width="256" Margin="0,74,0,23" VerticalScrollBarVisibility="Auto" AcceptsReturn="True"/>
+        <Button x:Name="saveButton" Content="Save in Text" HorizontalAlignment="Left" Margin="22,19,0,0" Width="71" Click="saveButton_Click" Height="25" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

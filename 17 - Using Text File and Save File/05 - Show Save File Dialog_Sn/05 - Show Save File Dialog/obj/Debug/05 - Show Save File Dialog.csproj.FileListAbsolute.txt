@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\05 - Show Save File Dialog_Sn\05 - Show Save File Dialog\bin\Debug\05 - Show Save File Dialog.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\05 - Show Save File Dialog_Sn\05 - Show Save File Dialog\bin\Debug\05 - Show Save File Dialog.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\05 - Show Save File Dialog_Sn\05 - Show Save File Dialog\bin\Debug\05 - Show Save File Dialog.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\05 - Show Save File Dialog_Sn\05 - Show Save File Dialog\obj\Debug\05 - Show Save File Dialog.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\05 - Show Save File Dialog_Sn\05 - Show Save File Dialog\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\05 - Show Save File Dialog_Sn\05 - Show Save File Dialog\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\05 - Show Save File Dialog_Sn\05 - Show Save File Dialog\obj\Debug\05 - Show Save File Dialog_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\05 - Show Save File Dialog_Sn\05 - Show Save File Dialog\obj\Debug\05 - Show Save File Dialog_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\05 - Show Save File Dialog_Sn\05 - Show Save File Dialog\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\05 - Show Save File Dialog_Sn\05 - Show Save File Dialog\obj\Debug\05 - Show Save File Dialog.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\05 - Show Save File Dialog_Sn\05 - Show Save File Dialog\obj\Debug\_05___Show_Save_File_Dialog.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\05 - Show Save File Dialog_Sn\05 - Show Save File Dialog\obj\Debug\05 - Show Save File Dialog.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\05 - Show Save File Dialog_Sn\05 - Show Save File Dialog\obj\Debug\05 - Show Save File Dialog.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\05 - Show Save File Dialog_Sn\05 - Show Save File Dialog\obj\Debug\05 - Show Save File Dialog.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\05 - Show Save File Dialog_Sn\05 - Show Save File Dialog\obj\Debug\05 - Show Save File Dialog.pdb

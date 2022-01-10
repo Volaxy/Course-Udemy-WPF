@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ed76a768-62c9-4ba6-b489-69d6124f79fc": {
+      "ProjectGuid": "ed76a768-62c9-4ba6-b489-69d6124f79fc",
+      "DisplayName": "03 - Load Content of a Text File",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

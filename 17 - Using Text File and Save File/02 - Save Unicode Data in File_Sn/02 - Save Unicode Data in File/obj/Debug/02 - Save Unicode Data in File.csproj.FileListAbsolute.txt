@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\02 - Save Unicode Data in File_Sn\02 - Save Unicode Data in File\bin\Debug\02 - Save Unicode Data in File.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\02 - Save Unicode Data in File_Sn\02 - Save Unicode Data in File\bin\Debug\02 - Save Unicode Data in File.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\02 - Save Unicode Data in File_Sn\02 - Save Unicode Data in File\bin\Debug\02 - Save Unicode Data in File.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\02 - Save Unicode Data in File_Sn\02 - Save Unicode Data in File\obj\Debug\02 - Save Unicode Data in File.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\02 - Save Unicode Data in File_Sn\02 - Save Unicode Data in File\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\02 - Save Unicode Data in File_Sn\02 - Save Unicode Data in File\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\02 - Save Unicode Data in File_Sn\02 - Save Unicode Data in File\obj\Debug\02 - Save Unicode Data in File_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\02 - Save Unicode Data in File_Sn\02 - Save Unicode Data in File\obj\Debug\02 - Save Unicode Data in File_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\02 - Save Unicode Data in File_Sn\02 - Save Unicode Data in File\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\02 - Save Unicode Data in File_Sn\02 - Save Unicode Data in File\obj\Debug\02 - Save Unicode Data in File.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\02 - Save Unicode Data in File_Sn\02 - Save Unicode Data in File\obj\Debug\_02___Save_Unicode_Data_in_File.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\02 - Save Unicode Data in File_Sn\02 - Save Unicode Data in File\obj\Debug\02 - Save Unicode Data in File.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\02 - Save Unicode Data in File_Sn\02 - Save Unicode Data in File\obj\Debug\02 - Save Unicode Data in File.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\02 - Save Unicode Data in File_Sn\02 - Save Unicode Data in File\obj\Debug\02 - Save Unicode Data in File.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\17 - Using Text File and Save File\02 - Save Unicode Data in File_Sn\02 - Save Unicode Data in File\obj\Debug\02 - Save Unicode Data in File.pdb

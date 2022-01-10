@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\03 - Code to Close the Application_Sn\03 - Code to Close the Application\bin\Debug\03 - Code to Close the Application.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\03 - Code to Close the Application_Sn\03 - Code to Close the Application\bin\Debug\03 - Code to Close the Application.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\03 - Code to Close the Application_Sn\03 - Code to Close the Application\bin\Debug\03 - Code to Close the Application.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\03 - Code to Close the Application_Sn\03 - Code to Close the Application\obj\Debug\03 - Code to Close the Application.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\03 - Code to Close the Application_Sn\03 - Code to Close the Application\obj\Debug\03 - Code to Close the Application.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\03 - Code to Close the Application_Sn\03 - Code to Close the Application\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\03 - Code to Close the Application_Sn\03 - Code to Close the Application\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\03 - Code to Close the Application_Sn\03 - Code to Close the Application\obj\Debug\03 - Code to Close the Application_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\03 - Code to Close the Application_Sn\03 - Code to Close the Application\obj\Debug\03 - Code to Close the Application_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\03 - Code to Close the Application_Sn\03 - Code to Close the Application\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\03 - Code to Close the Application_Sn\03 - Code to Close the Application\obj\Debug\03 - Code to Close the Application.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\03 - Code to Close the Application_Sn\03 - Code to Close the Application\obj\Debug\_03___Code_to_Close_the_Application.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\03 - Code to Close the Application_Sn\03 - Code to Close the Application\obj\Debug\03 - Code to Close the Application.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\03 - Code to Close the Application_Sn\03 - Code to Close the Application\obj\Debug\03 - Code to Close the Application.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\03 - Code to Close the Application_Sn\03 - Code to Close the Application\obj\Debug\03 - Code to Close the Application.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\03 - Code to Close the Application_Sn\03 - Code to Close the Application\obj\Debug\03 - Code to Close the Application.pdb

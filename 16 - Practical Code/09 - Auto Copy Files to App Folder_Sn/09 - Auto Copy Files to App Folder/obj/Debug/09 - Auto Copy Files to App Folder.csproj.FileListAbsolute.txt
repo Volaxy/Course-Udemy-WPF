@@ -1,0 +1,19 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\09 - Auto Copy Files to App Folder_Sn\09 - Auto Copy Files to App Folder\bin\Debug\09 - Auto Copy Files to App Folder.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\09 - Auto Copy Files to App Folder_Sn\09 - Auto Copy Files to App Folder\bin\Debug\09 - Auto Copy Files to App Folder.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\09 - Auto Copy Files to App Folder_Sn\09 - Auto Copy Files to App Folder\bin\Debug\09 - Auto Copy Files to App Folder.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\09 - Auto Copy Files to App Folder_Sn\09 - Auto Copy Files to App Folder\obj\Debug\09 - Auto Copy Files to App Folder.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\09 - Auto Copy Files to App Folder_Sn\09 - Auto Copy Files to App Folder\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\09 - Auto Copy Files to App Folder_Sn\09 - Auto Copy Files to App Folder\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\09 - Auto Copy Files to App Folder_Sn\09 - Auto Copy Files to App Folder\obj\Debug\09 - Auto Copy Files to App Folder_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\09 - Auto Copy Files to App Folder_Sn\09 - Auto Copy Files to App Folder\obj\Debug\09 - Auto Copy Files to App Folder_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\09 - Auto Copy Files to App Folder_Sn\09 - Auto Copy Files to App Folder\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\09 - Auto Copy Files to App Folder_Sn\09 - Auto Copy Files to App Folder\obj\Debug\09 - Auto Copy Files to App Folder.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\09 - Auto Copy Files to App Folder_Sn\09 - Auto Copy Files to App Folder\obj\Debug\_09___Auto_Copy_Files_to_App_Folder.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\09 - Auto Copy Files to App Folder_Sn\09 - Auto Copy Files to App Folder\obj\Debug\09 - Auto Copy Files to App Folder.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\09 - Auto Copy Files to App Folder_Sn\09 - Auto Copy Files to App Folder\obj\Debug\09 - Auto Copy Files to App Folder.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\09 - Auto Copy Files to App Folder_Sn\09 - Auto Copy Files to App Folder\obj\Debug\09 - Auto Copy Files to App Folder.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\09 - Auto Copy Files to App Folder_Sn\09 - Auto Copy Files to App Folder\obj\Debug\09 - Auto Copy Files to App Folder.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\09 - Auto Copy Files to App Folder_Sn\09 - Auto Copy Files to App Folder\bin\Debug\MyPics\koala_resized.jpg
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\09 - Auto Copy Files to App Folder_Sn\09 - Auto Copy Files to App Folder\bin\Debug\MyPics\me.jpg
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\09 - Auto Copy Files to App Folder_Sn\09 - Auto Copy Files to App Folder\bin\Debug\MyPics\mm.jpg
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\09 - Auto Copy Files to App Folder_Sn\09 - Auto Copy Files to App Folder\bin\Debug\MyPics\v.jpg

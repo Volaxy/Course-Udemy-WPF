@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "587aef8a-51eb-42f8-a6a6-187c8329c84f": {
+      "ProjectGuid": "587aef8a-51eb-42f8-a6a6-187c8329c84f",
+      "DisplayName": "09 - Auto Copy Files to App Folder",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

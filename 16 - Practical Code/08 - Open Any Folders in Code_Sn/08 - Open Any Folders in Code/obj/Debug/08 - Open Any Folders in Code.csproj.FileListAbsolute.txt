@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\08 - Open Any Folders in Code_Sn\08 - Open Any Folders in Code\bin\Debug\08 - Open Any Folders in Code.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\08 - Open Any Folders in Code_Sn\08 - Open Any Folders in Code\bin\Debug\08 - Open Any Folders in Code.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\08 - Open Any Folders in Code_Sn\08 - Open Any Folders in Code\bin\Debug\08 - Open Any Folders in Code.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\08 - Open Any Folders in Code_Sn\08 - Open Any Folders in Code\obj\Debug\08 - Open Any Folders in Code.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\08 - Open Any Folders in Code_Sn\08 - Open Any Folders in Code\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\08 - Open Any Folders in Code_Sn\08 - Open Any Folders in Code\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\08 - Open Any Folders in Code_Sn\08 - Open Any Folders in Code\obj\Debug\08 - Open Any Folders in Code_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\08 - Open Any Folders in Code_Sn\08 - Open Any Folders in Code\obj\Debug\08 - Open Any Folders in Code_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\08 - Open Any Folders in Code_Sn\08 - Open Any Folders in Code\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\08 - Open Any Folders in Code_Sn\08 - Open Any Folders in Code\obj\Debug\08 - Open Any Folders in Code.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\08 - Open Any Folders in Code_Sn\08 - Open Any Folders in Code\obj\Debug\_08___Open_Any_Folders_in_Code.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\08 - Open Any Folders in Code_Sn\08 - Open Any Folders in Code\obj\Debug\08 - Open Any Folders in Code.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\08 - Open Any Folders in Code_Sn\08 - Open Any Folders in Code\obj\Debug\08 - Open Any Folders in Code.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\08 - Open Any Folders in Code_Sn\08 - Open Any Folders in Code\obj\Debug\08 - Open Any Folders in Code.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\08 - Open Any Folders in Code_Sn\08 - Open Any Folders in Code\obj\Debug\08 - Open Any Folders in Code.pdb

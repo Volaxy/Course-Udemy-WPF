@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\06 - Run External App by Code_Sn\06 - Run External App by Code\bin\Debug\06 - Run External App by Code.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\06 - Run External App by Code_Sn\06 - Run External App by Code\bin\Debug\06 - Run External App by Code.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\06 - Run External App by Code_Sn\06 - Run External App by Code\bin\Debug\06 - Run External App by Code.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\06 - Run External App by Code_Sn\06 - Run External App by Code\obj\Debug\06 - Run External App by Code.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\06 - Run External App by Code_Sn\06 - Run External App by Code\obj\Debug\06 - Run External App by Code.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\06 - Run External App by Code_Sn\06 - Run External App by Code\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\06 - Run External App by Code_Sn\06 - Run External App by Code\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\06 - Run External App by Code_Sn\06 - Run External App by Code\obj\Debug\06 - Run External App by Code_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\06 - Run External App by Code_Sn\06 - Run External App by Code\obj\Debug\06 - Run External App by Code_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\06 - Run External App by Code_Sn\06 - Run External App by Code\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\06 - Run External App by Code_Sn\06 - Run External App by Code\obj\Debug\06 - Run External App by Code.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\06 - Run External App by Code_Sn\06 - Run External App by Code\obj\Debug\_06___Run_External_App_by_Code.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\06 - Run External App by Code_Sn\06 - Run External App by Code\obj\Debug\06 - Run External App by Code.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\06 - Run External App by Code_Sn\06 - Run External App by Code\obj\Debug\06 - Run External App by Code.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\06 - Run External App by Code_Sn\06 - Run External App by Code\obj\Debug\06 - Run External App by Code.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\16 - Practical Code\06 - Run External App by Code_Sn\06 - Run External App by Code\obj\Debug\06 - Run External App by Code.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c040f066-248d-4d80-b672-8c16b6d80846": {
+      "ProjectGuid": "c040f066-248d-4d80-b672-8c16b6d80846",
+      "DisplayName": "04 - Get the WPF App Folder by Code",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

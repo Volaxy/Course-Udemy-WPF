@@ -56,5 +56,20 @@ namespace _01___Design_to_Work_with_TextBox
         {
             this.mainTextBox.Redo();
         }
+
+        private void copyButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.mainTextBox.Copy();
+        }
+
+        private void cutButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.mainTextBox.Cut();
+        }
+
+        private void pasteButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.mainTextBox.Paste();
+        }
     }
 }

@@ -27,6 +27,22 @@ namespace _01___Design_Info_Window
 
         private void saveChangesButton_Click(object sender, RoutedEventArgs e)
         {
+            if (this.idTextBox.Text == "")
+            {
+                MessageBox.Show("The Id is Empty", "Alert");
+                return;
+            }
+            if (this.firstNameTextBox.Text == "")
+            {
+                MessageBox.Show("The First Name is Empty", "Alert");
+                return;
+            }
+            if (this.lastNameTextBox.Text == "")
+            {
+                MessageBox.Show("The Last Name is Empty", "Alert");
+                return;
+            }
+
             System.IO.File.WriteAllText("D:\\WS\\Visual Studio 2021\\C# com Visual Studio\\Udemy\\WPF\\18 - Project - Customer Info\\01 - Design Info Window_Sn\\01 - Design Info Window\\" + this.idTextBox.Text + "_info.txt", this.firstNameTextBox.Text + " " + this.lastNameTextBox.Text, Encoding.UTF8);
 
             MessageBox.Show("Done!", "Alert");

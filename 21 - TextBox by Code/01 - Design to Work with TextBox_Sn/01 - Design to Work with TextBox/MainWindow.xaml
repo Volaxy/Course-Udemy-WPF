@@ -1,0 +1,27 @@
+﻿<Window x:Class="_01___Design_to_Work_with_TextBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_01___Design_to_Work_with_TextBox"
+        mc:Ignorable="d"
+        Title="TextBox" Height="283" Width="639" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFAE1FF3"/>
+            <GradientStop Color="#FF5DE7F9" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid>
+        <TextBox Margin="30,0,28,23" TextWrapping="Wrap" Text="TextBox" Height="170" VerticalAlignment="Bottom" AcceptsReturn="True" VerticalScrollBarVisibility="Auto"/>
+        <Button Content="Zoom +" HorizontalAlignment="Left" Margin="30,19,0,0" VerticalAlignment="Top" Width="60" Height="20"/>
+        <Button Content="Zoom -" HorizontalAlignment="Left" Margin="100,19,0,0" VerticalAlignment="Top" Width="60" Height="20"/>
+        <Button Content="Select All" HorizontalAlignment="Left" Margin="185,19,0,0" VerticalAlignment="Top" Width="60" Height="20"/>
+        <Button Content="Undo" HorizontalAlignment="Left" Margin="270,19,0,0" VerticalAlignment="Top" Width="60" Height="20"/>
+        <Button Content="Redo" HorizontalAlignment="Left" Margin="334,19,0,0" VerticalAlignment="Top" Width="60" Height="20"/>
+        <Button Content="Copy" HorizontalAlignment="Left" Margin="410,19,0,0" VerticalAlignment="Top" Width="60" Height="20"/>
+        <Button Content="Cut" HorizontalAlignment="Left" Margin="475,19,0,0" VerticalAlignment="Top" Width="60" Height="20"/>
+        <Button Content="Paste" HorizontalAlignment="Left" Margin="551,19,0,0" VerticalAlignment="Top" Width="60" Height="20"/>
+
+    </Grid>
+</Window>

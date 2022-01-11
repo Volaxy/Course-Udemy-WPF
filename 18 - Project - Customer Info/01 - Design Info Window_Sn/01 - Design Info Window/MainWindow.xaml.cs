@@ -69,5 +69,14 @@ namespace _01___Design_Info_Window
 
             this.lastNameTextBox.Text = System.IO.File.ReadAllText(System.AppDomain.CurrentDomain.BaseDirectory + "\\data\\" + this.searchIdTextBox.Text + "_info_Ln.txt", Encoding.UTF8);
         }
+
+        private void newCustomerButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.idTextBox.Text = "";
+            this.firstNameTextBox.Text = "";
+            this.lastNameTextBox.Text = "";
+
+            this.idTextBox.Focus();
+        }
     }
 }

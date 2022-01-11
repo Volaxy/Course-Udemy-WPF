@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_01___Design_to_Work_with_TextBox"
         mc:Ignorable="d"
-        Title="TextBox" Height="283" Width="639" WindowStartupLocation="CenterScreen">
+        Title="TextBox" Height="329" Width="774" WindowStartupLocation="CenterScreen">
     <Window.Background>
         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
             <GradientStop Color="#FFAE1FF3"/>
@@ -13,7 +13,7 @@
         </LinearGradientBrush>
     </Window.Background>
     <Grid>
-        <TextBox x:Name="mainTextBox" Margin="30,0,28,23" TextWrapping="Wrap" Text="TextBox" Height="170" VerticalAlignment="Bottom" AcceptsReturn="True" VerticalScrollBarVisibility="Auto"/>
+        <TextBox x:Name="mainTextBox" Margin="30,0,28,23" TextWrapping="Wrap" Text="TextBox" Height="170" VerticalAlignment="Bottom" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto"/>
         <Button x:Name="zoomInButton" Content="Zoom +" HorizontalAlignment="Left" Margin="30,19,0,0" VerticalAlignment="Top" Width="60" Height="20" Click="zoomInButton_Click"/>
         <Button x:Name="zoomOutButton" Content="Zoom -" HorizontalAlignment="Left" Margin="100,19,0,0" VerticalAlignment="Top" Width="60" Height="20" Click="zoomOutButton_Click"/>
         <Button x:Name="selectAllButton" Content="Select All" HorizontalAlignment="Left" Margin="185,19,0,0" VerticalAlignment="Top" Width="60" Height="20" Click="selectAllButton_Click"/>
@@ -22,6 +22,8 @@
         <Button x:Name="copyButton" Content="Copy" HorizontalAlignment="Left" Margin="410,19,0,0" VerticalAlignment="Top" Width="60" Height="20" Click="copyButton_Click"/>
         <Button x:Name="cutButton" Content="Cut" HorizontalAlignment="Left" Margin="475,19,0,0" VerticalAlignment="Top" Width="60" Height="20" Click="cutButton_Click"/>
         <Button x:Name="pasteButton" Content="Paste" HorizontalAlignment="Left" Margin="551,19,0,0" VerticalAlignment="Top" Width="60" Height="20" Click="pasteButton_Click"/>
+        <Button Content="Enable Word Wrap" HorizontalAlignment="Left" Margin="635,19,0,0" VerticalAlignment="Top" Width="111" Click="Button_Click"/>
+        <Button Content="Disable Word Wrap" HorizontalAlignment="Left" Margin="635,44,0,0" VerticalAlignment="Top" Width="111" Click="Button_Click_1"/>
 
     </Grid>
 </Window>

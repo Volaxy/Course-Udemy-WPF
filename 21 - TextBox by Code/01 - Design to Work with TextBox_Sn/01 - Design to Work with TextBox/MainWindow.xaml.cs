@@ -71,5 +71,17 @@ namespace _01___Design_to_Work_with_TextBox
         {
             this.mainTextBox.Paste();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            this.mainTextBox.HorizontalScrollBarVisibility = ScrollBarVisibility.Disabled;
+            this.mainTextBox.TextWrapping = TextWrapping.Wrap;
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            this.mainTextBox.HorizontalScrollBarVisibility = ScrollBarVisibility.Auto;
+            this.mainTextBox.TextWrapping = TextWrapping.NoWrap;
+        }
     }
 }

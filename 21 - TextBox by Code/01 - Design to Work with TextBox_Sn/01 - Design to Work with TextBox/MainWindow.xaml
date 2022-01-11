@@ -13,9 +13,9 @@
         </LinearGradientBrush>
     </Window.Background>
     <Grid>
-        <TextBox Margin="30,0,28,23" TextWrapping="Wrap" Text="TextBox" Height="170" VerticalAlignment="Bottom" AcceptsReturn="True" VerticalScrollBarVisibility="Auto"/>
-        <Button Content="Zoom +" HorizontalAlignment="Left" Margin="30,19,0,0" VerticalAlignment="Top" Width="60" Height="20"/>
-        <Button Content="Zoom -" HorizontalAlignment="Left" Margin="100,19,0,0" VerticalAlignment="Top" Width="60" Height="20"/>
+        <TextBox x:Name="mainTextBox" Margin="30,0,28,23" TextWrapping="Wrap" Text="TextBox" Height="170" VerticalAlignment="Bottom" AcceptsReturn="True" VerticalScrollBarVisibility="Auto"/>
+        <Button x:Name="zoomInButton" Content="Zoom +" HorizontalAlignment="Left" Margin="30,19,0,0" VerticalAlignment="Top" Width="60" Height="20" Click="zoomInButton_Click"/>
+        <Button x:Name="zoomOutButton" Content="Zoom -" HorizontalAlignment="Left" Margin="100,19,0,0" VerticalAlignment="Top" Width="60" Height="20" Click="zoomOutButton_Click"/>
         <Button Content="Select All" HorizontalAlignment="Left" Margin="185,19,0,0" VerticalAlignment="Top" Width="60" Height="20"/>
         <Button Content="Undo" HorizontalAlignment="Left" Margin="270,19,0,0" VerticalAlignment="Top" Width="60" Height="20"/>
         <Button Content="Redo" HorizontalAlignment="Left" Margin="334,19,0,0" VerticalAlignment="Top" Width="60" Height="20"/>

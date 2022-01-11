@@ -24,5 +24,21 @@ namespace _01___Design_to_Work_with_TextBox
         {
             InitializeComponent();
         }
+
+        private void zoomInButton_Click(object sender, RoutedEventArgs e)
+        {
+            if(this.mainTextBox.FontSize + 5 < 60)
+            {
+                this.mainTextBox.FontSize = this.mainTextBox.FontSize + 5;
+            }
+        }
+
+        private void zoomOutButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (this.mainTextBox.FontSize - 4 > 8)
+            {
+                this.mainTextBox.FontSize = this.mainTextBox.FontSize - 5;
+            }
+        }
     }
 }

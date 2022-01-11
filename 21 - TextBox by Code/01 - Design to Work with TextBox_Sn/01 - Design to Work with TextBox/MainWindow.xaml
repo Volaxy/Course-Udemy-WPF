@@ -17,8 +17,8 @@
         <Button x:Name="zoomInButton" Content="Zoom +" HorizontalAlignment="Left" Margin="30,19,0,0" VerticalAlignment="Top" Width="60" Height="20" Click="zoomInButton_Click"/>
         <Button x:Name="zoomOutButton" Content="Zoom -" HorizontalAlignment="Left" Margin="100,19,0,0" VerticalAlignment="Top" Width="60" Height="20" Click="zoomOutButton_Click"/>
         <Button x:Name="selectAllButton" Content="Select All" HorizontalAlignment="Left" Margin="185,19,0,0" VerticalAlignment="Top" Width="60" Height="20" Click="selectAllButton_Click"/>
-        <Button Content="Undo" HorizontalAlignment="Left" Margin="270,19,0,0" VerticalAlignment="Top" Width="60" Height="20"/>
-        <Button Content="Redo" HorizontalAlignment="Left" Margin="334,19,0,0" VerticalAlignment="Top" Width="60" Height="20"/>
+        <Button x:Name="undoButton" Content="Undo" HorizontalAlignment="Left" Margin="270,19,0,0" VerticalAlignment="Top" Width="60" Height="20" Click="undoButton_Click"/>
+        <Button x:Name="redoButton" Content="Redo" HorizontalAlignment="Left" Margin="334,19,0,0" VerticalAlignment="Top" Width="60" Height="20" Click="redoButton_Click"/>
         <Button Content="Copy" HorizontalAlignment="Left" Margin="410,19,0,0" VerticalAlignment="Top" Width="60" Height="20"/>
         <Button Content="Cut" HorizontalAlignment="Left" Margin="475,19,0,0" VerticalAlignment="Top" Width="60" Height="20"/>
         <Button Content="Paste" HorizontalAlignment="Left" Margin="551,19,0,0" VerticalAlignment="Top" Width="60" Height="20"/>

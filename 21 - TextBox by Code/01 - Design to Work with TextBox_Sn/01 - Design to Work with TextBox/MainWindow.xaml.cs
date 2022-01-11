@@ -46,5 +46,15 @@ namespace _01___Design_to_Work_with_TextBox
             this.mainTextBox.Focus();
             this.mainTextBox.SelectAll();
         }
+
+        private void undoButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.mainTextBox.Undo();
+        }
+
+        private void redoButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.mainTextBox.Redo();
+        }
     }
 }

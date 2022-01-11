@@ -5,23 +5,22 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_01___Design_Info_Window"
         mc:Ignorable="d"
-        Title="Info Saver in the Text File" Height="260" Width="294" WindowStartupLocation="CenterScreen" Background="#FFCAF9FF">
+        Title="Info Saver in the Text File" Height="350" Width="450" WindowStartupLocation="CenterScreen">
     <Grid>
-        <Grid HorizontalAlignment="Center" Height="125" VerticalAlignment="Bottom" Width="206" Margin="0,0,0,24">
-            <TextBox TextWrapping="Wrap" Width="120" Height="20" VerticalAlignment="Top" Margin="85,3,0,0" HorizontalAlignment="Left"/>
-            <StackPanel Orientation="Vertical" Height="95" VerticalAlignment="Top" HorizontalAlignment="Left">
-                <Label Content="Id" Height="25" Width="70"/>
-                <Label Content="First Name:" Height="25" Width="70"/>
-                <Label Content="Last Name:" Height="25" Width="70"/>
-            </StackPanel>
-            <TextBox HorizontalAlignment="Left" Margin="85,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="20"/>
-            <TextBox HorizontalAlignment="Left" Margin="85,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="20"/>
-            <Button Content="Save Changes" HorizontalAlignment="Left" Margin="85,100,0,0" VerticalAlignment="Top" Height="25" Width="85"/>
+        <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Width="212" Margin="108,118,0,0">
+            <Grid HorizontalAlignment="Left" Height="106" VerticalAlignment="Top" Width="87">
+                <Label Content="Id:" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <Label Content="First Name:" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                <Label Content="Last Name:" HorizontalAlignment="Left" Margin="1,80,0,0" VerticalAlignment="Top"/>
+            </Grid>
+            <TextBox x:Name="lastNameTextBox" HorizontalAlignment="Left" Margin="92,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <TextBox x:Name="firstNameTextBox" HorizontalAlignment="Left" Margin="92,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <TextBox x:Name="idTextBox" HorizontalAlignment="Left" Margin="92,4,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         </Grid>
-        <Grid HorizontalAlignment="Center" Height="26" Margin="0,24,0,0" VerticalAlignment="Top" Width="206" Background="#FFECFFFF">
-            <Label Content="Search by Id:" HorizontalAlignment="Left" VerticalAlignment="Center" Width="76"/>
-            <TextBox HorizontalAlignment="Left" Margin="81,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="50"/>
-            <Button Content="Search Data" HorizontalAlignment="Left" Margin="136,0,0,0" VerticalAlignment="Center" Width="70"/>
-        </Grid>
+        <Button x:Name="saveChangesButton" Content="Save Changes" HorizontalAlignment="Left" Margin="203,241,0,0" VerticalAlignment="Top" Height="20" Width="80"/>
+        <Label Content="Search by Id:" HorizontalAlignment="Left" Margin="108,38,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="191,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="52"/>
+        <Button Content="Search Data" HorizontalAlignment="Left" Margin="248,41,0,0" VerticalAlignment="Top" Width="72"/>
+
     </Grid>
 </Window>

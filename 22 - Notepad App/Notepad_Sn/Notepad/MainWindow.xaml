@@ -5,8 +5,16 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Notepad"
         mc:Ignorable="d"
-        Title="WPF Notepad" Height="350" Width="500" Background="#FFF1F1F1" WindowStartupLocation="CenterScreen">
+        Title="WPF Notepad" Height="350" Width="500" Background="#FFF1F1F1" WindowStartupLocation="CenterScreen" ResizeMode="CanResizeWithGrip">
     <Grid>
-        
+        <TextBox Margin="0,37,0,0" TextWrapping="Wrap" Text="TextBox" VerticalScrollBarVisibility="Visible" AcceptsReturn="True"/>
+        <Menu Height="37" VerticalAlignment="Top" Background="#FFD6D6D6">
+            <MenuItem Header="_File" Height="37" Width="80"/>
+            <MenuItem Header="_Edit" Width="80"/>
+            <MenuItem Header="F_ormat" Width="80"/>
+            <MenuItem Header="_View" Width="80"/>
+            <MenuItem Header="_About" Width="80"/>
+        </Menu>
+
     </Grid>
 </Window>

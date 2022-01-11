@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "03ee0d38-93b3-427d-8623-c61427a4b729": {
+      "ProjectGuid": "03ee0d38-93b3-427d-8623-c61427a4b729",
+      "DisplayName": "02 - Show a Window as Dialog by Code",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

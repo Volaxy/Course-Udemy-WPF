@@ -1,0 +1,18 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\01 - Show new Window by Code_Sn\01 - Show new Window by Code\bin\Debug\01 - Show new Window by Code.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\01 - Show new Window by Code_Sn\01 - Show new Window by Code\bin\Debug\01 - Show new Window by Code.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\01 - Show new Window by Code_Sn\01 - Show new Window by Code\bin\Debug\01 - Show new Window by Code.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\01 - Show new Window by Code_Sn\01 - Show new Window by Code\obj\Debug\01 - Show new Window by Code.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\01 - Show new Window by Code_Sn\01 - Show new Window by Code\obj\Debug\01 - Show new Window by Code.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\01 - Show new Window by Code_Sn\01 - Show new Window by Code\obj\Debug\ChildWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\01 - Show new Window by Code_Sn\01 - Show new Window by Code\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\01 - Show new Window by Code_Sn\01 - Show new Window by Code\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\01 - Show new Window by Code_Sn\01 - Show new Window by Code\obj\Debug\01 - Show new Window by Code_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\01 - Show new Window by Code_Sn\01 - Show new Window by Code\obj\Debug\01 - Show new Window by Code_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\01 - Show new Window by Code_Sn\01 - Show new Window by Code\obj\Debug\ChildWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\01 - Show new Window by Code_Sn\01 - Show new Window by Code\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\01 - Show new Window by Code_Sn\01 - Show new Window by Code\obj\Debug\01 - Show new Window by Code.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\01 - Show new Window by Code_Sn\01 - Show new Window by Code\obj\Debug\_01___Show_new_Window_by_Code.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\01 - Show new Window by Code_Sn\01 - Show new Window by Code\obj\Debug\01 - Show new Window by Code.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\01 - Show new Window by Code_Sn\01 - Show new Window by Code\obj\Debug\01 - Show new Window by Code.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\01 - Show new Window by Code_Sn\01 - Show new Window by Code\obj\Debug\01 - Show new Window by Code.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\01 - Show new Window by Code_Sn\01 - Show new Window by Code\obj\Debug\01 - Show new Window by Code.pdb

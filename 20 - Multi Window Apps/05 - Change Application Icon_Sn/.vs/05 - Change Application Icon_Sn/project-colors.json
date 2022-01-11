@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fb50b898-371a-492b-b163-e8ead349b5fa": {
+      "ProjectGuid": "fb50b898-371a-492b-b163-e8ead349b5fa",
+      "DisplayName": "05 - Change Application Icon",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

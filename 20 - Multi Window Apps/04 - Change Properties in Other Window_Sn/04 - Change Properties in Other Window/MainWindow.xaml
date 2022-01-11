@@ -1,0 +1,13 @@
+﻿<Window x:Class="_04___Change_Properties_in_Other_Window.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_04___Change_Properties_in_Other_Window"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="328" Width="633">
+    <Grid>
+        <Button x:Name="changePropertiesButton" Content="Change Properties" HorizontalAlignment="Center" VerticalAlignment="Center" Height="106" Width="467" FontSize="48" Click="changePropertiesButton_Click"/>
+
+    </Grid>
+</Window>

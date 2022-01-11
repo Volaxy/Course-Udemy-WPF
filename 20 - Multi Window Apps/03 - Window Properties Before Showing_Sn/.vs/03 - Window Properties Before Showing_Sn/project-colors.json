@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9fb70c3d-d436-4741-adb6-bb187a1e11ef": {
+      "ProjectGuid": "9fb70c3d-d436-4741-adb6-bb187a1e11ef",
+      "DisplayName": "03 - Window Properties Before Showing",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a390ae38-a8a9-475d-92f0-98c4e174830a": {
+      "ProjectGuid": "a390ae38-a8a9-475d-92f0-98c4e174830a",
+      "DisplayName": "05 - Add Accelerator Key",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

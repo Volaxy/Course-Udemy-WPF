@@ -1,0 +1,17 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\05 - Change Application Icon_Sn\05 - Change Application Icon\bin\Debug\05 - Change Application Icon.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\05 - Change Application Icon_Sn\05 - Change Application Icon\bin\Debug\05 - Change Application Icon.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\05 - Change Application Icon_Sn\05 - Change Application Icon\bin\Debug\05 - Change Application Icon.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\05 - Change Application Icon_Sn\05 - Change Application Icon\obj\Debug\05 - Change Application Icon.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\05 - Change Application Icon_Sn\05 - Change Application Icon\obj\Debug\ChildWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\05 - Change Application Icon_Sn\05 - Change Application Icon\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\05 - Change Application Icon_Sn\05 - Change Application Icon\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\05 - Change Application Icon_Sn\05 - Change Application Icon\obj\Debug\05 - Change Application Icon_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\05 - Change Application Icon_Sn\05 - Change Application Icon\obj\Debug\05 - Change Application Icon_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\05 - Change Application Icon_Sn\05 - Change Application Icon\obj\Debug\ChildWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\05 - Change Application Icon_Sn\05 - Change Application Icon\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\05 - Change Application Icon_Sn\05 - Change Application Icon\obj\Debug\05 - Change Application Icon.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\05 - Change Application Icon_Sn\05 - Change Application Icon\obj\Debug\_05___Change_Application_Icon.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\05 - Change Application Icon_Sn\05 - Change Application Icon\obj\Debug\05 - Change Application Icon.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\05 - Change Application Icon_Sn\05 - Change Application Icon\obj\Debug\05 - Change Application Icon.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\05 - Change Application Icon_Sn\05 - Change Application Icon\obj\Debug\05 - Change Application Icon.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\20 - Multi Window Apps\05 - Change Application Icon_Sn\05 - Change Application Icon\obj\Debug\05 - Change Application Icon.pdb

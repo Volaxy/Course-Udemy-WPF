@@ -43,11 +43,31 @@ namespace _01___Design_Info_Window
                 return;
             }
 
-            System.IO.File.WriteAllText(System.AppDomain.CurrentDomain.BaseDirectory + "\\data\\" +  this.idTextBox.Text + "_info.txt", 
-                this.firstNameTextBox.Text + " " + this.lastNameTextBox.Text,
+            // Write the First Name
+            System.IO.File.WriteAllText(System.AppDomain.CurrentDomain.BaseDirectory + "\\data\\" + this.idTextBox.Text + "_info_Fn.txt",
+                this.firstNameTextBox.Text,
+                Encoding.UTF8);
+            // Write the Last Name
+            System.IO.File.WriteAllText(System.AppDomain.CurrentDomain.BaseDirectory + "\\data\\" + this.idTextBox.Text + "_info_Ln.txt",
+                this.lastNameTextBox.Text,
                 Encoding.UTF8);
 
             MessageBox.Show("Done!", "Alert");
+        }
+
+        private void searchDataButton_Click(object sender, RoutedEventArgs e)
+        {
+            if(this.searchIdTextBox.Text == "")
+            {
+                MessageBox.Show("The search Id is empty!", "Alert");
+                return;
+            }
+
+            this.idTextBox.Text = this.searchIdTextBox.Text;
+
+            this.firstNameTextBox.Text = System.IO.File.ReadAllText(System.AppDomain.CurrentDomain.BaseDirectory + "\\data\\" + this.searchIdTextBox.Text + "_info_Fn.txt", Encoding.UTF8);
+
+            this.lastNameTextBox.Text = System.IO.File.ReadAllText(System.AppDomain.CurrentDomain.BaseDirectory + "\\data\\" + this.searchIdTextBox.Text + "_info_Ln.txt", Encoding.UTF8);
         }
     }
 }

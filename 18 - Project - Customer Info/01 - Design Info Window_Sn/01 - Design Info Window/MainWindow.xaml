@@ -17,7 +17,7 @@
             <TextBox x:Name="firstNameTextBox" HorizontalAlignment="Left" Margin="92,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
             <TextBox x:Name="idTextBox" HorizontalAlignment="Left" Margin="92,4,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         </Grid>
-        <Button x:Name="saveChangesButton" Content="Save Changes" HorizontalAlignment="Left" Margin="203,241,0,0" VerticalAlignment="Top" Height="20" Width="80"/>
+        <Button x:Name="saveChangesButton" Content="Save Changes" HorizontalAlignment="Left" Margin="203,241,0,0" VerticalAlignment="Top" Height="20" Width="80" Click="saveChangesButton_Click"/>
         <Label Content="Search by Id:" HorizontalAlignment="Left" Margin="108,38,0,0" VerticalAlignment="Top"/>
         <TextBox HorizontalAlignment="Left" Margin="191,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="52"/>
         <Button Content="Search Data" HorizontalAlignment="Left" Margin="248,41,0,0" VerticalAlignment="Top" Width="72"/>

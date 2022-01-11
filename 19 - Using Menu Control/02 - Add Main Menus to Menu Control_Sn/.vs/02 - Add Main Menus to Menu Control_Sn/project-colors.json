@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6678744b-3cc4-43e1-a2f6-a36e6c2ddb52": {
+      "ProjectGuid": "6678744b-3cc4-43e1-a2f6-a36e6c2ddb52",
+      "DisplayName": "02 - Add Main Menus to Menu Control",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

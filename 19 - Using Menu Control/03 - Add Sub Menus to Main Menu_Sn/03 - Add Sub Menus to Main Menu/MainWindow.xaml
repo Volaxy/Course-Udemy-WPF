@@ -1,0 +1,27 @@
+﻿<Window x:Class="_03___Add_Sub_Menus_to_Main_Menu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_03___Add_Sub_Menus_to_Main_Menu"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="400">
+    <Grid>
+        <Menu VerticalAlignment="Top" Height="30" Background="#FF93F3FF">
+            <MenuItem Header="File" Height="30" Width="45">
+                <MenuItem Header="New"/>
+                <Separator/>
+                <MenuItem Header="Open"/>
+            </MenuItem>
+            <MenuItem Header="Edit" Width="45"/>
+            <MenuItem Header="Format" Width="65"/>
+            <MenuItem Header="View" Width="55">
+                <MenuItem Header="Zoom">
+                    <MenuItem Header="Zoom In"/>
+                    <MenuItem Header="Zoom Out"/>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="About"/>
+        </Menu>
+    </Grid>
+</Window>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "456e5517-610b-441c-9075-4b6f88583c78": {
+      "ProjectGuid": "456e5517-610b-441c-9075-4b6f88583c78",
+      "DisplayName": "01 - Menu Control and Properties",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

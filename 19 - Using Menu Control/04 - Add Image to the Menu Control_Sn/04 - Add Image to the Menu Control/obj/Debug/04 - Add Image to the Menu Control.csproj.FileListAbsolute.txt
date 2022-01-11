@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\04 - Add Image to the Menu Control_Sn\04 - Add Image to the Menu Control\bin\Debug\04 - Add Image to the Menu Control.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\04 - Add Image to the Menu Control_Sn\04 - Add Image to the Menu Control\bin\Debug\04 - Add Image to the Menu Control.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\04 - Add Image to the Menu Control_Sn\04 - Add Image to the Menu Control\bin\Debug\04 - Add Image to the Menu Control.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\04 - Add Image to the Menu Control_Sn\04 - Add Image to the Menu Control\obj\Debug\04 - Add Image to the Menu Control.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\04 - Add Image to the Menu Control_Sn\04 - Add Image to the Menu Control\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\04 - Add Image to the Menu Control_Sn\04 - Add Image to the Menu Control\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\04 - Add Image to the Menu Control_Sn\04 - Add Image to the Menu Control\obj\Debug\04 - Add Image to the Menu Control_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\04 - Add Image to the Menu Control_Sn\04 - Add Image to the Menu Control\obj\Debug\04 - Add Image to the Menu Control_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\04 - Add Image to the Menu Control_Sn\04 - Add Image to the Menu Control\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\04 - Add Image to the Menu Control_Sn\04 - Add Image to the Menu Control\obj\Debug\04 - Add Image to the Menu Control.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\04 - Add Image to the Menu Control_Sn\04 - Add Image to the Menu Control\obj\Debug\_04___Add_Image_to_the_Menu_Control.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\04 - Add Image to the Menu Control_Sn\04 - Add Image to the Menu Control\obj\Debug\04 - Add Image to the Menu Control.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\04 - Add Image to the Menu Control_Sn\04 - Add Image to the Menu Control\obj\Debug\04 - Add Image to the Menu Control.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\04 - Add Image to the Menu Control_Sn\04 - Add Image to the Menu Control\obj\Debug\04 - Add Image to the Menu Control.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\04 - Add Image to the Menu Control_Sn\04 - Add Image to the Menu Control\obj\Debug\04 - Add Image to the Menu Control.pdb

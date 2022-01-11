@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\03 - Add Sub Menus to Main Menu_Sn\03 - Add Sub Menus to Main Menu\bin\Debug\03 - Add Sub Menus to Main Menu.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\03 - Add Sub Menus to Main Menu_Sn\03 - Add Sub Menus to Main Menu\bin\Debug\03 - Add Sub Menus to Main Menu.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\03 - Add Sub Menus to Main Menu_Sn\03 - Add Sub Menus to Main Menu\bin\Debug\03 - Add Sub Menus to Main Menu.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\03 - Add Sub Menus to Main Menu_Sn\03 - Add Sub Menus to Main Menu\obj\Debug\03 - Add Sub Menus to Main Menu.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\03 - Add Sub Menus to Main Menu_Sn\03 - Add Sub Menus to Main Menu\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\03 - Add Sub Menus to Main Menu_Sn\03 - Add Sub Menus to Main Menu\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\03 - Add Sub Menus to Main Menu_Sn\03 - Add Sub Menus to Main Menu\obj\Debug\03 - Add Sub Menus to Main Menu_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\03 - Add Sub Menus to Main Menu_Sn\03 - Add Sub Menus to Main Menu\obj\Debug\03 - Add Sub Menus to Main Menu_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\03 - Add Sub Menus to Main Menu_Sn\03 - Add Sub Menus to Main Menu\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\03 - Add Sub Menus to Main Menu_Sn\03 - Add Sub Menus to Main Menu\obj\Debug\03 - Add Sub Menus to Main Menu.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\03 - Add Sub Menus to Main Menu_Sn\03 - Add Sub Menus to Main Menu\obj\Debug\_03___Add_Sub_Menus_to_Main_Menu.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\03 - Add Sub Menus to Main Menu_Sn\03 - Add Sub Menus to Main Menu\obj\Debug\03 - Add Sub Menus to Main Menu.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\03 - Add Sub Menus to Main Menu_Sn\03 - Add Sub Menus to Main Menu\obj\Debug\03 - Add Sub Menus to Main Menu.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\03 - Add Sub Menus to Main Menu_Sn\03 - Add Sub Menus to Main Menu\obj\Debug\03 - Add Sub Menus to Main Menu.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\03 - Add Sub Menus to Main Menu_Sn\03 - Add Sub Menus to Main Menu\obj\Debug\03 - Add Sub Menus to Main Menu.pdb

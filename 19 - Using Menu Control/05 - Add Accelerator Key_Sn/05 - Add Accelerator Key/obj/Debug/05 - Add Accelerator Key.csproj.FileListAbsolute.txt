@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\05 - Add Accelerator Key_Sn\05 - Add Accelerator Key\bin\Debug\05 - Add Accelerator Key.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\05 - Add Accelerator Key_Sn\05 - Add Accelerator Key\bin\Debug\05 - Add Accelerator Key.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\05 - Add Accelerator Key_Sn\05 - Add Accelerator Key\bin\Debug\05 - Add Accelerator Key.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\05 - Add Accelerator Key_Sn\05 - Add Accelerator Key\obj\Debug\05 - Add Accelerator Key.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\05 - Add Accelerator Key_Sn\05 - Add Accelerator Key\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\05 - Add Accelerator Key_Sn\05 - Add Accelerator Key\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\05 - Add Accelerator Key_Sn\05 - Add Accelerator Key\obj\Debug\05 - Add Accelerator Key_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\05 - Add Accelerator Key_Sn\05 - Add Accelerator Key\obj\Debug\05 - Add Accelerator Key_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\05 - Add Accelerator Key_Sn\05 - Add Accelerator Key\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\05 - Add Accelerator Key_Sn\05 - Add Accelerator Key\obj\Debug\05 - Add Accelerator Key.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\05 - Add Accelerator Key_Sn\05 - Add Accelerator Key\obj\Debug\_05___Add_Accelerator_Key.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\05 - Add Accelerator Key_Sn\05 - Add Accelerator Key\obj\Debug\05 - Add Accelerator Key.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\05 - Add Accelerator Key_Sn\05 - Add Accelerator Key\obj\Debug\05 - Add Accelerator Key.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\05 - Add Accelerator Key_Sn\05 - Add Accelerator Key\obj\Debug\05 - Add Accelerator Key.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\19 - Using Menu Control\05 - Add Accelerator Key_Sn\05 - Add Accelerator Key\obj\Debug\05 - Add Accelerator Key.pdb

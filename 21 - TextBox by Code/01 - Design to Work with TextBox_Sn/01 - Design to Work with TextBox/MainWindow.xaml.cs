@@ -40,5 +40,11 @@ namespace _01___Design_to_Work_with_TextBox
                 this.mainTextBox.FontSize = this.mainTextBox.FontSize - 5;
             }
         }
+
+        private void selectAllButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.mainTextBox.Focus();
+            this.mainTextBox.SelectAll();
+        }
     }
 }

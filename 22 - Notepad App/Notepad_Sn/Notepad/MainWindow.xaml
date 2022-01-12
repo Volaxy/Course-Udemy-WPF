@@ -24,7 +24,7 @@
                 <MenuItem x:Name="selectAllMenuItem" Header="Select All" Click="selectAllMenuItem_Click"/>
             </MenuItem>
             <MenuItem Header="F_ormat" Width="80">
-                <MenuItem Header="Word Wrap"/>
+                <MenuItem x:Name="wordWrapMenuItem" Header="Word Wrap" IsCheckable="True" IsChecked="True" Click="wordWrapMenuItem_Click"/>
             </MenuItem>
             <MenuItem Header="_View" Width="80">
                 <MenuItem Header="Zoom">

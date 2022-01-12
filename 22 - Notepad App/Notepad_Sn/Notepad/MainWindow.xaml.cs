@@ -103,5 +103,20 @@ namespace Notepad
             this.mainTextBox.Focus();
             this.mainTextBox.SelectAll();
         }
+
+        // Format MenuItem
+        private void wordWrapMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            if(this.wordWrapMenuItem.IsChecked)
+            {
+                this.mainTextBox.TextWrapping = TextWrapping.Wrap;
+                this.mainTextBox.HorizontalScrollBarVisibility = ScrollBarVisibility.Disabled;
+            }
+            else
+            {
+                this.mainTextBox.TextWrapping = TextWrapping.NoWrap;
+                this.mainTextBox.HorizontalScrollBarVisibility = ScrollBarVisibility.Auto;
+            }
+        }
     }
 }

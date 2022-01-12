@@ -9,11 +9,33 @@
     <Grid>
         <TextBox Margin="0,37,0,0" TextWrapping="Wrap" Text="TextBox" VerticalScrollBarVisibility="Visible" AcceptsReturn="True"/>
         <Menu Height="37" VerticalAlignment="Top" Background="#FFD6D6D6">
-            <MenuItem Header="_File" Height="37" Width="80"/>
-            <MenuItem Header="_Edit" Width="80"/>
-            <MenuItem Header="F_ormat" Width="80"/>
-            <MenuItem Header="_View" Width="80"/>
-            <MenuItem Header="_About" Width="80"/>
+            <MenuItem Header="_File" Height="37" Width="80">
+                <MenuItem Header="New"/>
+                <MenuItem Header="Open"/>
+                <MenuItem Header="Save As"/>
+                <MenuItem Header="Exit"/>
+            </MenuItem>
+            <MenuItem Header="_Edit" Width="80">
+                <MenuItem Header="Undo"/>
+                <MenuItem Header="Redo"/>
+                <MenuItem Header="Cut"/>
+                <MenuItem Header="Copy"/>
+                <MenuItem Header="Paste"/>
+                <MenuItem Header="Select All"/>
+            </MenuItem>
+            <MenuItem Header="F_ormat" Width="80">
+                <MenuItem Header="Word Wrap"/>
+            </MenuItem>
+            <MenuItem Header="_View" Width="80">
+                <MenuItem Header="Zoom">
+                    <MenuItem Header="Zoom In +"/>
+                    <MenuItem Header="Zoom Out -"/>
+                    <MenuItem Header="Default Zoom"/>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="_Help" Width="80">
+                <MenuItem Header="About Us"/>
+            </MenuItem>
         </Menu>
 
     </Grid>

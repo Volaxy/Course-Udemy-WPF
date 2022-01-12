@@ -16,12 +16,12 @@
                 <MenuItem x:Name="exitMenuItem" Header="Exit" Click="exitMenuItem_Click"/>
             </MenuItem>
             <MenuItem Header="_Edit" Width="80">
-                <MenuItem Header="Undo"/>
-                <MenuItem Header="Redo"/>
-                <MenuItem Header="Cut"/>
-                <MenuItem Header="Copy"/>
-                <MenuItem Header="Paste"/>
-                <MenuItem Header="Select All"/>
+                <MenuItem x:Name="undoMenuItem" Header="Undo" Click="undoMenuItem_Click"/>
+                <MenuItem x:Name="redoMenuItem" Header="Redo" Click="redoMenuItem_Click"/>
+                <MenuItem x:Name="cutMenuItem" Header="Cut" Click="cutMenuItem_Click"/>
+                <MenuItem x:Name="copyMenuItem" Header="Copy" Click="copyMenuItem_Click"/>
+                <MenuItem x:Name="pasteMenuItem" Header="Paste" Click="pasteMenuItem_Click"/>
+                <MenuItem x:Name="selectAllMenuItem" Header="Select All" Click="selectAllMenuItem_Click"/>
             </MenuItem>
             <MenuItem Header="F_ormat" Width="80">
                 <MenuItem Header="Word Wrap"/>

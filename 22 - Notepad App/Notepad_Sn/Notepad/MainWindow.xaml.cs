@@ -25,6 +25,7 @@ namespace Notepad
             InitializeComponent();
         }
 
+        // File MenuItem
         private void newMenuItem_Click(object sender, RoutedEventArgs e)
         {
             this.mainTextBox.Text = "";
@@ -69,6 +70,38 @@ namespace Notepad
         private void exitMenuItem_Click(object sender, RoutedEventArgs e)
         {
             this.Close();
+        }
+
+        // Edit MenuItem
+        private void undoMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            this.mainTextBox.Undo();
+        }
+
+        private void redoMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            this.mainTextBox.Redo();
+        }
+
+        private void cutMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            this.mainTextBox.Cut();
+        }
+
+        private void copyMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            this.mainTextBox.Copy();
+        }
+
+        private void pasteMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            this.mainTextBox.Paste();
+        }
+
+        private void selectAllMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            this.mainTextBox.Focus();
+            this.mainTextBox.SelectAll();
         }
     }
 }

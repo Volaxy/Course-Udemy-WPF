@@ -34,7 +34,7 @@
                 </MenuItem>
             </MenuItem>
             <MenuItem Header="_Help" Width="80">
-                <MenuItem Header="About Us"/>
+                <MenuItem x:Name="aboutUsMenuItem" Header="About Us" Click="aboutUsMenuItem_Click"/>
             </MenuItem>
         </Menu>
 

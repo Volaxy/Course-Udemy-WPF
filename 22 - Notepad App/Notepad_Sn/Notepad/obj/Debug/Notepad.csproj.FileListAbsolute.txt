@@ -14,3 +14,5 @@ D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad
 D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\Notepad.exe
 D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\Notepad.pdb
 D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\AboutUs.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\AboutUs.baml

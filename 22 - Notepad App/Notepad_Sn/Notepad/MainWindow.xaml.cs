@@ -140,5 +140,13 @@ namespace Notepad
         {
             this.mainTextBox.FontSize = 16;
         }
+
+        // Help MenuItem
+        private void aboutUsMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            AboutUs aboutUs = new AboutUs();
+
+            aboutUs.ShowDialog();
+        }
     }
 }

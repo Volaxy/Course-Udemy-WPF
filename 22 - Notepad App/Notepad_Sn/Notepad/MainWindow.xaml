@@ -10,12 +10,22 @@
         <TextBox x:Name="mainTextBox" Margin="0,37,0,0" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" AcceptsReturn="True"/>
         <Menu Height="37" VerticalAlignment="Top" Background="#FFD6D6D6">
             <MenuItem Header="_File" Height="37" Width="80">
-                <MenuItem x:Name="newMenuItem" Header="New" Click="newMenuItem_Click"/>
+                <MenuItem.Icon>
+                    <Image Source="/Images/file_32.png"></Image>
+                </MenuItem.Icon>
+                <MenuItem x:Name="newMenuItem" Header="New" Click="newMenuItem_Click">
+                    <MenuItem.Icon>
+                        <Image Source="/Images/edit_32.png"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
                 <MenuItem x:Name="openMenuItem" Header="Open" Click="openMenuItem_Click"/>
                 <MenuItem x:Name="saveAsMenuItem" Header="Save As" Click="saveAsMenuItem_Click"/>
                 <MenuItem x:Name="exitMenuItem" Header="Exit" Click="exitMenuItem_Click"/>
             </MenuItem>
             <MenuItem Header="_Edit" Width="80">
+                <MenuItem.Icon>
+                    <Image Source="/Images/edit_32.png"></Image>
+                </MenuItem.Icon>
                 <MenuItem x:Name="undoMenuItem" Header="Undo" Click="undoMenuItem_Click"/>
                 <MenuItem x:Name="redoMenuItem" Header="Redo" Click="redoMenuItem_Click"/>
                 <MenuItem x:Name="cutMenuItem" Header="Cut" Click="cutMenuItem_Click"/>
@@ -24,9 +34,15 @@
                 <MenuItem x:Name="selectAllMenuItem" Header="Select All" Click="selectAllMenuItem_Click"/>
             </MenuItem>
             <MenuItem Header="F_ormat" Width="80">
+                <MenuItem.Icon>
+                    <Image Source="/Images/format_32.png"></Image>
+                </MenuItem.Icon>
                 <MenuItem x:Name="wordWrapMenuItem" Header="Word Wrap" IsCheckable="True" IsChecked="True" Click="wordWrapMenuItem_Click"/>
             </MenuItem>
             <MenuItem Header="_View" Width="80">
+                <MenuItem.Icon>
+                    <Image Source="/Images/view_32.png"></Image>
+                </MenuItem.Icon>
                 <MenuItem Header="Zoom">
                     <MenuItem x:Name="zoomInMenuItem" Header="Zoom In +" Click="zoomInMenuItem_Click"/>
                     <MenuItem x:Name="zoomOutMenuItem" Header="Zoom Out -" Click="zoomOutMenuItem_Click"/>
@@ -34,6 +50,9 @@
                 </MenuItem>
             </MenuItem>
             <MenuItem Header="_Help" Width="80">
+                <MenuItem.Icon>
+                    <Image Source="/Images/help_32.png"></Image>
+                </MenuItem.Icon>
                 <MenuItem x:Name="aboutUsMenuItem" Header="About Us" Click="aboutUsMenuItem_Click"/>
             </MenuItem>
         </Menu>

@@ -28,9 +28,9 @@
             </MenuItem>
             <MenuItem Header="_View" Width="80">
                 <MenuItem Header="Zoom">
-                    <MenuItem Header="Zoom In +"/>
-                    <MenuItem Header="Zoom Out -"/>
-                    <MenuItem Header="Default Zoom"/>
+                    <MenuItem x:Name="zoomInMenuItem" Header="Zoom In +" Click="zoomInMenuItem_Click"/>
+                    <MenuItem x:Name="zoomOutMenuItem" Header="Zoom Out -" Click="zoomOutMenuItem_Click"/>
+                    <MenuItem x:Name="defaultZoomMenuItem" Header="Default Zoom" Click="defaultZoomMenuItem_Click"/>
                 </MenuItem>
             </MenuItem>
             <MenuItem Header="_Help" Width="80">

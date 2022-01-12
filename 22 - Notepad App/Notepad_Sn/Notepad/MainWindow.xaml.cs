@@ -118,5 +118,27 @@ namespace Notepad
                 this.mainTextBox.HorizontalScrollBarVisibility = ScrollBarVisibility.Auto;
             }
         }
+
+        // View MenuItem
+        private void zoomInMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            if(this.mainTextBox.FontSize + 4 < 64)
+            {
+                this.mainTextBox.FontSize = this.mainTextBox.FontSize + 4;
+            }
+        }
+
+        private void zoomOutMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            if(this.mainTextBox.FontSize - 4 > 8)
+            {
+                this.mainTextBox.FontSize = this.mainTextBox.FontSize - 4;
+            }
+        }
+
+        private void defaultZoomMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            this.mainTextBox.FontSize = 16;
+        }
     }
 }

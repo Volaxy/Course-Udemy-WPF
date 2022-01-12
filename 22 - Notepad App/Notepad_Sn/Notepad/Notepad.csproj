@@ -34,6 +34,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>notepad.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -108,6 +111,9 @@
     <Resource Include="Images\help_32.png" />
     <Resource Include="Images\notepad_128.png" />
     <Resource Include="Images\view_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="notepad.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

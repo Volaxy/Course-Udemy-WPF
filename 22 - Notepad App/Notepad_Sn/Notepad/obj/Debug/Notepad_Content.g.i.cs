@@ -8,11 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/edit_32.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/file_32.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/format_32.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/help_32.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/notepad_128.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/view_32.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("notepad.ico")]
 
 

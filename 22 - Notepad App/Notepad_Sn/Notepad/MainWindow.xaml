@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Notepad"
         mc:Ignorable="d"
-        Title="WPF Notepad" Height="350" Width="500" Background="#FFF1F1F1" WindowStartupLocation="CenterScreen" ResizeMode="CanResizeWithGrip">
+        Title="WPF Notepad" Height="350" Width="500" Background="#FFF1F1F1" WindowStartupLocation="CenterScreen" ResizeMode="CanResizeWithGrip" Icon="/Images/notepad_128.png">
     <Grid>
         <TextBox x:Name="mainTextBox" Margin="0,37,0,0" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" AcceptsReturn="True"/>
         <Menu Height="37" VerticalAlignment="Top" Background="#FFD6D6D6">

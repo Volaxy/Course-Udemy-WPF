@@ -24,5 +24,51 @@ namespace Notepad
         {
             InitializeComponent();
         }
+
+        private void newMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            this.mainTextBox.Text = "";
+            this.mainTextBox.Focus();
+        }
+
+        private void openMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            Microsoft.Win32.OpenFileDialog openFileDialog = new Microsoft.Win32.OpenFileDialog();
+
+            openFileDialog.Filter = "Text Files|*.txt|All Files|*.*";
+            openFileDialog.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+
+            openFileDialog.ShowDialog();
+
+            if(openFileDialog.FileName != "")
+            {
+                mainTextBox.Text = System.IO.File.ReadAllText(openFileDialog.FileName, Encoding.UTF8);
+
+                MessageBox.Show("Sucess to Load!");
+            }
+        }
+
+        private void saveAsMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            Microsoft.Win32.SaveFileDialog saveFileDialog = new Microsoft.Win32.SaveFileDialog();
+
+            saveFileDialog.Filter = "Text Files|*.txt|All Files|*.*";
+            saveFileDialog.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+            saveFileDialog.AddExtension = true;
+
+            saveFileDialog.ShowDialog();
+
+            if (saveFileDialog.FileName != "")
+            {
+                System.IO.File.WriteAllText(saveFileDialog.FileName, mainTextBox.Text, Encoding.UTF8);
+
+                MessageBox.Show("Sucess to Save!");
+            }
+        }
+
+        private void exitMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
     }
 }

@@ -1,0 +1,17 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\06 - Code to Save Value in Resource_Sn\06 - Code to Save Value in Resource\bin\Debug\06 - Code to Save Value in Resource.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\06 - Code to Save Value in Resource_Sn\06 - Code to Save Value in Resource\bin\Debug\06 - Code to Save Value in Resource.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\06 - Code to Save Value in Resource_Sn\06 - Code to Save Value in Resource\bin\Debug\06 - Code to Save Value in Resource.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\06 - Code to Save Value in Resource_Sn\06 - Code to Save Value in Resource\obj\Debug\06 - Code to Save Value in Resource.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\06 - Code to Save Value in Resource_Sn\06 - Code to Save Value in Resource\obj\Debug\06 - Code to Save Value in Resource.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\06 - Code to Save Value in Resource_Sn\06 - Code to Save Value in Resource\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\06 - Code to Save Value in Resource_Sn\06 - Code to Save Value in Resource\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\06 - Code to Save Value in Resource_Sn\06 - Code to Save Value in Resource\obj\Debug\06 - Code to Save Value in Resource_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\06 - Code to Save Value in Resource_Sn\06 - Code to Save Value in Resource\obj\Debug\06 - Code to Save Value in Resource_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\06 - Code to Save Value in Resource_Sn\06 - Code to Save Value in Resource\obj\Debug\App.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\06 - Code to Save Value in Resource_Sn\06 - Code to Save Value in Resource\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\06 - Code to Save Value in Resource_Sn\06 - Code to Save Value in Resource\obj\Debug\06 - Code to Save Value in Resource.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\06 - Code to Save Value in Resource_Sn\06 - Code to Save Value in Resource\obj\Debug\_06___Code_to_Save_Value_in_Resource.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\06 - Code to Save Value in Resource_Sn\06 - Code to Save Value in Resource\obj\Debug\06 - Code to Save Value in Resource.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\06 - Code to Save Value in Resource_Sn\06 - Code to Save Value in Resource\obj\Debug\06 - Code to Save Value in Resource.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\06 - Code to Save Value in Resource_Sn\06 - Code to Save Value in Resource\obj\Debug\06 - Code to Save Value in Resource.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\06 - Code to Save Value in Resource_Sn\06 - Code to Save Value in Resource\obj\Debug\06 - Code to Save Value in Resource.pdb

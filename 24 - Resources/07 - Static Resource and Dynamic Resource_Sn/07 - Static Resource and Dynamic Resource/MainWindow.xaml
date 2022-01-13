@@ -1,0 +1,18 @@
+﻿<Window x:Class="_07___Static_Resource_and_Dynamic_Resource.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_07___Static_Resource_and_Dynamic_Resource"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+    xmlns:System="clr-namespace:System;assembly=mscorlib">
+    <Window.Resources>
+        <System:Double x:Key="ButtonWidth">477</System:Double>
+        <System:Double x:Key="ButtonHeight">201</System:Double>
+    </Window.Resources>
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Center" VerticalAlignment="Center" Height="{DynamicResource ButtonHeight}" Width="{StaticResource ButtonWidth}" FontSize="48"/>
+
+    </Grid>
+</Window>

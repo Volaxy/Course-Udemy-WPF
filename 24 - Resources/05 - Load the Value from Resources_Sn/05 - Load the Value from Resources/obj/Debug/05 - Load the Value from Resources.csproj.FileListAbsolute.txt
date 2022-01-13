@@ -1,0 +1,17 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\05 - Load the Value from Resources_Sn\05 - Load the Value from Resources\bin\Debug\05 - Load the Value from Resources.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\05 - Load the Value from Resources_Sn\05 - Load the Value from Resources\bin\Debug\05 - Load the Value from Resources.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\05 - Load the Value from Resources_Sn\05 - Load the Value from Resources\bin\Debug\05 - Load the Value from Resources.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\05 - Load the Value from Resources_Sn\05 - Load the Value from Resources\obj\Debug\05 - Load the Value from Resources.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\05 - Load the Value from Resources_Sn\05 - Load the Value from Resources\obj\Debug\05 - Load the Value from Resources.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\05 - Load the Value from Resources_Sn\05 - Load the Value from Resources\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\05 - Load the Value from Resources_Sn\05 - Load the Value from Resources\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\05 - Load the Value from Resources_Sn\05 - Load the Value from Resources\obj\Debug\05 - Load the Value from Resources_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\05 - Load the Value from Resources_Sn\05 - Load the Value from Resources\obj\Debug\05 - Load the Value from Resources_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\05 - Load the Value from Resources_Sn\05 - Load the Value from Resources\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\05 - Load the Value from Resources_Sn\05 - Load the Value from Resources\obj\Debug\05 - Load the Value from Resources.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\05 - Load the Value from Resources_Sn\05 - Load the Value from Resources\obj\Debug\_05___Load_the_Value_from_Resources.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\05 - Load the Value from Resources_Sn\05 - Load the Value from Resources\obj\Debug\05 - Load the Value from Resources.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\05 - Load the Value from Resources_Sn\05 - Load the Value from Resources\obj\Debug\05 - Load the Value from Resources.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\05 - Load the Value from Resources_Sn\05 - Load the Value from Resources\obj\Debug\05 - Load the Value from Resources.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\05 - Load the Value from Resources_Sn\05 - Load the Value from Resources\obj\Debug\05 - Load the Value from Resources.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\05 - Load the Value from Resources_Sn\05 - Load the Value from Resources\obj\Debug\App.baml

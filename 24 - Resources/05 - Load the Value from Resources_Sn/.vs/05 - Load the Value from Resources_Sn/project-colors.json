@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eed8e653-a92d-4c31-9731-aa74364fdac2": {
+      "ProjectGuid": "eed8e653-a92d-4c31-9731-aa74364fdac2",
+      "DisplayName": "05 - Load the Value from Resources",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

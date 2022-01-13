@@ -2,10 +2,12 @@ D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad
 D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\bin\Debug\Notepad.exe
 D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\bin\Debug\Notepad.pdb
 D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\Notepad.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\AboutUs.g.cs
 D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\MainWindow.g.cs
 D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\App.g.cs
 D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\Notepad_MarkupCompile.cache
 D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\Notepad_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\AboutUs.baml
 D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\MainWindow.baml
 D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\Notepad.g.resources
 D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\Notepad.Properties.Resources.resources
@@ -13,6 +15,3 @@ D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad
 D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
 D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\Notepad.exe
 D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\Notepad.pdb
-D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
-D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\AboutUs.g.cs
-D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\22 - Notepad App\Notepad_Sn\Notepad\obj\Debug\AboutUs.baml

@@ -1,0 +1,25 @@
+﻿<Window x:Class="_06___Code_to_Save_Value_in_Resource.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_06___Code_to_Save_Value_in_Resource" xmlns:System="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <System:Double x:Key="ButtonHeight">64</System:Double>
+    </Window.Resources>
+    <Grid x:Name="mainGrid">
+        <Grid.Resources>
+            <System:Double x:Key="ButtonFontSize">50</System:Double>
+        </Grid.Resources>
+        
+        <Button x:Name="windowResourceButton" Content="Save to Window Resource" HorizontalAlignment="Left" Margin="72,71,0,0" VerticalAlignment="Top" Height="{DynamicResource ButtonHeight}" Width="{DynamicResource ButtonWidth}" FontSize="{DynamicResource ButtonFontSize}" Click="windowResourceButton_Click"/>
+        <Button x:Name="appResourceButton" Content="Save to App Resource" HorizontalAlignment="Left" Margin="72,0,0,0" VerticalAlignment="Center" Height="64" Width="307" FontSize="24" Click="appResourceButton_Click"/>
+        <Button x:Name="gridResourceButton" Content="Save to Grid Resource" HorizontalAlignment="Left" Margin="72,299,0,0" VerticalAlignment="Top" Height="64" Width="307" FontSize="24" Click="gridResourceButton_Click"/>
+        <TextBox x:Name="windowResourceTextBox" HorizontalAlignment="Left" Margin="412,71,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="200" Height="64" FontSize="20"/>
+        <TextBox x:Name="appResourceTextBox" HorizontalAlignment="Left" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Center" Width="200" Height="64" FontSize="20" Margin="412,0,0,0"/>
+        <TextBox x:Name="gridResourceTextBox" HorizontalAlignment="Left" Margin="412,299,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="200" Height="64" FontSize="20"/>
+
+    </Grid>
+</Window>

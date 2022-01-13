@@ -1,0 +1,10 @@
+﻿<Application x:Class="_05___Load_the_Value_from_Resources.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_05___Load_the_Value_from_Resources"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+        <SolidColorBrush x:Key="ButtonBackground" Color="#FFDDDDDD"/>
+    </Application.Resources>
+</Application>

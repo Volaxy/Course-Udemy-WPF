@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbe13c54-0ca2-4708-b793-e066c1fbdf44": {
+      "ProjectGuid": "dbe13c54-0ca2-4708-b793-e066c1fbdf44",
+      "DisplayName": "04 - Using Grid Resource",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

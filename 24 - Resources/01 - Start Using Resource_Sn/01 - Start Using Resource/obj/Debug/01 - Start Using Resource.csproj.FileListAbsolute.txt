@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\01 - Start Using Resource_Sn\01 - Start Using Resource\bin\Debug\01 - Start Using Resource.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\01 - Start Using Resource_Sn\01 - Start Using Resource\bin\Debug\01 - Start Using Resource.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\01 - Start Using Resource_Sn\01 - Start Using Resource\bin\Debug\01 - Start Using Resource.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\01 - Start Using Resource_Sn\01 - Start Using Resource\obj\Debug\01 - Start Using Resource.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\01 - Start Using Resource_Sn\01 - Start Using Resource\obj\Debug\01 - Start Using Resource.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\01 - Start Using Resource_Sn\01 - Start Using Resource\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\01 - Start Using Resource_Sn\01 - Start Using Resource\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\01 - Start Using Resource_Sn\01 - Start Using Resource\obj\Debug\01 - Start Using Resource_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\01 - Start Using Resource_Sn\01 - Start Using Resource\obj\Debug\01 - Start Using Resource_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\01 - Start Using Resource_Sn\01 - Start Using Resource\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\01 - Start Using Resource_Sn\01 - Start Using Resource\obj\Debug\01 - Start Using Resource.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\01 - Start Using Resource_Sn\01 - Start Using Resource\obj\Debug\_01___Start_Using_Resource.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\01 - Start Using Resource_Sn\01 - Start Using Resource\obj\Debug\01 - Start Using Resource.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\01 - Start Using Resource_Sn\01 - Start Using Resource\obj\Debug\01 - Start Using Resource.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\01 - Start Using Resource_Sn\01 - Start Using Resource\obj\Debug\01 - Start Using Resource.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\01 - Start Using Resource_Sn\01 - Start Using Resource\obj\Debug\01 - Start Using Resource.pdb

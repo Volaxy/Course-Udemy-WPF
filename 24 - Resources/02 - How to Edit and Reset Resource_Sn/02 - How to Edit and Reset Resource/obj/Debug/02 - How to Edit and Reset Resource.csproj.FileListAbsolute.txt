@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\02 - How to Edit and Reset Resource_Sn\02 - How to Edit and Reset Resource\bin\Debug\02 - How to Edit and Reset Resource.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\02 - How to Edit and Reset Resource_Sn\02 - How to Edit and Reset Resource\bin\Debug\02 - How to Edit and Reset Resource.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\02 - How to Edit and Reset Resource_Sn\02 - How to Edit and Reset Resource\bin\Debug\02 - How to Edit and Reset Resource.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\02 - How to Edit and Reset Resource_Sn\02 - How to Edit and Reset Resource\obj\Debug\02 - How to Edit and Reset Resource.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\02 - How to Edit and Reset Resource_Sn\02 - How to Edit and Reset Resource\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\02 - How to Edit and Reset Resource_Sn\02 - How to Edit and Reset Resource\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\02 - How to Edit and Reset Resource_Sn\02 - How to Edit and Reset Resource\obj\Debug\02 - How to Edit and Reset Resource_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\02 - How to Edit and Reset Resource_Sn\02 - How to Edit and Reset Resource\obj\Debug\02 - How to Edit and Reset Resource_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\02 - How to Edit and Reset Resource_Sn\02 - How to Edit and Reset Resource\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\02 - How to Edit and Reset Resource_Sn\02 - How to Edit and Reset Resource\obj\Debug\02 - How to Edit and Reset Resource.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\02 - How to Edit and Reset Resource_Sn\02 - How to Edit and Reset Resource\obj\Debug\_02___How_to_Edit_and_Reset_Resource.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\02 - How to Edit and Reset Resource_Sn\02 - How to Edit and Reset Resource\obj\Debug\02 - How to Edit and Reset Resource.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\02 - How to Edit and Reset Resource_Sn\02 - How to Edit and Reset Resource\obj\Debug\02 - How to Edit and Reset Resource.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\02 - How to Edit and Reset Resource_Sn\02 - How to Edit and Reset Resource\obj\Debug\02 - How to Edit and Reset Resource.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\24 - Resources\02 - How to Edit and Reset Resource_Sn\02 - How to Edit and Reset Resource\obj\Debug\02 - How to Edit and Reset Resource.pdb

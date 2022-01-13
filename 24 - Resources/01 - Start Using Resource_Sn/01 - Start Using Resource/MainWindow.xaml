@@ -1,0 +1,22 @@
+﻿<Window x:Name="mainWindow" x:Class="_01___Start_Using_Resource.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_01___Start_Using_Resource"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+    xmlns:System="clr-namespace:System;assembly=mscorlib">
+    <Window.Resources>
+        <System:Double x:Key="ButtonHeight">50</System:Double>
+        <System:Double x:Key="ButtonWidth">150</System:Double>
+        <SolidColorBrush x:Key="ButtonBackground" Color="#FFFFCFCF"/>
+        <System:Double x:Key="ButtonFontSize">24</System:Double>
+        <Cursor x:Key="ButtonCursor">Hand</Cursor>
+    </Window.Resources>
+    <Grid x:Name="mainGrid">
+        <Button x:Name="saveButton" Content="Save" HorizontalAlignment="Center" Margin="0,67,0,0" VerticalAlignment="Top" FontSize="{DynamicResource ButtonFontSize}" Height="{DynamicResource ButtonHeight}" Width="{DynamicResource ButtonWidth}" Background="{DynamicResource ButtonBackground}" Cursor="{DynamicResource ButtonCursor}"/>
+        <Button Content="New" HorizontalAlignment="Left" Margin="384,217,0,0" VerticalAlignment="Top" Height="{DynamicResource ButtonHeight}" Width="{DynamicResource ButtonWidth}" FontSize="{DynamicResource ButtonFontSize}" Background="{DynamicResource ButtonBackground}" Cursor="{DynamicResource ButtonCursor}"/>
+
+    </Grid>
+</Window>

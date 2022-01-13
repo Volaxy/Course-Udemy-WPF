@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec3d0cb6-0a50-4a17-83fd-635f2a763fb5": {
+      "ProjectGuid": "ec3d0cb6-0a50-4a17-83fd-635f2a763fb5",
+      "DisplayName": "07 - ComboBox Common Events",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\06  Common Events of TextBox_Sn\06  Common Events of TextBox\bin\Debug\06  Common Events of TextBox.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\06  Common Events of TextBox_Sn\06  Common Events of TextBox\bin\Debug\06  Common Events of TextBox.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\06  Common Events of TextBox_Sn\06  Common Events of TextBox\bin\Debug\06  Common Events of TextBox.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\06  Common Events of TextBox_Sn\06  Common Events of TextBox\obj\Debug\06  Common Events of TextBox.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\06  Common Events of TextBox_Sn\06  Common Events of TextBox\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\06  Common Events of TextBox_Sn\06  Common Events of TextBox\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\06  Common Events of TextBox_Sn\06  Common Events of TextBox\obj\Debug\06  Common Events of TextBox_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\06  Common Events of TextBox_Sn\06  Common Events of TextBox\obj\Debug\06  Common Events of TextBox_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\06  Common Events of TextBox_Sn\06  Common Events of TextBox\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\06  Common Events of TextBox_Sn\06  Common Events of TextBox\obj\Debug\06  Common Events of TextBox.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\06  Common Events of TextBox_Sn\06  Common Events of TextBox\obj\Debug\_06__Common_Events_of_TextBox.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\06  Common Events of TextBox_Sn\06  Common Events of TextBox\obj\Debug\06  Common Events of TextBox.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\06  Common Events of TextBox_Sn\06  Common Events of TextBox\obj\Debug\06  Common Events of TextBox.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\06  Common Events of TextBox_Sn\06  Common Events of TextBox\obj\Debug\06  Common Events of TextBox.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\06  Common Events of TextBox_Sn\06  Common Events of TextBox\obj\Debug\06  Common Events of TextBox.pdb

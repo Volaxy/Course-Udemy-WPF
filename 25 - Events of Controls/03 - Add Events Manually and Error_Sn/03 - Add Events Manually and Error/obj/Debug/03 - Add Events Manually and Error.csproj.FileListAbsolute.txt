@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\03 - Add Events Manually and Error_Sn\03 - Add Events Manually and Error\bin\Debug\03 - Add Events Manually and Error.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\03 - Add Events Manually and Error_Sn\03 - Add Events Manually and Error\bin\Debug\03 - Add Events Manually and Error.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\03 - Add Events Manually and Error_Sn\03 - Add Events Manually and Error\bin\Debug\03 - Add Events Manually and Error.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\03 - Add Events Manually and Error_Sn\03 - Add Events Manually and Error\obj\Debug\03 - Add Events Manually and Error.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\03 - Add Events Manually and Error_Sn\03 - Add Events Manually and Error\obj\Debug\03 - Add Events Manually and Error.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\03 - Add Events Manually and Error_Sn\03 - Add Events Manually and Error\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\03 - Add Events Manually and Error_Sn\03 - Add Events Manually and Error\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\03 - Add Events Manually and Error_Sn\03 - Add Events Manually and Error\obj\Debug\03 - Add Events Manually and Error_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\03 - Add Events Manually and Error_Sn\03 - Add Events Manually and Error\obj\Debug\03 - Add Events Manually and Error_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\03 - Add Events Manually and Error_Sn\03 - Add Events Manually and Error\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\03 - Add Events Manually and Error_Sn\03 - Add Events Manually and Error\obj\Debug\03 - Add Events Manually and Error.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\03 - Add Events Manually and Error_Sn\03 - Add Events Manually and Error\obj\Debug\_03___Add_Events_Manually_and_Error.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\03 - Add Events Manually and Error_Sn\03 - Add Events Manually and Error\obj\Debug\03 - Add Events Manually and Error.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\03 - Add Events Manually and Error_Sn\03 - Add Events Manually and Error\obj\Debug\03 - Add Events Manually and Error.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\03 - Add Events Manually and Error_Sn\03 - Add Events Manually and Error\obj\Debug\03 - Add Events Manually and Error.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\03 - Add Events Manually and Error_Sn\03 - Add Events Manually and Error\obj\Debug\03 - Add Events Manually and Error.pdb

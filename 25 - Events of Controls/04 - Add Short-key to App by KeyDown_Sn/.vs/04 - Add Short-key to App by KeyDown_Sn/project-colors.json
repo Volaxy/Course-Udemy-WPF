@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "46e70f80-27b0-4fd1-8fc4-02bdbe330e2b": {
+      "ProjectGuid": "46e70f80-27b0-4fd1-8fc4-02bdbe330e2b",
+      "DisplayName": "04 - Add Short-key to App by KeyDown",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 - Alt Key and F10 in KeyDown Event", "05 - Alt Key and F10 in KeyDown Event\05 - Alt Key and F10 in KeyDown Event.csproj", "{CDA37E93-FFFB-4E3F-A80C-E9491E3A05ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA37E93-FFFB-4E3F-A80C-E9491E3A05ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA37E93-FFFB-4E3F-A80C-E9491E3A05ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA37E93-FFFB-4E3F-A80C-E9491E3A05ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA37E93-FFFB-4E3F-A80C-E9491E3A05ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5441597-E351-4811-97B2-5E33C7BB8E4C}
+	EndGlobalSection
+EndGlobal

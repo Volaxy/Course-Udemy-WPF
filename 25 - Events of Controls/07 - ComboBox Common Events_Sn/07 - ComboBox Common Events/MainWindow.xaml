@@ -1,0 +1,20 @@
+﻿<Window x:Class="_07___ComboBox_Common_Events.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_07___ComboBox_Common_Events"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ComboBox x:Name="mainComboBox" HorizontalAlignment="Center" VerticalAlignment="Center" Width="152" Height="39" SelectionChanged="mainComboBox_SelectionChanged">
+            <ComboBoxItem Content="Alex"/>
+            <ComboBoxItem Content="Sara"/>
+            <ComboBoxItem Content="Mary"/>
+            <ComboBoxItem Content="Feze"/>
+        </ComboBox>
+        <TextBox x:Name="firstTextBox" HorizontalAlignment="Left" Margin="154,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="159" Height="56" FontSize="22"/>
+        <TextBox x:Name="secondTextBox" HorizontalAlignment="Left" Margin="470,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="163" Height="56" FontSize="24"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\08 - ListBox Common Events_Sn\08 - ListBox Common Events\bin\Debug\08 - ListBox Common Events.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\08 - ListBox Common Events_Sn\08 - ListBox Common Events\bin\Debug\08 - ListBox Common Events.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\08 - ListBox Common Events_Sn\08 - ListBox Common Events\bin\Debug\08 - ListBox Common Events.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\08 - ListBox Common Events_Sn\08 - ListBox Common Events\obj\Debug\08 - ListBox Common Events.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\08 - ListBox Common Events_Sn\08 - ListBox Common Events\obj\Debug\08 - ListBox Common Events.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\08 - ListBox Common Events_Sn\08 - ListBox Common Events\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\08 - ListBox Common Events_Sn\08 - ListBox Common Events\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\08 - ListBox Common Events_Sn\08 - ListBox Common Events\obj\Debug\08 - ListBox Common Events_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\08 - ListBox Common Events_Sn\08 - ListBox Common Events\obj\Debug\08 - ListBox Common Events_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\08 - ListBox Common Events_Sn\08 - ListBox Common Events\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\08 - ListBox Common Events_Sn\08 - ListBox Common Events\obj\Debug\08 - ListBox Common Events.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\08 - ListBox Common Events_Sn\08 - ListBox Common Events\obj\Debug\_08___ListBox_Common_Events.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\08 - ListBox Common Events_Sn\08 - ListBox Common Events\obj\Debug\08 - ListBox Common Events.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\08 - ListBox Common Events_Sn\08 - ListBox Common Events\obj\Debug\08 - ListBox Common Events.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\08 - ListBox Common Events_Sn\08 - ListBox Common Events\obj\Debug\08 - ListBox Common Events.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\08 - ListBox Common Events_Sn\08 - ListBox Common Events\obj\Debug\08 - ListBox Common Events.pdb

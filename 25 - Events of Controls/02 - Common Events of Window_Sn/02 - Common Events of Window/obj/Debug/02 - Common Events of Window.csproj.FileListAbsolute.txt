@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\02 - Common Events of Window_Sn\02 - Common Events of Window\bin\Debug\02 - Common Events of Window.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\02 - Common Events of Window_Sn\02 - Common Events of Window\bin\Debug\02 - Common Events of Window.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\02 - Common Events of Window_Sn\02 - Common Events of Window\bin\Debug\02 - Common Events of Window.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\02 - Common Events of Window_Sn\02 - Common Events of Window\obj\Debug\02 - Common Events of Window.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\02 - Common Events of Window_Sn\02 - Common Events of Window\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\02 - Common Events of Window_Sn\02 - Common Events of Window\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\02 - Common Events of Window_Sn\02 - Common Events of Window\obj\Debug\02 - Common Events of Window_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\02 - Common Events of Window_Sn\02 - Common Events of Window\obj\Debug\02 - Common Events of Window_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\02 - Common Events of Window_Sn\02 - Common Events of Window\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\02 - Common Events of Window_Sn\02 - Common Events of Window\obj\Debug\02 - Common Events of Window.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\02 - Common Events of Window_Sn\02 - Common Events of Window\obj\Debug\_02___Common_Events_of_Window.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\02 - Common Events of Window_Sn\02 - Common Events of Window\obj\Debug\02 - Common Events of Window.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\02 - Common Events of Window_Sn\02 - Common Events of Window\obj\Debug\02 - Common Events of Window.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\02 - Common Events of Window_Sn\02 - Common Events of Window\obj\Debug\02 - Common Events of Window.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\25 - Events of Controls\02 - Common Events of Window_Sn\02 - Common Events of Window\obj\Debug\02 - Common Events of Window.pdb

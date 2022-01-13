@@ -1,0 +1,9 @@
+﻿<Application x:Class="_04___Add_Short_key_to_App_by_KeyDown.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_04___Add_Short_key_to_App_by_KeyDown"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cda37e93-fffb-4e3f-a80c-e9491e3a05ed": {
+      "ProjectGuid": "cda37e93-fffb-4e3f-a80c-e9491e3a05ed",
+      "DisplayName": "05 - Alt Key and F10 in KeyDown Event",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

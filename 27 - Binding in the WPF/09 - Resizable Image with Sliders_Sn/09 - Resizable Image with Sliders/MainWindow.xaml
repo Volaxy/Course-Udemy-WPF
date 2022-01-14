@@ -1,0 +1,24 @@
+﻿<Window x:Class="_09___Resizable_Image_with_Sliders.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_09___Resizable_Image_with_Sliders"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="462" Width="816">
+    <Grid>
+        <Slider x:Name="widthSlider" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="712" Minimum="50" Maximum="600" TickPlacement="BottomRight" TickFrequency="20" Value="50"/>
+        <Slider x:Name="heightSlider" HorizontalAlignment="Left" Margin="11,0,0,0" VerticalAlignment="Center" Width="29" Orientation="Vertical" Height="364" RenderTransformOrigin="0.5,0.5" TickPlacement="TopLeft" TickFrequency="20" Maximum="500" Minimum="50" Value="50">
+            <Slider.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="180"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Slider.RenderTransform>
+        </Slider>
+        <Image x:Name="mainImage" HorizontalAlignment="Left" Height="{Binding Value, ElementName=heightSlider, Mode=OneWay}" Margin="44,39,0,0" VerticalAlignment="Top" Width="{Binding Value, ElementName=widthSlider, Mode=OneWay}" Source="/koala_resized.jpg" Stretch="Fill"/>
+
+    </Grid>
+</Window>

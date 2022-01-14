@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\07 - OneWay to Source_Sn\07 - OneWay to Source\bin\Debug\07 - OneWay to Source.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\07 - OneWay to Source_Sn\07 - OneWay to Source\bin\Debug\07 - OneWay to Source.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\07 - OneWay to Source_Sn\07 - OneWay to Source\bin\Debug\07 - OneWay to Source.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\07 - OneWay to Source_Sn\07 - OneWay to Source\obj\Debug\07 - OneWay to Source.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\07 - OneWay to Source_Sn\07 - OneWay to Source\obj\Debug\07 - OneWay to Source.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\07 - OneWay to Source_Sn\07 - OneWay to Source\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\07 - OneWay to Source_Sn\07 - OneWay to Source\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\07 - OneWay to Source_Sn\07 - OneWay to Source\obj\Debug\07 - OneWay to Source_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\07 - OneWay to Source_Sn\07 - OneWay to Source\obj\Debug\07 - OneWay to Source_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\07 - OneWay to Source_Sn\07 - OneWay to Source\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\07 - OneWay to Source_Sn\07 - OneWay to Source\obj\Debug\07 - OneWay to Source.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\07 - OneWay to Source_Sn\07 - OneWay to Source\obj\Debug\_07___OneWay_to_Source.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\07 - OneWay to Source_Sn\07 - OneWay to Source\obj\Debug\07 - OneWay to Source.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\07 - OneWay to Source_Sn\07 - OneWay to Source\obj\Debug\07 - OneWay to Source.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\07 - OneWay to Source_Sn\07 - OneWay to Source\obj\Debug\07 - OneWay to Source.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\07 - OneWay to Source_Sn\07 - OneWay to Source\obj\Debug\07 - OneWay to Source.pdb

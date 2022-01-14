@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "539f17ac-2f79-4c22-8460-c77575f73765": {
+      "ProjectGuid": "539f17ac-2f79-4c22-8460-c77575f73765",
+      "DisplayName": "02 - OneWay Binding with ProgressBar",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5f7fc333-2dd1-459a-933c-5186717ec96d": {
+      "ProjectGuid": "5f7fc333-2dd1-459a-933c-5186717ec96d",
+      "DisplayName": "09 - Resizable Image with Sliders",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

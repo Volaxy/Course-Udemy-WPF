@@ -1,0 +1,16 @@
+﻿<Window x:Class="_01___OneWay_Binding_with_Slider.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_01___OneWay_Binding_with_Slider"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="236" Width="429">
+    <Grid>
+        <Button Content="Save" HorizontalAlignment="Left" Margin="59,28,0,0" VerticalAlignment="Top" Height="26" Width="77"/>
+        <Slider x:Name="mySlider" HorizontalAlignment="Left" Margin="59,0,0,0" VerticalAlignment="Center" Width="120" TickPlacement="BottomRight" Maximum="100" TickFrequency="5"/>
+        <Slider HorizontalAlignment="Left" Margin="59,138,0,0" VerticalAlignment="Top" Width="120" TickPlacement="BottomRight"/>
+        <TextBox HorizontalAlignment="Left" Margin="193,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="59" Text="{Binding Value, ElementName=mySlider, Mode=OneWay}"/>
+
+    </Grid>
+</Window>

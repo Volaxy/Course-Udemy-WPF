@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\01 - OneWay Binding with Slider_Sn\01 - OneWay Binding with Slider\bin\Debug\01 - OneWay Binding with Slider.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\01 - OneWay Binding with Slider_Sn\01 - OneWay Binding with Slider\bin\Debug\01 - OneWay Binding with Slider.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\01 - OneWay Binding with Slider_Sn\01 - OneWay Binding with Slider\bin\Debug\01 - OneWay Binding with Slider.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\01 - OneWay Binding with Slider_Sn\01 - OneWay Binding with Slider\obj\Debug\01 - OneWay Binding with Slider.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\01 - OneWay Binding with Slider_Sn\01 - OneWay Binding with Slider\obj\Debug\01 - OneWay Binding with Slider.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\01 - OneWay Binding with Slider_Sn\01 - OneWay Binding with Slider\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\01 - OneWay Binding with Slider_Sn\01 - OneWay Binding with Slider\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\01 - OneWay Binding with Slider_Sn\01 - OneWay Binding with Slider\obj\Debug\01 - OneWay Binding with Slider_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\01 - OneWay Binding with Slider_Sn\01 - OneWay Binding with Slider\obj\Debug\01 - OneWay Binding with Slider_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\01 - OneWay Binding with Slider_Sn\01 - OneWay Binding with Slider\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\01 - OneWay Binding with Slider_Sn\01 - OneWay Binding with Slider\obj\Debug\01 - OneWay Binding with Slider.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\01 - OneWay Binding with Slider_Sn\01 - OneWay Binding with Slider\obj\Debug\_01___OneWay_Binding_with_Slider.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\01 - OneWay Binding with Slider_Sn\01 - OneWay Binding with Slider\obj\Debug\01 - OneWay Binding with Slider.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\01 - OneWay Binding with Slider_Sn\01 - OneWay Binding with Slider\obj\Debug\01 - OneWay Binding with Slider.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\01 - OneWay Binding with Slider_Sn\01 - OneWay Binding with Slider\obj\Debug\01 - OneWay Binding with Slider.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\01 - OneWay Binding with Slider_Sn\01 - OneWay Binding with Slider\obj\Debug\01 - OneWay Binding with Slider.pdb

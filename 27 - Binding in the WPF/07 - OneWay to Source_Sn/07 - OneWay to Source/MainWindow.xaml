@@ -1,0 +1,14 @@
+﻿<Window x:Class="_07___OneWay_to_Source.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_07___OneWay_to_Source"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="248" Width="411">
+    <Grid>
+        <Slider x:Name="slider" HorizontalAlignment="Left" Margin="62,83,0,0" VerticalAlignment="Top" Width="120" TickPlacement="BottomRight"/>
+        <TextBox HorizontalAlignment="Left" Margin="187,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="65" Text="{Binding Value, ElementName=slider, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}"/>
+
+    </Grid>
+</Window>

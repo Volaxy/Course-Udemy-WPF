@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8a6c114a-e0d1-49f2-a460-4e59fab50a28": {
+      "ProjectGuid": "8a6c114a-e0d1-49f2-a460-4e59fab50a28",
+      "DisplayName": "01 - OneWay Binding with Slider",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

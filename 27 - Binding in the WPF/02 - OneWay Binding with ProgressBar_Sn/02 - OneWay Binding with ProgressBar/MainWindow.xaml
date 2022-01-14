@@ -1,0 +1,16 @@
+﻿<Window x:Class="_02___OneWay_Binding_with_ProgressBar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_02___OneWay_Binding_with_ProgressBar"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="236" Width="429">
+    <Grid>
+        <Slider x:Name="mySlider" HorizontalAlignment="Left" Margin="59,0,0,0" VerticalAlignment="Center" Width="120" TickPlacement="BottomRight" Maximum="100" TickFrequency="5"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="193,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="59" Text="{Binding Value, ElementName=mySlider, Mode=OneWay}"/>
+        <ProgressBar x:Name="myProgressBar" HorizontalAlignment="Left" Height="23" Margin="205,31,0,0" VerticalAlignment="Top" Width="127" Value="{Binding Value, ElementName=mySlider, Mode=OneWay}"/>
+        <ProgressBar x:Name="secondProgressBar" HorizontalAlignment="Left" Height="164" Margin="370,31,0,0" VerticalAlignment="Top" Width="23" Orientation="Vertical" Value="{Binding Text, ElementName=textBox}"/>
+
+    </Grid>
+</Window>

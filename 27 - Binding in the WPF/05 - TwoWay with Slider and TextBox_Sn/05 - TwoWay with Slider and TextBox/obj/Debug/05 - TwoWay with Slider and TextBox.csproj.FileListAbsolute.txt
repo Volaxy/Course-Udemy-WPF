@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\05 - TwoWay with Slider and TextBox_Sn\05 - TwoWay with Slider and TextBox\bin\Debug\05 - TwoWay with Slider and TextBox.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\05 - TwoWay with Slider and TextBox_Sn\05 - TwoWay with Slider and TextBox\bin\Debug\05 - TwoWay with Slider and TextBox.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\05 - TwoWay with Slider and TextBox_Sn\05 - TwoWay with Slider and TextBox\bin\Debug\05 - TwoWay with Slider and TextBox.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\05 - TwoWay with Slider and TextBox_Sn\05 - TwoWay with Slider and TextBox\obj\Debug\05 - TwoWay with Slider and TextBox.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\05 - TwoWay with Slider and TextBox_Sn\05 - TwoWay with Slider and TextBox\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\05 - TwoWay with Slider and TextBox_Sn\05 - TwoWay with Slider and TextBox\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\05 - TwoWay with Slider and TextBox_Sn\05 - TwoWay with Slider and TextBox\obj\Debug\05 - TwoWay with Slider and TextBox_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\05 - TwoWay with Slider and TextBox_Sn\05 - TwoWay with Slider and TextBox\obj\Debug\05 - TwoWay with Slider and TextBox_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\05 - TwoWay with Slider and TextBox_Sn\05 - TwoWay with Slider and TextBox\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\05 - TwoWay with Slider and TextBox_Sn\05 - TwoWay with Slider and TextBox\obj\Debug\05 - TwoWay with Slider and TextBox.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\05 - TwoWay with Slider and TextBox_Sn\05 - TwoWay with Slider and TextBox\obj\Debug\_05___TwoWay_with_Slider_and_TextBox.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\05 - TwoWay with Slider and TextBox_Sn\05 - TwoWay with Slider and TextBox\obj\Debug\05 - TwoWay with Slider and TextBox.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\05 - TwoWay with Slider and TextBox_Sn\05 - TwoWay with Slider and TextBox\obj\Debug\05 - TwoWay with Slider and TextBox.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\05 - TwoWay with Slider and TextBox_Sn\05 - TwoWay with Slider and TextBox\obj\Debug\05 - TwoWay with Slider and TextBox.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\05 - TwoWay with Slider and TextBox_Sn\05 - TwoWay with Slider and TextBox\obj\Debug\05 - TwoWay with Slider and TextBox.pdb

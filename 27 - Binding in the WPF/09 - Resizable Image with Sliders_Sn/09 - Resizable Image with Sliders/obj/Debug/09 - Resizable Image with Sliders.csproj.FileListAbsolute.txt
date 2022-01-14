@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\09 - Resizable Image with Sliders_Sn\09 - Resizable Image with Sliders\bin\Debug\09 - Resizable Image with Sliders.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\09 - Resizable Image with Sliders_Sn\09 - Resizable Image with Sliders\bin\Debug\09 - Resizable Image with Sliders.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\09 - Resizable Image with Sliders_Sn\09 - Resizable Image with Sliders\bin\Debug\09 - Resizable Image with Sliders.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\09 - Resizable Image with Sliders_Sn\09 - Resizable Image with Sliders\obj\Debug\09 - Resizable Image with Sliders.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\09 - Resizable Image with Sliders_Sn\09 - Resizable Image with Sliders\obj\Debug\09 - Resizable Image with Sliders.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\09 - Resizable Image with Sliders_Sn\09 - Resizable Image with Sliders\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\09 - Resizable Image with Sliders_Sn\09 - Resizable Image with Sliders\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\09 - Resizable Image with Sliders_Sn\09 - Resizable Image with Sliders\obj\Debug\09 - Resizable Image with Sliders_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\09 - Resizable Image with Sliders_Sn\09 - Resizable Image with Sliders\obj\Debug\09 - Resizable Image with Sliders_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\09 - Resizable Image with Sliders_Sn\09 - Resizable Image with Sliders\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\09 - Resizable Image with Sliders_Sn\09 - Resizable Image with Sliders\obj\Debug\09 - Resizable Image with Sliders.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\09 - Resizable Image with Sliders_Sn\09 - Resizable Image with Sliders\obj\Debug\_09___Resizable_Image_with_Sliders.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\09 - Resizable Image with Sliders_Sn\09 - Resizable Image with Sliders\obj\Debug\09 - Resizable Image with Sliders.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\09 - Resizable Image with Sliders_Sn\09 - Resizable Image with Sliders\obj\Debug\09 - Resizable Image with Sliders.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\09 - Resizable Image with Sliders_Sn\09 - Resizable Image with Sliders\obj\Debug\09 - Resizable Image with Sliders.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\09 - Resizable Image with Sliders_Sn\09 - Resizable Image with Sliders\obj\Debug\09 - Resizable Image with Sliders.pdb

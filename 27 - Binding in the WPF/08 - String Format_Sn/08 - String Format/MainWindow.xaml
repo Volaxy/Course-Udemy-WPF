@@ -1,0 +1,14 @@
+﻿<Window x:Class="_08___String_Format.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_08___String_Format"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="255" Width="503">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Margin="293,86,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="61" Text="{Binding Value, ElementName=slider, StringFormat=\{0:C0\}}"/>
+        <Slider x:Name="slider" HorizontalAlignment="Left" Margin="168,86,0,0" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

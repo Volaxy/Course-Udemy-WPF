@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 - OneWay to Enable Disable Controls", "03 - OneWay to Enable Disable Controls\03 - OneWay to Enable Disable Controls.csproj", "{DCCB3A0B-6E63-41B3-B7DD-B658F2306274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCCB3A0B-6E63-41B3-B7DD-B658F2306274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCB3A0B-6E63-41B3-B7DD-B658F2306274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCB3A0B-6E63-41B3-B7DD-B658F2306274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCB3A0B-6E63-41B3-B7DD-B658F2306274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E59F596-82E6-44F8-9F88-D7762184D684}
+	EndGlobalSection
+EndGlobal

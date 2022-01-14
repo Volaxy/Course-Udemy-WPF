@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7621b624-4ff1-4ca2-8ea8-dee8333da204": {
+      "ProjectGuid": "7621b624-4ff1-4ca2-8ea8-dee8333da204",
+      "DisplayName": "05 - TwoWay with Slider and TextBox",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

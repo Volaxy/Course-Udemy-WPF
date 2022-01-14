@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\04 - OneWay and RadioButton_Sn\04 - OneWay and RadioButton\obj\Debug\04 - OneWay and RadioButton.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\04 - OneWay and RadioButton_Sn\04 - OneWay and RadioButton\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\04 - OneWay and RadioButton_Sn\04 - OneWay and RadioButton\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\04 - OneWay and RadioButton_Sn\04 - OneWay and RadioButton\obj\Debug\04 - OneWay and RadioButton_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\04 - OneWay and RadioButton_Sn\04 - OneWay and RadioButton\obj\Debug\04 - OneWay and RadioButton_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\04 - OneWay and RadioButton_Sn\04 - OneWay and RadioButton\bin\Debug\04 - OneWay and RadioButton.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\04 - OneWay and RadioButton_Sn\04 - OneWay and RadioButton\bin\Debug\04 - OneWay and RadioButton.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\04 - OneWay and RadioButton_Sn\04 - OneWay and RadioButton\bin\Debug\04 - OneWay and RadioButton.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\04 - OneWay and RadioButton_Sn\04 - OneWay and RadioButton\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\04 - OneWay and RadioButton_Sn\04 - OneWay and RadioButton\obj\Debug\04 - OneWay and RadioButton.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\04 - OneWay and RadioButton_Sn\04 - OneWay and RadioButton\obj\Debug\_04___OneWay_and_RadioButton.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\04 - OneWay and RadioButton_Sn\04 - OneWay and RadioButton\obj\Debug\04 - OneWay and RadioButton.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\04 - OneWay and RadioButton_Sn\04 - OneWay and RadioButton\obj\Debug\04 - OneWay and RadioButton.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\04 - OneWay and RadioButton_Sn\04 - OneWay and RadioButton\obj\Debug\04 - OneWay and RadioButton.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\04 - OneWay and RadioButton_Sn\04 - OneWay and RadioButton\obj\Debug\04 - OneWay and RadioButton.pdb

@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\08 - String Format_Sn\08 - String Format\bin\Debug\08 - String Format.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\08 - String Format_Sn\08 - String Format\bin\Debug\08 - String Format.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\08 - String Format_Sn\08 - String Format\bin\Debug\08 - String Format.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\08 - String Format_Sn\08 - String Format\obj\Debug\08 - String Format.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\08 - String Format_Sn\08 - String Format\obj\Debug\08 - String Format.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\08 - String Format_Sn\08 - String Format\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\08 - String Format_Sn\08 - String Format\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\08 - String Format_Sn\08 - String Format\obj\Debug\08 - String Format_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\08 - String Format_Sn\08 - String Format\obj\Debug\08 - String Format_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\08 - String Format_Sn\08 - String Format\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\08 - String Format_Sn\08 - String Format\obj\Debug\08 - String Format.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\08 - String Format_Sn\08 - String Format\obj\Debug\_08___String_Format.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\08 - String Format_Sn\08 - String Format\obj\Debug\08 - String Format.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\08 - String Format_Sn\08 - String Format\obj\Debug\08 - String Format.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\08 - String Format_Sn\08 - String Format\obj\Debug\08 - String Format.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\27 - Binding in the WPF\08 - String Format_Sn\08 - String Format\obj\Debug\08 - String Format.pdb

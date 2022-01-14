@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\28 - Panel Controls\02 - Stack_Sn\02 - Stack\bin\Debug\02 - Stack.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\28 - Panel Controls\02 - Stack_Sn\02 - Stack\bin\Debug\02 - Stack.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\28 - Panel Controls\02 - Stack_Sn\02 - Stack\bin\Debug\02 - Stack.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\28 - Panel Controls\02 - Stack_Sn\02 - Stack\obj\Debug\02 - Stack.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\28 - Panel Controls\02 - Stack_Sn\02 - Stack\obj\Debug\02 - Stack.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\28 - Panel Controls\02 - Stack_Sn\02 - Stack\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\28 - Panel Controls\02 - Stack_Sn\02 - Stack\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\28 - Panel Controls\02 - Stack_Sn\02 - Stack\obj\Debug\02 - Stack_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\28 - Panel Controls\02 - Stack_Sn\02 - Stack\obj\Debug\02 - Stack_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\28 - Panel Controls\02 - Stack_Sn\02 - Stack\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\28 - Panel Controls\02 - Stack_Sn\02 - Stack\obj\Debug\02 - Stack.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\28 - Panel Controls\02 - Stack_Sn\02 - Stack\obj\Debug\_02___Stack.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\28 - Panel Controls\02 - Stack_Sn\02 - Stack\obj\Debug\02 - Stack.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\28 - Panel Controls\02 - Stack_Sn\02 - Stack\obj\Debug\02 - Stack.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\28 - Panel Controls\02 - Stack_Sn\02 - Stack\obj\Debug\02 - Stack.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\28 - Panel Controls\02 - Stack_Sn\02 - Stack\obj\Debug\02 - Stack.pdb

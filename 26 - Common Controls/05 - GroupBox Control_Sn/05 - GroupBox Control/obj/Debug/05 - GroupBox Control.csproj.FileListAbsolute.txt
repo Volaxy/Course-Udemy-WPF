@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\05 - GroupBox Control_Sn\05 - GroupBox Control\bin\Debug\05 - GroupBox Control.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\05 - GroupBox Control_Sn\05 - GroupBox Control\bin\Debug\05 - GroupBox Control.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\05 - GroupBox Control_Sn\05 - GroupBox Control\bin\Debug\05 - GroupBox Control.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\05 - GroupBox Control_Sn\05 - GroupBox Control\obj\Debug\05 - GroupBox Control.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\05 - GroupBox Control_Sn\05 - GroupBox Control\obj\Debug\05 - GroupBox Control.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\05 - GroupBox Control_Sn\05 - GroupBox Control\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\05 - GroupBox Control_Sn\05 - GroupBox Control\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\05 - GroupBox Control_Sn\05 - GroupBox Control\obj\Debug\05 - GroupBox Control_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\05 - GroupBox Control_Sn\05 - GroupBox Control\obj\Debug\05 - GroupBox Control_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\05 - GroupBox Control_Sn\05 - GroupBox Control\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\05 - GroupBox Control_Sn\05 - GroupBox Control\obj\Debug\05 - GroupBox Control.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\05 - GroupBox Control_Sn\05 - GroupBox Control\obj\Debug\_05___GroupBox_Control.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\05 - GroupBox Control_Sn\05 - GroupBox Control\obj\Debug\05 - GroupBox Control.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\05 - GroupBox Control_Sn\05 - GroupBox Control\obj\Debug\05 - GroupBox Control.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\05 - GroupBox Control_Sn\05 - GroupBox Control\obj\Debug\05 - GroupBox Control.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\05 - GroupBox Control_Sn\05 - GroupBox Control\obj\Debug\05 - GroupBox Control.pdb

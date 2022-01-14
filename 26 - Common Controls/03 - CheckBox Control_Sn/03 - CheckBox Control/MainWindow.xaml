@@ -1,0 +1,14 @@
+﻿<Window x:Class="_03___CheckBox_Control.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_03___CheckBox_Control"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="310" Width="572" Loaded="Window_Loaded">
+    <Grid>
+        <CheckBox x:Name="mainCheckBox" Content="Enable Alert" HorizontalAlignment="Center" Margin="0,71,0,0" VerticalAlignment="Top" Cursor="Hand" FontFamily="Cascadia Code Light" Checked="mainCheckBox_Checked" Unchecked="mainCheckBox_Unchecked"/>
+        <Button x:Name="mainButton" Content="Show Alert" HorizontalAlignment="Center" VerticalAlignment="Center" Height="37" Width="96"/>
+
+    </Grid>
+</Window>

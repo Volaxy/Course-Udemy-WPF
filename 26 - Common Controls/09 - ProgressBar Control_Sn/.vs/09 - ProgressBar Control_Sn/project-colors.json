@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7741b148-6218-4adb-8b4b-a7df90732b46": {
+      "ProjectGuid": "7741b148-6218-4adb-8b4b-a7df90732b46",
+      "DisplayName": "09 - ProgressBar Control",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

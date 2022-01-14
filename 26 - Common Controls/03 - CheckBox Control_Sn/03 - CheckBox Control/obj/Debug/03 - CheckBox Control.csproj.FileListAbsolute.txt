@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\03 - CheckBox Control_Sn\03 - CheckBox Control\bin\Debug\03 - CheckBox Control.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\03 - CheckBox Control_Sn\03 - CheckBox Control\bin\Debug\03 - CheckBox Control.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\03 - CheckBox Control_Sn\03 - CheckBox Control\bin\Debug\03 - CheckBox Control.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\03 - CheckBox Control_Sn\03 - CheckBox Control\obj\Debug\03 - CheckBox Control.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\03 - CheckBox Control_Sn\03 - CheckBox Control\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\03 - CheckBox Control_Sn\03 - CheckBox Control\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\03 - CheckBox Control_Sn\03 - CheckBox Control\obj\Debug\03 - CheckBox Control_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\03 - CheckBox Control_Sn\03 - CheckBox Control\obj\Debug\03 - CheckBox Control_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\03 - CheckBox Control_Sn\03 - CheckBox Control\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\03 - CheckBox Control_Sn\03 - CheckBox Control\obj\Debug\03 - CheckBox Control.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\03 - CheckBox Control_Sn\03 - CheckBox Control\obj\Debug\_03___CheckBox_Control.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\03 - CheckBox Control_Sn\03 - CheckBox Control\obj\Debug\03 - CheckBox Control.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\03 - CheckBox Control_Sn\03 - CheckBox Control\obj\Debug\03 - CheckBox Control.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\03 - CheckBox Control_Sn\03 - CheckBox Control\obj\Debug\03 - CheckBox Control.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\03 - CheckBox Control_Sn\03 - CheckBox Control\obj\Debug\03 - CheckBox Control.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8dcfe531-54b5-47e4-9773-129646b5da91": {
+      "ProjectGuid": "8dcfe531-54b5-47e4-9773-129646b5da91",
+      "DisplayName": "01 - Slider Control",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

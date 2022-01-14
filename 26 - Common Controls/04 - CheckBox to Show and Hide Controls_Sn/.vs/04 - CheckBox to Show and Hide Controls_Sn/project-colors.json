@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "49bc51a6-b5c5-4b66-8b38-1309172e4a2a": {
+      "ProjectGuid": "49bc51a6-b5c5-4b66-8b38-1309172e4a2a",
+      "DisplayName": "04 - CheckBox to Show and Hide Controls",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f0b3ebc9-c061-48ac-b2e6-81c4828ffc1a": {
+      "ProjectGuid": "f0b3ebc9-c061-48ac-b2e6-81c4828ffc1a",
+      "DisplayName": "03 - CheckBox Control",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,13 @@
+﻿<Window x:Class="_01___Slider_Control.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_01___Slider_Control"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="289" Width="501">
+    <Grid>
+        <Slider HorizontalAlignment="Center" VerticalAlignment="Center" Width="384" Maximum="100" Minimum="-100" Value="50" TickFrequency="10" TickPlacement="BottomRight" Orientation="Horizontal" IsSnapToTickEnabled="True" Height="168"/>
+
+    </Grid>
+</Window>

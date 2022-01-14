@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\06 - Border Control_Sn\06 - Border Control\bin\Debug\06 - Border Control.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\06 - Border Control_Sn\06 - Border Control\bin\Debug\06 - Border Control.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\06 - Border Control_Sn\06 - Border Control\bin\Debug\06 - Border Control.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\06 - Border Control_Sn\06 - Border Control\obj\Debug\06 - Border Control.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\06 - Border Control_Sn\06 - Border Control\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\06 - Border Control_Sn\06 - Border Control\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\06 - Border Control_Sn\06 - Border Control\obj\Debug\06 - Border Control_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\06 - Border Control_Sn\06 - Border Control\obj\Debug\06 - Border Control_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\06 - Border Control_Sn\06 - Border Control\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\06 - Border Control_Sn\06 - Border Control\obj\Debug\06 - Border Control.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\06 - Border Control_Sn\06 - Border Control\obj\Debug\_06___Border_Control.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\06 - Border Control_Sn\06 - Border Control\obj\Debug\06 - Border Control.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\06 - Border Control_Sn\06 - Border Control\obj\Debug\06 - Border Control.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\06 - Border Control_Sn\06 - Border Control\obj\Debug\06 - Border Control.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\26 - Common Controls\06 - Border Control_Sn\06 - Border Control\obj\Debug\06 - Border Control.pdb

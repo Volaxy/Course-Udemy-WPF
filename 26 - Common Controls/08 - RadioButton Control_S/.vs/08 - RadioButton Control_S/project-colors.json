@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c82ba68f-fcba-4b95-9d1b-a5fc458ed8b8": {
+      "ProjectGuid": "c82ba68f-fcba-4b95-9d1b-a5fc458ed8b8",
+      "DisplayName": "08 - RadioButton Control",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

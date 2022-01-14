@@ -1,0 +1,15 @@
+﻿<Window x:Class="_04___CheckBox_to_Show_and_Hide_Controls.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_04___CheckBox_to_Show_and_Hide_Controls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="281" Width="537" Loaded="Window_Loaded">
+    <Grid>
+        <Button x:Name="mainButton" Content="Show Alert" HorizontalAlignment="Center" Margin="0,77,0,0" VerticalAlignment="Top" Height="35" Width="138" FontSize="16"/>
+        <CheckBox x:Name="enableAlertCheckBox" Content="Enable Alert" HorizontalAlignment="Center" Margin="0,148,0,0" VerticalAlignment="Top" Unchecked="enableAlertCheckBox_Unchecked" Checked="enableAlertCheckBox_Checked"/>
+        <CheckBox x:Name="showHideCheckBox" Content="Show / Hide Button" HorizontalAlignment="Center" Margin="0,177,0,0" VerticalAlignment="Top" Checked="showHideCheckBox_Checked" Unchecked="showHideCheckBox_Unchecked" IsChecked="True"/>
+
+    </Grid>
+</Window>

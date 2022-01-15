@@ -1,0 +1,16 @@
+C:\Users\gugas\Desktop\Course-Udemy-WPF\28 - Panel Controls\03 - Wrap Panel_Sn\03 - Wrap Panel\bin\Debug\03 - Wrap Panel.exe.config
+C:\Users\gugas\Desktop\Course-Udemy-WPF\28 - Panel Controls\03 - Wrap Panel_Sn\03 - Wrap Panel\bin\Debug\03 - Wrap Panel.exe
+C:\Users\gugas\Desktop\Course-Udemy-WPF\28 - Panel Controls\03 - Wrap Panel_Sn\03 - Wrap Panel\bin\Debug\03 - Wrap Panel.pdb
+C:\Users\gugas\Desktop\Course-Udemy-WPF\28 - Panel Controls\03 - Wrap Panel_Sn\03 - Wrap Panel\obj\Debug\03 - Wrap Panel.csproj.AssemblyReference.cache
+C:\Users\gugas\Desktop\Course-Udemy-WPF\28 - Panel Controls\03 - Wrap Panel_Sn\03 - Wrap Panel\obj\Debug\03 - Wrap Panel.csproj.SuggestedBindingRedirects.cache
+C:\Users\gugas\Desktop\Course-Udemy-WPF\28 - Panel Controls\03 - Wrap Panel_Sn\03 - Wrap Panel\obj\Debug\MainWindow.g.cs
+C:\Users\gugas\Desktop\Course-Udemy-WPF\28 - Panel Controls\03 - Wrap Panel_Sn\03 - Wrap Panel\obj\Debug\App.g.cs
+C:\Users\gugas\Desktop\Course-Udemy-WPF\28 - Panel Controls\03 - Wrap Panel_Sn\03 - Wrap Panel\obj\Debug\03 - Wrap Panel_MarkupCompile.cache
+C:\Users\gugas\Desktop\Course-Udemy-WPF\28 - Panel Controls\03 - Wrap Panel_Sn\03 - Wrap Panel\obj\Debug\03 - Wrap Panel_MarkupCompile.lref
+C:\Users\gugas\Desktop\Course-Udemy-WPF\28 - Panel Controls\03 - Wrap Panel_Sn\03 - Wrap Panel\obj\Debug\MainWindow.baml
+C:\Users\gugas\Desktop\Course-Udemy-WPF\28 - Panel Controls\03 - Wrap Panel_Sn\03 - Wrap Panel\obj\Debug\03 - Wrap Panel.g.resources
+C:\Users\gugas\Desktop\Course-Udemy-WPF\28 - Panel Controls\03 - Wrap Panel_Sn\03 - Wrap Panel\obj\Debug\_03___Wrap_Panel.Properties.Resources.resources
+C:\Users\gugas\Desktop\Course-Udemy-WPF\28 - Panel Controls\03 - Wrap Panel_Sn\03 - Wrap Panel\obj\Debug\03 - Wrap Panel.csproj.GenerateResource.cache
+C:\Users\gugas\Desktop\Course-Udemy-WPF\28 - Panel Controls\03 - Wrap Panel_Sn\03 - Wrap Panel\obj\Debug\03 - Wrap Panel.csproj.CoreCompileInputs.cache
+C:\Users\gugas\Desktop\Course-Udemy-WPF\28 - Panel Controls\03 - Wrap Panel_Sn\03 - Wrap Panel\obj\Debug\03 - Wrap Panel.exe
+C:\Users\gugas\Desktop\Course-Udemy-WPF\28 - Panel Controls\03 - Wrap Panel_Sn\03 - Wrap Panel\obj\Debug\03 - Wrap Panel.pdb

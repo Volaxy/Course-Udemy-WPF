@@ -1,0 +1,21 @@
+﻿<Window x:Class="_05___Design_pro_Main_View_Window.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_05___Design_pro_Main_View_Window"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DockPanel x:Name="mainPanel" Background="#FF9B80FF">
+            <Canvas x:Name="leftPanel" Width="100" Background="#FF8DE2FF"/>
+            <Canvas Background="#FF72FF94" DockPanel.Dock="Top" Height="100">
+                <Button Content="Button" Canvas.Left="41" Canvas.Top="30" Height="40" Width="96"/>
+            </Canvas>
+            <Canvas Background="#FFFF3F62" DockPanel.Dock="Bottom" Height="100">
+                <Button Content="Button" Canvas.Left="44" Canvas.Top="30" Height="40" Width="96"/>
+            </Canvas>
+        </DockPanel>
+
+    </Grid>
+</Window>

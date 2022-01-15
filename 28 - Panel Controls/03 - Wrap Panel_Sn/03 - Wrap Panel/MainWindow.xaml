@@ -1,0 +1,20 @@
+﻿<Window x:Class="_03___Wrap_Panel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_03___Wrap_Panel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="391" Width="760">
+    <Grid>
+        <WrapPanel Margin="231,81,108,183" Background="#FFC1F2FF" Orientation="Vertical" ItemHeight="40" ItemWidth="80">
+            <Button Content="Button"/>
+            <Button Content="Button"/>
+            <Button Content="Button" Width="50" Height="30"/>
+            <Button Content="Button"/>
+            <Button Content="Button"/>
+            <Button Content="Button"/>
+        </WrapPanel>
+
+    </Grid>
+</Window>

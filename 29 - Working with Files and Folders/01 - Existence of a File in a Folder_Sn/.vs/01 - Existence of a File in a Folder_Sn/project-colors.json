@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bffad5ff-b9b6-4fb8-b738-40d77647ebc1": {
+      "ProjectGuid": "bffad5ff-b9b6-4fb8-b738-40d77647ebc1",
+      "DisplayName": "01 - Existence of a File in a Folder",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

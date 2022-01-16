@@ -7,12 +7,25 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <DockPanel x:Name="mainPanel" Background="#FF9B80FF">
-            <Canvas x:Name="leftPanel" Width="100" Background="#FF8DE2FF"/>
-            <Canvas Background="#FF72FF94" DockPanel.Dock="Top" Height="100">
+        <DockPanel x:Name="mainPanel" LastChildFill="False">
+            <DockPanel.Background>
+                <ImageBrush ImageSource="/main_image.jpg" Stretch="UniformToFill"/>
+            </DockPanel.Background>
+            <Canvas x:Name="leftPanel" Width="100">
+                <Canvas.Background>
+                    <SolidColorBrush Color="#FF8DE2FF" Opacity="0.5"/>
+                </Canvas.Background>
+            </Canvas>
+            <Canvas DockPanel.Dock="Top" Height="100">
+                <Canvas.Background>
+                    <SolidColorBrush Color="#FF72FF94" Opacity="0.7"/>
+                </Canvas.Background>
                 <Button Content="Button" Canvas.Left="41" Canvas.Top="30" Height="40" Width="96"/>
             </Canvas>
-            <Canvas Background="#FFFF3F62" DockPanel.Dock="Bottom" Height="100">
+            <Canvas DockPanel.Dock="Bottom" Height="100">
+                <Canvas.Background>
+                    <SolidColorBrush Color="#FFFF3F62" Opacity="0.2"/>
+                </Canvas.Background>
                 <Button Content="Button" Canvas.Left="44" Canvas.Top="30" Height="40" Width="96"/>
             </Canvas>
         </DockPanel>

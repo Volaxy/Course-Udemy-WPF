@@ -1,0 +1,16 @@
+C:\Users\gugas\Desktop\Course-Udemy-WPF\29 - Working with Files and Folders\02 - Delete a file from Code_Sn\02 - Delete a file from Code\bin\Debug\02 - Delete a file from Code.exe.config
+C:\Users\gugas\Desktop\Course-Udemy-WPF\29 - Working with Files and Folders\02 - Delete a file from Code_Sn\02 - Delete a file from Code\bin\Debug\02 - Delete a file from Code.exe
+C:\Users\gugas\Desktop\Course-Udemy-WPF\29 - Working with Files and Folders\02 - Delete a file from Code_Sn\02 - Delete a file from Code\bin\Debug\02 - Delete a file from Code.pdb
+C:\Users\gugas\Desktop\Course-Udemy-WPF\29 - Working with Files and Folders\02 - Delete a file from Code_Sn\02 - Delete a file from Code\obj\Debug\02 - Delete a file from Code.csproj.AssemblyReference.cache
+C:\Users\gugas\Desktop\Course-Udemy-WPF\29 - Working with Files and Folders\02 - Delete a file from Code_Sn\02 - Delete a file from Code\obj\Debug\02 - Delete a file from Code.csproj.SuggestedBindingRedirects.cache
+C:\Users\gugas\Desktop\Course-Udemy-WPF\29 - Working with Files and Folders\02 - Delete a file from Code_Sn\02 - Delete a file from Code\obj\Debug\MainWindow.g.cs
+C:\Users\gugas\Desktop\Course-Udemy-WPF\29 - Working with Files and Folders\02 - Delete a file from Code_Sn\02 - Delete a file from Code\obj\Debug\App.g.cs
+C:\Users\gugas\Desktop\Course-Udemy-WPF\29 - Working with Files and Folders\02 - Delete a file from Code_Sn\02 - Delete a file from Code\obj\Debug\02 - Delete a file from Code_MarkupCompile.cache
+C:\Users\gugas\Desktop\Course-Udemy-WPF\29 - Working with Files and Folders\02 - Delete a file from Code_Sn\02 - Delete a file from Code\obj\Debug\02 - Delete a file from Code_MarkupCompile.lref
+C:\Users\gugas\Desktop\Course-Udemy-WPF\29 - Working with Files and Folders\02 - Delete a file from Code_Sn\02 - Delete a file from Code\obj\Debug\MainWindow.baml
+C:\Users\gugas\Desktop\Course-Udemy-WPF\29 - Working with Files and Folders\02 - Delete a file from Code_Sn\02 - Delete a file from Code\obj\Debug\02 - Delete a file from Code.g.resources
+C:\Users\gugas\Desktop\Course-Udemy-WPF\29 - Working with Files and Folders\02 - Delete a file from Code_Sn\02 - Delete a file from Code\obj\Debug\_02___Delete_a_file_from_Code.Properties.Resources.resources
+C:\Users\gugas\Desktop\Course-Udemy-WPF\29 - Working with Files and Folders\02 - Delete a file from Code_Sn\02 - Delete a file from Code\obj\Debug\02 - Delete a file from Code.csproj.GenerateResource.cache
+C:\Users\gugas\Desktop\Course-Udemy-WPF\29 - Working with Files and Folders\02 - Delete a file from Code_Sn\02 - Delete a file from Code\obj\Debug\02 - Delete a file from Code.csproj.CoreCompileInputs.cache
+C:\Users\gugas\Desktop\Course-Udemy-WPF\29 - Working with Files and Folders\02 - Delete a file from Code_Sn\02 - Delete a file from Code\obj\Debug\02 - Delete a file from Code.exe
+C:\Users\gugas\Desktop\Course-Udemy-WPF\29 - Working with Files and Folders\02 - Delete a file from Code_Sn\02 - Delete a file from Code\obj\Debug\02 - Delete a file from Code.pdb

@@ -1,0 +1,15 @@
+﻿<Window x:Class="_01___Existence_of_a_File_in_a_Folder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_01___Existence_of_a_File_in_a_Folder"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="checkFileExistsButton" Content="Check if File Exists" HorizontalAlignment="Left" Margin="308,90,0,0" VerticalAlignment="Top" Height="43" Width="165" Click="checkFileExistsButton_Click"/>
+        <Button x:Name="appSourceButton" Content="Find App Source" HorizontalAlignment="Left" Margin="313,255,0,0" VerticalAlignment="Top" Height="29" Width="155" Click="appSourceButton_Click"/>
+        <TextBox x:Name="pathTextBox" HorizontalAlignment="Center" Margin="0,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="248" Height="41" FontSize="16"/>
+
+    </Grid>
+</Window>

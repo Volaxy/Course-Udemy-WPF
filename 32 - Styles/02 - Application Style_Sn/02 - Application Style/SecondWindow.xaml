@@ -1,0 +1,16 @@
+﻿<Window x:Name="secondWindow" x:Class="_02___Application_Style.SecondWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_02___Application_Style"
+        mc:Ignorable="d"
+        Title="SecondWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Center" Margin="0,118,0,0" VerticalAlignment="Top" Height="28" Width="56" Style="{DynamicResource smallButton}"/>
+        <Button Content="Button" HorizontalAlignment="Center" Margin="0,151,0,0" VerticalAlignment="Top" Height="28" Width="56"/>
+        <Button Content="Button" HorizontalAlignment="Center" Margin="0,184,0,0" VerticalAlignment="Top" Height="28" Width="56"/>
+        <Button Content="Button" HorizontalAlignment="Center" Margin="0,217,0,0" VerticalAlignment="Top" Height="28" Width="56"/>
+
+    </Grid>
+</Window>

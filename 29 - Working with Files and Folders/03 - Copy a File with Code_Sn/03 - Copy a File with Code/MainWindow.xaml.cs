@@ -27,7 +27,11 @@ namespace _03___Copy_a_File_with_Code
 
         private void copyFileButton_Click(object sender, RoutedEventArgs e)
         {
-            System.IO.File.Copy("C:\\Users\\gugas\\Desktop\\Adv_WPF_sn\\Adv_WPF\\2nd_ctls\\Images\\file_32.png", "C:\\Users\\gugas\\Desktop");
+            Microsoft.Win32.SaveFileDialog saveFileDialog = new Microsoft.Win32.SaveFileDialog();
+
+            saveFileDialog.ShowDialog();
+
+            System.IO.File.Copy(this.pathTextBox.Text, saveFileDialog.FileName, true);
         }
 
         private void browseButton_Click(object sender, RoutedEventArgs e)

@@ -1,0 +1,13 @@
+﻿<Window x:Class="_05___Existence_of_a_Folder_by_Code.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_05___Existence_of_a_Folder_by_Code"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="folderExistsButton" Content="Folder Exists" HorizontalAlignment="Center" VerticalAlignment="Center" Height="72" Width="220" FontSize="24" Click="folderExistsButton_Click"/>
+
+    </Grid>
+</Window>

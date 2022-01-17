@@ -1,0 +1,15 @@
+﻿<Window x:Class="_04___Move_a_File_with_Code.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_04___Move_a_File_with_Code"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="pathTextBox" HorizontalAlignment="Center" Margin="0,175,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="471"/>
+        <Button x:Name="moveFileButton" Content="Move File" HorizontalAlignment="Left" Margin="249,217,0,0" VerticalAlignment="Top" Height="36" Width="104" Click="moveFileButton_Click"/>
+        <Button x:Name="browseButton" Content="Browse" HorizontalAlignment="Left" Margin="438,217,0,0" VerticalAlignment="Top" Height="36" Width="104" Click="browseButton_Click"/>
+
+    </Grid>
+</Window>

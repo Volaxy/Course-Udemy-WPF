@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\33 - Triggers\03 - Using Data Triggers_Sn\03 - Using Data Triggers\bin\Debug\03 - Using Data Triggers.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\33 - Triggers\03 - Using Data Triggers_Sn\03 - Using Data Triggers\bin\Debug\03 - Using Data Triggers.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\33 - Triggers\03 - Using Data Triggers_Sn\03 - Using Data Triggers\bin\Debug\03 - Using Data Triggers.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\33 - Triggers\03 - Using Data Triggers_Sn\03 - Using Data Triggers\obj\Debug\03 - Using Data Triggers.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\33 - Triggers\03 - Using Data Triggers_Sn\03 - Using Data Triggers\obj\Debug\03 - Using Data Triggers.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\33 - Triggers\03 - Using Data Triggers_Sn\03 - Using Data Triggers\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\33 - Triggers\03 - Using Data Triggers_Sn\03 - Using Data Triggers\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\33 - Triggers\03 - Using Data Triggers_Sn\03 - Using Data Triggers\obj\Debug\03 - Using Data Triggers_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\33 - Triggers\03 - Using Data Triggers_Sn\03 - Using Data Triggers\obj\Debug\03 - Using Data Triggers_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\33 - Triggers\03 - Using Data Triggers_Sn\03 - Using Data Triggers\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\33 - Triggers\03 - Using Data Triggers_Sn\03 - Using Data Triggers\obj\Debug\03 - Using Data Triggers.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\33 - Triggers\03 - Using Data Triggers_Sn\03 - Using Data Triggers\obj\Debug\_03___Using_Data_Triggers.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\33 - Triggers\03 - Using Data Triggers_Sn\03 - Using Data Triggers\obj\Debug\03 - Using Data Triggers.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\33 - Triggers\03 - Using Data Triggers_Sn\03 - Using Data Triggers\obj\Debug\03 - Using Data Triggers.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\33 - Triggers\03 - Using Data Triggers_Sn\03 - Using Data Triggers\obj\Debug\03 - Using Data Triggers.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\33 - Triggers\03 - Using Data Triggers_Sn\03 - Using Data Triggers\obj\Debug\03 - Using Data Triggers.pdb

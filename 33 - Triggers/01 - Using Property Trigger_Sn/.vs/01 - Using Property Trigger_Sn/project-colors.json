@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3ef60ba-6d0b-4af5-8b1e-e1a73546eb92": {
+      "ProjectGuid": "e3ef60ba-6d0b-4af5-8b1e-e1a73546eb92",
+      "DisplayName": "01 - Using Property Trigger",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

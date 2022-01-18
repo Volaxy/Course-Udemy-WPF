@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - ToolBarTray to Align ToolBars", "10 - ToolBarTray to Align ToolBars\10 - ToolBarTray to Align ToolBars.csproj", "{78C1C0DF-4812-4837-9059-7D6FF43609F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78C1C0DF-4812-4837-9059-7D6FF43609F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C1C0DF-4812-4837-9059-7D6FF43609F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C1C0DF-4812-4837-9059-7D6FF43609F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C1C0DF-4812-4837-9059-7D6FF43609F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {989CAA52-0B1A-465D-AB3E-63BA78CCF602}
+	EndGlobalSection
+EndGlobal

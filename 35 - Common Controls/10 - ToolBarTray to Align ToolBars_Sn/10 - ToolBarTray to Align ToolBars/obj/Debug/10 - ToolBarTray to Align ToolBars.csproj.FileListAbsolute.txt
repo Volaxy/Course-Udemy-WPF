@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\10 - ToolBarTray to Align ToolBars_Sn\10 - ToolBarTray to Align ToolBars\bin\Debug\10 - ToolBarTray to Align ToolBars.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\10 - ToolBarTray to Align ToolBars_Sn\10 - ToolBarTray to Align ToolBars\bin\Debug\10 - ToolBarTray to Align ToolBars.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\10 - ToolBarTray to Align ToolBars_Sn\10 - ToolBarTray to Align ToolBars\bin\Debug\10 - ToolBarTray to Align ToolBars.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\10 - ToolBarTray to Align ToolBars_Sn\10 - ToolBarTray to Align ToolBars\obj\Debug\10 - ToolBarTray to Align ToolBars.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\10 - ToolBarTray to Align ToolBars_Sn\10 - ToolBarTray to Align ToolBars\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\10 - ToolBarTray to Align ToolBars_Sn\10 - ToolBarTray to Align ToolBars\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\10 - ToolBarTray to Align ToolBars_Sn\10 - ToolBarTray to Align ToolBars\obj\Debug\10 - ToolBarTray to Align ToolBars_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\10 - ToolBarTray to Align ToolBars_Sn\10 - ToolBarTray to Align ToolBars\obj\Debug\10 - ToolBarTray to Align ToolBars_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\10 - ToolBarTray to Align ToolBars_Sn\10 - ToolBarTray to Align ToolBars\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\10 - ToolBarTray to Align ToolBars_Sn\10 - ToolBarTray to Align ToolBars\obj\Debug\10 - ToolBarTray to Align ToolBars.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\10 - ToolBarTray to Align ToolBars_Sn\10 - ToolBarTray to Align ToolBars\obj\Debug\_10___ToolBarTray_to_Align_ToolBars.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\10 - ToolBarTray to Align ToolBars_Sn\10 - ToolBarTray to Align ToolBars\obj\Debug\10 - ToolBarTray to Align ToolBars.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\10 - ToolBarTray to Align ToolBars_Sn\10 - ToolBarTray to Align ToolBars\obj\Debug\10 - ToolBarTray to Align ToolBars.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\10 - ToolBarTray to Align ToolBars_Sn\10 - ToolBarTray to Align ToolBars\obj\Debug\10 - ToolBarTray to Align ToolBars.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\10 - ToolBarTray to Align ToolBars_Sn\10 - ToolBarTray to Align ToolBars\obj\Debug\10 - ToolBarTray to Align ToolBars.pdb

@@ -1,0 +1,9 @@
+﻿<Application x:Class="_09___Event_to_Toolbar_Buttons.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_09___Event_to_Toolbar_Buttons"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

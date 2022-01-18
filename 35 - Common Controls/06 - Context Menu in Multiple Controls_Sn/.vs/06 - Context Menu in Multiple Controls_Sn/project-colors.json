@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "47cf9267-57e2-4f0e-aa28-1b0f5779a12c": {
+      "ProjectGuid": "47cf9267-57e2-4f0e-aa28-1b0f5779a12c",
+      "DisplayName": "06 - Context Menu in Multiple Controls",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

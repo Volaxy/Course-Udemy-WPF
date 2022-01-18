@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\09 - Event to Toolbar Buttons_Sn\09 - Event to Toolbar Buttons\bin\Debug\09 - Event to Toolbar Buttons.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\09 - Event to Toolbar Buttons_Sn\09 - Event to Toolbar Buttons\bin\Debug\09 - Event to Toolbar Buttons.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\09 - Event to Toolbar Buttons_Sn\09 - Event to Toolbar Buttons\bin\Debug\09 - Event to Toolbar Buttons.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\09 - Event to Toolbar Buttons_Sn\09 - Event to Toolbar Buttons\obj\Debug\09 - Event to Toolbar Buttons.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\09 - Event to Toolbar Buttons_Sn\09 - Event to Toolbar Buttons\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\09 - Event to Toolbar Buttons_Sn\09 - Event to Toolbar Buttons\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\09 - Event to Toolbar Buttons_Sn\09 - Event to Toolbar Buttons\obj\Debug\09 - Event to Toolbar Buttons_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\09 - Event to Toolbar Buttons_Sn\09 - Event to Toolbar Buttons\obj\Debug\09 - Event to Toolbar Buttons_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\09 - Event to Toolbar Buttons_Sn\09 - Event to Toolbar Buttons\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\09 - Event to Toolbar Buttons_Sn\09 - Event to Toolbar Buttons\obj\Debug\09 - Event to Toolbar Buttons.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\09 - Event to Toolbar Buttons_Sn\09 - Event to Toolbar Buttons\obj\Debug\_09___Event_to_Toolbar_Buttons.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\09 - Event to Toolbar Buttons_Sn\09 - Event to Toolbar Buttons\obj\Debug\09 - Event to Toolbar Buttons.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\09 - Event to Toolbar Buttons_Sn\09 - Event to Toolbar Buttons\obj\Debug\09 - Event to Toolbar Buttons.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\09 - Event to Toolbar Buttons_Sn\09 - Event to Toolbar Buttons\obj\Debug\09 - Event to Toolbar Buttons.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\09 - Event to Toolbar Buttons_Sn\09 - Event to Toolbar Buttons\obj\Debug\09 - Event to Toolbar Buttons.pdb

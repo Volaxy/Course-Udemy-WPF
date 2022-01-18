@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\08 - Add Image to Buttons_Sn\08 - Add Image to Buttons\bin\Debug\08 - Add Image to Buttons.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\08 - Add Image to Buttons_Sn\08 - Add Image to Buttons\bin\Debug\08 - Add Image to Buttons.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\08 - Add Image to Buttons_Sn\08 - Add Image to Buttons\bin\Debug\08 - Add Image to Buttons.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\08 - Add Image to Buttons_Sn\08 - Add Image to Buttons\obj\Debug\08 - Add Image to Buttons.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\08 - Add Image to Buttons_Sn\08 - Add Image to Buttons\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\08 - Add Image to Buttons_Sn\08 - Add Image to Buttons\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\08 - Add Image to Buttons_Sn\08 - Add Image to Buttons\obj\Debug\08 - Add Image to Buttons_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\08 - Add Image to Buttons_Sn\08 - Add Image to Buttons\obj\Debug\08 - Add Image to Buttons_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\08 - Add Image to Buttons_Sn\08 - Add Image to Buttons\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\08 - Add Image to Buttons_Sn\08 - Add Image to Buttons\obj\Debug\08 - Add Image to Buttons.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\08 - Add Image to Buttons_Sn\08 - Add Image to Buttons\obj\Debug\_08___Add_Image_to_Buttons.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\08 - Add Image to Buttons_Sn\08 - Add Image to Buttons\obj\Debug\08 - Add Image to Buttons.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\08 - Add Image to Buttons_Sn\08 - Add Image to Buttons\obj\Debug\08 - Add Image to Buttons.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\08 - Add Image to Buttons_Sn\08 - Add Image to Buttons\obj\Debug\08 - Add Image to Buttons.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\08 - Add Image to Buttons_Sn\08 - Add Image to Buttons\obj\Debug\08 - Add Image to Buttons.pdb

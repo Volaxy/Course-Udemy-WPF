@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "67a9bafe-c1af-4d9e-b8d5-34fafdb0aece": {
+      "ProjectGuid": "67a9bafe-c1af-4d9e-b8d5-34fafdb0aece",
+      "DisplayName": "03 - Add Icon to ContextMenu Items",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

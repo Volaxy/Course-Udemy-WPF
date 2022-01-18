@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\07 - Start Using ToolBar_Sn\07 - Start Using ToolBar\bin\Debug\07 - Start Using ToolBar.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\07 - Start Using ToolBar_Sn\07 - Start Using ToolBar\bin\Debug\07 - Start Using ToolBar.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\07 - Start Using ToolBar_Sn\07 - Start Using ToolBar\bin\Debug\07 - Start Using ToolBar.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\07 - Start Using ToolBar_Sn\07 - Start Using ToolBar\obj\Debug\07 - Start Using ToolBar.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\07 - Start Using ToolBar_Sn\07 - Start Using ToolBar\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\07 - Start Using ToolBar_Sn\07 - Start Using ToolBar\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\07 - Start Using ToolBar_Sn\07 - Start Using ToolBar\obj\Debug\07 - Start Using ToolBar_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\07 - Start Using ToolBar_Sn\07 - Start Using ToolBar\obj\Debug\07 - Start Using ToolBar_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\07 - Start Using ToolBar_Sn\07 - Start Using ToolBar\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\07 - Start Using ToolBar_Sn\07 - Start Using ToolBar\obj\Debug\07 - Start Using ToolBar.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\07 - Start Using ToolBar_Sn\07 - Start Using ToolBar\obj\Debug\_07___Start_Using_ToolBar.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\07 - Start Using ToolBar_Sn\07 - Start Using ToolBar\obj\Debug\07 - Start Using ToolBar.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\07 - Start Using ToolBar_Sn\07 - Start Using ToolBar\obj\Debug\07 - Start Using ToolBar.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\07 - Start Using ToolBar_Sn\07 - Start Using ToolBar\obj\Debug\07 - Start Using ToolBar.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\07 - Start Using ToolBar_Sn\07 - Start Using ToolBar\obj\Debug\07 - Start Using ToolBar.pdb

@@ -1,0 +1,9 @@
+﻿<Application x:Class="_04___Style_to_ContextMenu_and_Items.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_04___Style_to_ContextMenu_and_Items"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

@@ -1,0 +1,36 @@
+﻿<Window x:Class="_10___ToolBarTray_to_Align_ToolBars.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_10___ToolBarTray_to_Align_ToolBars"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="205" Width="474">
+    <Grid>
+        <ToolBarTray Height="60" VerticalAlignment="Top" >
+            <ToolBar HorizontalAlignment="Center" Height="30" VerticalAlignment="Center" Width="200">
+                <Button Content="Debug"/>
+                <Button Content="Test"/>
+                <Separator/>
+            </ToolBar>
+            <ToolBar HorizontalAlignment="Center" Height="30" VerticalAlignment="Center" Width="200">
+                <Button Content="Tools"/>
+                <Button Content="Help"/>
+                <Separator/>
+            </ToolBar>
+        </ToolBarTray>
+
+        <ToolBarTray Height="115" VerticalAlignment="Top" Orientation="Vertical" Margin="0,74,0,0" >
+            <ToolBar HorizontalAlignment="Center" Height="30" VerticalAlignment="Center" Width="200">
+                <Button Content="Debug"/>
+                <Button Content="Test"/>
+                <Separator/>
+            </ToolBar>
+            <ToolBar HorizontalAlignment="Center" Height="85" VerticalAlignment="Center" Width="200">
+                <Button Content="Tools"/>
+                <Button Content="Help"/>
+                <Separator/>
+            </ToolBar>
+        </ToolBarTray>
+    </Grid>
+</Window>

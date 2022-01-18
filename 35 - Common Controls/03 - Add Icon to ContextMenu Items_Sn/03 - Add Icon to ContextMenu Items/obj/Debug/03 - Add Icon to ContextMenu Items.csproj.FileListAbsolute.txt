@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\03 - Add Icon to ContextMenu Items_Sn\03 - Add Icon to ContextMenu Items\obj\Debug\03 - Add Icon to ContextMenu Items.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\03 - Add Icon to ContextMenu Items_Sn\03 - Add Icon to ContextMenu Items\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\03 - Add Icon to ContextMenu Items_Sn\03 - Add Icon to ContextMenu Items\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\03 - Add Icon to ContextMenu Items_Sn\03 - Add Icon to ContextMenu Items\obj\Debug\03 - Add Icon to ContextMenu Items_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\03 - Add Icon to ContextMenu Items_Sn\03 - Add Icon to ContextMenu Items\obj\Debug\03 - Add Icon to ContextMenu Items_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\03 - Add Icon to ContextMenu Items_Sn\03 - Add Icon to ContextMenu Items\bin\Debug\03 - Add Icon to ContextMenu Items.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\03 - Add Icon to ContextMenu Items_Sn\03 - Add Icon to ContextMenu Items\bin\Debug\03 - Add Icon to ContextMenu Items.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\03 - Add Icon to ContextMenu Items_Sn\03 - Add Icon to ContextMenu Items\bin\Debug\03 - Add Icon to ContextMenu Items.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\03 - Add Icon to ContextMenu Items_Sn\03 - Add Icon to ContextMenu Items\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\03 - Add Icon to ContextMenu Items_Sn\03 - Add Icon to ContextMenu Items\obj\Debug\03 - Add Icon to ContextMenu Items.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\03 - Add Icon to ContextMenu Items_Sn\03 - Add Icon to ContextMenu Items\obj\Debug\_03___Add_Icon_to_ContextMenu_Items.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\03 - Add Icon to ContextMenu Items_Sn\03 - Add Icon to ContextMenu Items\obj\Debug\03 - Add Icon to ContextMenu Items.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\03 - Add Icon to ContextMenu Items_Sn\03 - Add Icon to ContextMenu Items\obj\Debug\03 - Add Icon to ContextMenu Items.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\03 - Add Icon to ContextMenu Items_Sn\03 - Add Icon to ContextMenu Items\obj\Debug\03 - Add Icon to ContextMenu Items.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\03 - Add Icon to ContextMenu Items_Sn\03 - Add Icon to ContextMenu Items\obj\Debug\03 - Add Icon to ContextMenu Items.pdb

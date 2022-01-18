@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "21bdd557-e32f-4a5d-845f-12e3c8860eb3": {
+      "ProjectGuid": "21bdd557-e32f-4a5d-845f-12e3c8860eb3",
+      "DisplayName": "02 - Add Event to ContextMenu Items",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

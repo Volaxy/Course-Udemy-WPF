@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\04 - Style to ContextMenu and Items_Sn\04 - Style to ContextMenu and Items\bin\Debug\04 - Style to ContextMenu and Items.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\04 - Style to ContextMenu and Items_Sn\04 - Style to ContextMenu and Items\bin\Debug\04 - Style to ContextMenu and Items.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\04 - Style to ContextMenu and Items_Sn\04 - Style to ContextMenu and Items\bin\Debug\04 - Style to ContextMenu and Items.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\04 - Style to ContextMenu and Items_Sn\04 - Style to ContextMenu and Items\obj\Debug\04 - Style to ContextMenu and Items.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\04 - Style to ContextMenu and Items_Sn\04 - Style to ContextMenu and Items\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\04 - Style to ContextMenu and Items_Sn\04 - Style to ContextMenu and Items\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\04 - Style to ContextMenu and Items_Sn\04 - Style to ContextMenu and Items\obj\Debug\04 - Style to ContextMenu and Items_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\04 - Style to ContextMenu and Items_Sn\04 - Style to ContextMenu and Items\obj\Debug\04 - Style to ContextMenu and Items_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\04 - Style to ContextMenu and Items_Sn\04 - Style to ContextMenu and Items\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\04 - Style to ContextMenu and Items_Sn\04 - Style to ContextMenu and Items\obj\Debug\04 - Style to ContextMenu and Items.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\04 - Style to ContextMenu and Items_Sn\04 - Style to ContextMenu and Items\obj\Debug\_04___Style_to_ContextMenu_and_Items.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\04 - Style to ContextMenu and Items_Sn\04 - Style to ContextMenu and Items\obj\Debug\04 - Style to ContextMenu and Items.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\04 - Style to ContextMenu and Items_Sn\04 - Style to ContextMenu and Items\obj\Debug\04 - Style to ContextMenu and Items.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\04 - Style to ContextMenu and Items_Sn\04 - Style to ContextMenu and Items\obj\Debug\04 - Style to ContextMenu and Items.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\04 - Style to ContextMenu and Items_Sn\04 - Style to ContextMenu and Items\obj\Debug\04 - Style to ContextMenu and Items.pdb

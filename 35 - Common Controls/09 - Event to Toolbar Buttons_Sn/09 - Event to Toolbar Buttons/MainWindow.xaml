@@ -1,0 +1,59 @@
+﻿<Window x:Class="_09___Event_to_Toolbar_Buttons.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_09___Event_to_Toolbar_Buttons"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="150" Width="474">
+    <Grid>
+        <ToolBar Margin="0,0,0,56">
+            <Separator/>
+            <Button x:Name="undoButton" Cursor="Hand" Click="undoButton_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/pics/exit.png" Width="25" Height="25"/>
+                    <Label Content="Undo" VerticalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+            <Button x:Name="copyButton" Cursor="Hand" Click="copyButton_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/pics/copy.png" Width="25" Height="25"/>
+                    <Label Content="Copy" VerticalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+            <Button x:Name="cutButton" Cursor="Hand" Click="cutButton_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/pics/cut.png" Width="25" Height="25"/>
+                    <Label Content="Cut" VerticalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+            <Button x:Name="pasteButton" Cursor="Hand" Click="pasteButton_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/pics/paste-16.png" Width="25" Height="25"/>
+                    <Label Content="Paste" VerticalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+
+            <Separator/>
+            <Button x:Name="imgCopyButton" Cursor="Hand">
+                <Image Source="/pics/copy.png" Height="25" Width="25"/>
+            </Button>
+            <Button x:Name="imgCutButton" Cursor="Hand">
+                <Image Source="/pics/cut.png" Height="25" Width="25"/>
+            </Button>
+            <Button x:Name="imgPasteButton" Cursor="Hand">
+                <Image Source="/pics/paste-16.png" Height="25" Width="25"/>
+            </Button>
+            <Separator/>
+
+            <Label Content="Font Size:" Height="25"/>
+            <ComboBox SelectedIndex="0" Cursor="Hand">
+                <ComboBoxItem Content="10"/>
+                <ComboBoxItem Content="12"/>
+                <ComboBoxItem Content="14"/>
+                <ComboBoxItem Content="16"/>
+            </ComboBox>
+            <MenuItem Header="Exit App"/>
+        </ToolBar>
+    </Grid>
+</Window>

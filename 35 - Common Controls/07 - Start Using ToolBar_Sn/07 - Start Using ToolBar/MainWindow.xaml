@@ -1,0 +1,27 @@
+﻿<Window x:Class="_07___Start_Using_ToolBar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_07___Start_Using_ToolBar"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="150" Width="300">
+    <Grid>
+        <ToolBar Margin="0,0,0,79">
+            <Separator/>
+            <Button x:Name="copyButton" Cursor="Hand" Content="Copy"/>
+            <Button x:Name="cutButton" Content="Cut" Cursor="Hand"/>
+            <Button x:Name="pasteButton" Content="Paste" Cursor="Hand"/>
+            <Separator/>
+            <Label Content="Font Size:" Height="25"/>
+            <ComboBox SelectedIndex="0" Cursor="Hand">
+                <ComboBoxItem Content="10"/>
+                <ComboBoxItem Content="12"/>
+                <ComboBoxItem Content="14"/>
+                <ComboBoxItem Content="16"/>
+            </ComboBox>
+            <MenuItem Header="Exit App"/>
+        </ToolBar>
+
+    </Grid>
+</Window>

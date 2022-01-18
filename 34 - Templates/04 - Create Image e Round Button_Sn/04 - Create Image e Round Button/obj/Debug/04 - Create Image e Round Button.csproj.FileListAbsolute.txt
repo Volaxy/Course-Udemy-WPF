@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\34 - Templates\04 - Create Image e Round Button_Sn\04 - Create Image e Round Button\bin\Debug\04 - Create Image e Round Button.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\34 - Templates\04 - Create Image e Round Button_Sn\04 - Create Image e Round Button\bin\Debug\04 - Create Image e Round Button.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\34 - Templates\04 - Create Image e Round Button_Sn\04 - Create Image e Round Button\bin\Debug\04 - Create Image e Round Button.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\34 - Templates\04 - Create Image e Round Button_Sn\04 - Create Image e Round Button\obj\Debug\04 - Create Image e Round Button.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\34 - Templates\04 - Create Image e Round Button_Sn\04 - Create Image e Round Button\obj\Debug\04 - Create Image e Round Button.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\34 - Templates\04 - Create Image e Round Button_Sn\04 - Create Image e Round Button\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\34 - Templates\04 - Create Image e Round Button_Sn\04 - Create Image e Round Button\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\34 - Templates\04 - Create Image e Round Button_Sn\04 - Create Image e Round Button\obj\Debug\04 - Create Image e Round Button_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\34 - Templates\04 - Create Image e Round Button_Sn\04 - Create Image e Round Button\obj\Debug\04 - Create Image e Round Button_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\34 - Templates\04 - Create Image e Round Button_Sn\04 - Create Image e Round Button\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\34 - Templates\04 - Create Image e Round Button_Sn\04 - Create Image e Round Button\obj\Debug\04 - Create Image e Round Button.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\34 - Templates\04 - Create Image e Round Button_Sn\04 - Create Image e Round Button\obj\Debug\_04___Create_Image_e_Round_Button.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\34 - Templates\04 - Create Image e Round Button_Sn\04 - Create Image e Round Button\obj\Debug\04 - Create Image e Round Button.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\34 - Templates\04 - Create Image e Round Button_Sn\04 - Create Image e Round Button\obj\Debug\04 - Create Image e Round Button.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\34 - Templates\04 - Create Image e Round Button_Sn\04 - Create Image e Round Button\obj\Debug\04 - Create Image e Round Button.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\34 - Templates\04 - Create Image e Round Button_Sn\04 - Create Image e Round Button\obj\Debug\04 - Create Image e Round Button.pdb

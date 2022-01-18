@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aa35e354-bc60-4e4a-bc29-cfe8f4ad7ae4": {
+      "ProjectGuid": "aa35e354-bc60-4e4a-bc29-cfe8f4ad7ae4",
+      "DisplayName": "02 - Using Triggers in Control Template",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

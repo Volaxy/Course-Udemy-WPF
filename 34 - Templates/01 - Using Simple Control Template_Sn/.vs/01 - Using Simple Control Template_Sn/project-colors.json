@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1dc51e29-55a1-43b5-bd85-fd1e65d52d81": {
+      "ProjectGuid": "1dc51e29-55a1-43b5-bd85-fd1e65d52d81",
+      "DisplayName": "01 - Using Simple Control Template",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

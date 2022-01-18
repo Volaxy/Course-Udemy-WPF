@@ -1,0 +1,9 @@
+﻿<Application x:Class="_03___Advance_Topics_of_Contro_Template.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_03___Advance_Topics_of_Contro_Template"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

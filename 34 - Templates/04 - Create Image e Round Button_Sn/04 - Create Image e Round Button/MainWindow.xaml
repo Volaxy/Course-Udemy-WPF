@@ -1,0 +1,45 @@
+﻿<Window x:Class="_04___Create_Image_e_Round_Button.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_04___Create_Image_e_Round_Button"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="150" Width="300">
+    <Grid>
+        <Button Content="Save Changes" HorizontalAlignment="Left" Margin="28,22,0,0" VerticalAlignment="Top" Height="45" Width="122" Template="{DynamicResource ImageButton}">
+            <Button.Resources>
+                <ControlTemplate x:Key="ImageButton" TargetType="Button">
+                    <Grid>
+                        <Border x:Name="innerBorder" Background="{TemplateBinding Background}" CornerRadius="5" BorderThickness="{TemplateBinding BorderThickness}" BorderBrush="{TemplateBinding BorderBrush}"/>
+                        <ContentPresenter VerticalAlignment="Top" HorizontalAlignment="Center" Content="{TemplateBinding Content}"/>
+                        <Image VerticalAlignment="Bottom" Source="/Images/file_32.png" Width="24" Height="24"/>
+                    </Grid>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" TargetName="innerBorder" Value="Yellow"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Button.Resources>
+        </Button>
+
+        <Button Content="Save Changes" HorizontalAlignment="Left" Margin="28,78,0,0" VerticalAlignment="Top" Height="45" Width="122" Template="{DynamicResource ImageButton}">
+            <Button.Resources>
+                <ControlTemplate x:Key="ImageButton" TargetType="{x:Type Button}">
+                    <Grid>
+                        <Border x:Name="innerBorder" Background="{TemplateBinding Background}" CornerRadius="5" BorderThickness="{TemplateBinding BorderThickness}" BorderBrush="{TemplateBinding BorderBrush}"/>
+                        <Label Content="{TemplateBinding Content}" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+                        <Image VerticalAlignment="Center" HorizontalAlignment="Left" Source="/Images/file_32.png" Width="24" Height="24" Margin="5,0,0,0"/>
+                    </Grid>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" TargetName="innerBorder" Value="Yellow"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Button.Resources>
+        </Button>
+
+    </Grid>
+</Window>

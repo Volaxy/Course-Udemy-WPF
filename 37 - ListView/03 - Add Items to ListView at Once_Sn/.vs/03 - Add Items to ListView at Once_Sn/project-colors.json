@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "11b15e60-7e9b-463f-afcc-d1b7c80ddc15": {
+      "ProjectGuid": "11b15e60-7e9b-463f-afcc-d1b7c80ddc15",
+      "DisplayName": "03 - Add Items to ListView at Once",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

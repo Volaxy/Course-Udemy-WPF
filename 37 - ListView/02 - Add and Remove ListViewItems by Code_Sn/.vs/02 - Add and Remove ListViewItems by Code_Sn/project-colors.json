@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "713bcc42-5512-4f7f-81e9-d610df34625d": {
+      "ProjectGuid": "713bcc42-5512-4f7f-81e9-d610df34625d",
+      "DisplayName": "02 - Add and Remove ListViewItems by Code",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

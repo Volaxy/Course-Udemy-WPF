@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\01 - Start Using ListView_Sn\01 - Start Using ListView\bin\Debug\01 - Start Using ListView.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\01 - Start Using ListView_Sn\01 - Start Using ListView\bin\Debug\01 - Start Using ListView.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\01 - Start Using ListView_Sn\01 - Start Using ListView\bin\Debug\01 - Start Using ListView.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\01 - Start Using ListView_Sn\01 - Start Using ListView\obj\Debug\01 - Start Using ListView.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\01 - Start Using ListView_Sn\01 - Start Using ListView\obj\Debug\01 - Start Using ListView.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\01 - Start Using ListView_Sn\01 - Start Using ListView\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\01 - Start Using ListView_Sn\01 - Start Using ListView\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\01 - Start Using ListView_Sn\01 - Start Using ListView\obj\Debug\01 - Start Using ListView_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\01 - Start Using ListView_Sn\01 - Start Using ListView\obj\Debug\01 - Start Using ListView_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\01 - Start Using ListView_Sn\01 - Start Using ListView\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\01 - Start Using ListView_Sn\01 - Start Using ListView\obj\Debug\01 - Start Using ListView.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\01 - Start Using ListView_Sn\01 - Start Using ListView\obj\Debug\_01___Start_Using_ListView.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\01 - Start Using ListView_Sn\01 - Start Using ListView\obj\Debug\01 - Start Using ListView.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\01 - Start Using ListView_Sn\01 - Start Using ListView\obj\Debug\01 - Start Using ListView.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\01 - Start Using ListView_Sn\01 - Start Using ListView\obj\Debug\01 - Start Using ListView.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\01 - Start Using ListView_Sn\01 - Start Using ListView\obj\Debug\01 - Start Using ListView.pdb

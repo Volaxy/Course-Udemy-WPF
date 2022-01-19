@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\03 - Add Items to ListView at Once_Sn\03 - Add Items to ListView at Once\bin\Debug\03 - Add Items to ListView at Once.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\03 - Add Items to ListView at Once_Sn\03 - Add Items to ListView at Once\bin\Debug\03 - Add Items to ListView at Once.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\03 - Add Items to ListView at Once_Sn\03 - Add Items to ListView at Once\bin\Debug\03 - Add Items to ListView at Once.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\03 - Add Items to ListView at Once_Sn\03 - Add Items to ListView at Once\obj\Debug\03 - Add Items to ListView at Once.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\03 - Add Items to ListView at Once_Sn\03 - Add Items to ListView at Once\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\03 - Add Items to ListView at Once_Sn\03 - Add Items to ListView at Once\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\03 - Add Items to ListView at Once_Sn\03 - Add Items to ListView at Once\obj\Debug\03 - Add Items to ListView at Once_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\03 - Add Items to ListView at Once_Sn\03 - Add Items to ListView at Once\obj\Debug\03 - Add Items to ListView at Once_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\03 - Add Items to ListView at Once_Sn\03 - Add Items to ListView at Once\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\03 - Add Items to ListView at Once_Sn\03 - Add Items to ListView at Once\obj\Debug\03 - Add Items to ListView at Once.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\03 - Add Items to ListView at Once_Sn\03 - Add Items to ListView at Once\obj\Debug\_03___Add_Items_to_ListView_at_Once.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\03 - Add Items to ListView at Once_Sn\03 - Add Items to ListView at Once\obj\Debug\03 - Add Items to ListView at Once.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\03 - Add Items to ListView at Once_Sn\03 - Add Items to ListView at Once\obj\Debug\03 - Add Items to ListView at Once.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\03 - Add Items to ListView at Once_Sn\03 - Add Items to ListView at Once\obj\Debug\03 - Add Items to ListView at Once.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\03 - Add Items to ListView at Once_Sn\03 - Add Items to ListView at Once\obj\Debug\03 - Add Items to ListView at Once.pdb

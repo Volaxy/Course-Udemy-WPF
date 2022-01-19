@@ -1,0 +1,39 @@
+﻿<Window x:Class="_03___Add_Items_to_ListView_at_Once.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_03___Add_Items_to_ListView_at_Once"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="281" Width="655" Loaded="Window_Loaded">
+    <Grid>
+        <ListView x:Name="mainListView" Margin="72,52,229,0" Height="136" VerticalAlignment="Top">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" Width="250"/>
+                </GridView>
+            </ListView.View>
+
+            <ListViewItem Content="Data"/>
+            <ListViewItem Content="DB"/>
+            <ListViewItem Content="Image"/>
+            <ListViewItem Content="Output"/>
+        </ListView>
+        <Button x:Name="addButton" Content="Add" Margin="359,8,229,0" VerticalAlignment="Top" Height="29" Click="addButton_Click"/>
+        <Label Content="Name:" Margin="0,10,448,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="44"/>
+        <TextBox x:Name="nameTextBox" Margin="0,14,323,0" TextWrapping="Wrap" VerticalAlignment="Top" HorizontalAlignment="Right" Width="120"/>
+        <Label Margin="0,193,538,0" VerticalAlignment="Top" Content="Count:" HorizontalAlignment="Right" Width="45"/>
+        <Label x:Name="countLabel" Margin="0,193,517,0" VerticalAlignment="Top" Content="0" HorizontalAlignment="Right" Width="16"/>
+        <Button x:Name="deleteAllButton" Content="Delete All" Margin="348,193,229,0" VerticalAlignment="Top" Height="27" Click="deleteAllButton_Click"/>
+        <Button x:Name="deleteSelectedButton" Content="Delete Selected" Margin="237,193,312,0" VerticalAlignment="Top" Height="27" Click="deleteSelectedButton_Click"/>
+        <ListView x:Name="secondListView" Margin="452,52,76,77">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Gender" Width="100"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Content="Add List to ListView" Margin="452,10,76,0" VerticalAlignment="Top" Height="27" Click="Button_Click"/>
+
+    </Grid>
+</Window>

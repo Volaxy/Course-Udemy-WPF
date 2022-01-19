@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\17 - Add Image to TabItem Header_Sn\17 - Add Image to TabItem Header\bin\Debug\17 - Add Image to TabItem Header.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\17 - Add Image to TabItem Header_Sn\17 - Add Image to TabItem Header\bin\Debug\17 - Add Image to TabItem Header.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\17 - Add Image to TabItem Header_Sn\17 - Add Image to TabItem Header\bin\Debug\17 - Add Image to TabItem Header.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\17 - Add Image to TabItem Header_Sn\17 - Add Image to TabItem Header\obj\Debug\17 - Add Image to TabItem Header.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\17 - Add Image to TabItem Header_Sn\17 - Add Image to TabItem Header\obj\Debug\17 - Add Image to TabItem Header.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\17 - Add Image to TabItem Header_Sn\17 - Add Image to TabItem Header\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\17 - Add Image to TabItem Header_Sn\17 - Add Image to TabItem Header\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\17 - Add Image to TabItem Header_Sn\17 - Add Image to TabItem Header\obj\Debug\17 - Add Image to TabItem Header_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\17 - Add Image to TabItem Header_Sn\17 - Add Image to TabItem Header\obj\Debug\17 - Add Image to TabItem Header_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\17 - Add Image to TabItem Header_Sn\17 - Add Image to TabItem Header\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\17 - Add Image to TabItem Header_Sn\17 - Add Image to TabItem Header\obj\Debug\17 - Add Image to TabItem Header.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\17 - Add Image to TabItem Header_Sn\17 - Add Image to TabItem Header\obj\Debug\_17___Add_Image_to_TabItem_Header.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\17 - Add Image to TabItem Header_Sn\17 - Add Image to TabItem Header\obj\Debug\17 - Add Image to TabItem Header.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\17 - Add Image to TabItem Header_Sn\17 - Add Image to TabItem Header\obj\Debug\17 - Add Image to TabItem Header.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\17 - Add Image to TabItem Header_Sn\17 - Add Image to TabItem Header\obj\Debug\17 - Add Image to TabItem Header.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\17 - Add Image to TabItem Header_Sn\17 - Add Image to TabItem Header\obj\Debug\17 - Add Image to TabItem Header.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "923f8888-54db-47dc-bba8-9ce5e47cddf8": {
+      "ProjectGuid": "923f8888-54db-47dc-bba8-9ce5e47cddf8",
+      "DisplayName": "03 - StatusBar Control",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

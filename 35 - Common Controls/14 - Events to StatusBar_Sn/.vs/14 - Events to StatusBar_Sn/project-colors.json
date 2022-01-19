@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05400a6d-7c0f-48be-9d29-a2d73ce64713": {
+      "ProjectGuid": "05400a6d-7c0f-48be-9d29-a2d73ce64713",
+      "DisplayName": "14 - Events to StatusBar",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

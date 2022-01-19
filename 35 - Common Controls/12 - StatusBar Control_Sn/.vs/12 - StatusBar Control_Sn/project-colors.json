@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c223af5b-3f50-4e95-8021-c7915ea06f69": {
+      "ProjectGuid": "c223af5b-3f50-4e95-8021-c7915ea06f69",
+      "DisplayName": "12 - StatusBar Control",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\18 - Events of TabControl_Sn\18 - Events of TabControl\bin\Debug\18 - Events of TabControl.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\18 - Events of TabControl_Sn\18 - Events of TabControl\bin\Debug\18 - Events of TabControl.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\18 - Events of TabControl_Sn\18 - Events of TabControl\bin\Debug\18 - Events of TabControl.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\18 - Events of TabControl_Sn\18 - Events of TabControl\obj\Debug\18 - Events of TabControl.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\18 - Events of TabControl_Sn\18 - Events of TabControl\obj\Debug\18 - Events of TabControl.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\18 - Events of TabControl_Sn\18 - Events of TabControl\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\18 - Events of TabControl_Sn\18 - Events of TabControl\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\18 - Events of TabControl_Sn\18 - Events of TabControl\obj\Debug\18 - Events of TabControl_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\18 - Events of TabControl_Sn\18 - Events of TabControl\obj\Debug\18 - Events of TabControl_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\18 - Events of TabControl_Sn\18 - Events of TabControl\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\18 - Events of TabControl_Sn\18 - Events of TabControl\obj\Debug\18 - Events of TabControl.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\18 - Events of TabControl_Sn\18 - Events of TabControl\obj\Debug\_18___Events_of_TabControl.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\18 - Events of TabControl_Sn\18 - Events of TabControl\obj\Debug\18 - Events of TabControl.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\18 - Events of TabControl_Sn\18 - Events of TabControl\obj\Debug\18 - Events of TabControl.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\18 - Events of TabControl_Sn\18 - Events of TabControl\obj\Debug\18 - Events of TabControl.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\18 - Events of TabControl_Sn\18 - Events of TabControl\obj\Debug\18 - Events of TabControl.pdb

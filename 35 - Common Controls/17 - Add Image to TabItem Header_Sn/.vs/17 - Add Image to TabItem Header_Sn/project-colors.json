@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "889c2ba6-47d1-40b9-9363-3b5f32fc02e5": {
+      "ProjectGuid": "889c2ba6-47d1-40b9-9363-3b5f32fc02e5",
+      "DisplayName": "17 - Add Image to TabItem Header",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

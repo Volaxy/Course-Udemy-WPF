@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\14 - Events to StatusBar_Sn\14 - Events to StatusBar\bin\Debug\14 - Events to StatusBar.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\14 - Events to StatusBar_Sn\14 - Events to StatusBar\bin\Debug\14 - Events to StatusBar.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\14 - Events to StatusBar_Sn\14 - Events to StatusBar\bin\Debug\14 - Events to StatusBar.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\14 - Events to StatusBar_Sn\14 - Events to StatusBar\obj\Debug\14 - Events to StatusBar.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\14 - Events to StatusBar_Sn\14 - Events to StatusBar\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\14 - Events to StatusBar_Sn\14 - Events to StatusBar\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\14 - Events to StatusBar_Sn\14 - Events to StatusBar\obj\Debug\14 - Events to StatusBar_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\14 - Events to StatusBar_Sn\14 - Events to StatusBar\obj\Debug\14 - Events to StatusBar_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\14 - Events to StatusBar_Sn\14 - Events to StatusBar\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\14 - Events to StatusBar_Sn\14 - Events to StatusBar\obj\Debug\14 - Events to StatusBar.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\14 - Events to StatusBar_Sn\14 - Events to StatusBar\obj\Debug\_14___Events_to_StatusBar.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\14 - Events to StatusBar_Sn\14 - Events to StatusBar\obj\Debug\14 - Events to StatusBar.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\14 - Events to StatusBar_Sn\14 - Events to StatusBar\obj\Debug\14 - Events to StatusBar.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\14 - Events to StatusBar_Sn\14 - Events to StatusBar\obj\Debug\14 - Events to StatusBar.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\35 - Common Controls\14 - Events to StatusBar_Sn\14 - Events to StatusBar\obj\Debug\14 - Events to StatusBar.pdb

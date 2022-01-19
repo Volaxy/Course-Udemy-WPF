@@ -1,0 +1,49 @@
+﻿<Window x:Class="_18___Events_of_TabControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_18___Events_of_TabControl"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="465">
+    <Grid>
+        <TabControl x:Name="mainTabControl" TabStripPlacement="Top" SelectionChanged="mainTabControl_SelectionChanged" Margin="0,31,0,0">
+            <TabItem Cursor="Hand">
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/pics/copy.png" />
+                        <Label Content="Application" Foreground="#FF0362FD" />
+                    </StackPanel>
+                </TabItem.Header>
+                <Grid Background="#FFE5E5E5">
+                    <TextBox HorizontalAlignment="Center" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Center" Width="120"/>
+                </Grid>
+            </TabItem>
+            <TabItem Cursor="Hand">
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/pics/paste-16.png" />
+                        <Label Content="Settings" Foreground="#FFFF00F5" />
+                    </StackPanel>
+                </TabItem.Header>
+                <Grid Background="#FFE5E5E5">
+                    <TextBox HorizontalAlignment="Center" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Center" Width="120"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Display">
+                <Grid Background="#FFE5E5E5">
+                    <ProgressBar HorizontalAlignment="Center" Height="23" VerticalAlignment="Center" Width="162" Value="40"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="About">
+                <Grid Background="#FFE5E5E5">
+                    <Label Content="Label" HorizontalAlignment="Left" Margin="106,73,0,0" VerticalAlignment="Top"/>
+                    <TextBox HorizontalAlignment="Left" Margin="314,115,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <Label x:Name="selectedTabItemLabel" Content="-" Height="26" VerticalAlignment="Top" HorizontalAlignment="Left" Width="52"/>
+
+    </Grid>
+</Window>

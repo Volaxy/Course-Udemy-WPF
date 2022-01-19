@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\03 - Events of Buttons in Ribbon_Sn\03 - Events of Buttons in Ribbon\bin\Debug\03 - Events of Buttons in Ribbon.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\03 - Events of Buttons in Ribbon_Sn\03 - Events of Buttons in Ribbon\bin\Debug\03 - Events of Buttons in Ribbon.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\03 - Events of Buttons in Ribbon_Sn\03 - Events of Buttons in Ribbon\bin\Debug\03 - Events of Buttons in Ribbon.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\03 - Events of Buttons in Ribbon_Sn\03 - Events of Buttons in Ribbon\obj\Debug\03 - Events of Buttons in Ribbon.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\03 - Events of Buttons in Ribbon_Sn\03 - Events of Buttons in Ribbon\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\03 - Events of Buttons in Ribbon_Sn\03 - Events of Buttons in Ribbon\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\03 - Events of Buttons in Ribbon_Sn\03 - Events of Buttons in Ribbon\obj\Debug\03 - Events of Buttons in Ribbon_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\03 - Events of Buttons in Ribbon_Sn\03 - Events of Buttons in Ribbon\obj\Debug\03 - Events of Buttons in Ribbon_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\03 - Events of Buttons in Ribbon_Sn\03 - Events of Buttons in Ribbon\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\03 - Events of Buttons in Ribbon_Sn\03 - Events of Buttons in Ribbon\obj\Debug\03 - Events of Buttons in Ribbon.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\03 - Events of Buttons in Ribbon_Sn\03 - Events of Buttons in Ribbon\obj\Debug\_03___Events_of_Buttons_in_Ribbon.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\03 - Events of Buttons in Ribbon_Sn\03 - Events of Buttons in Ribbon\obj\Debug\03 - Events of Buttons in Ribbon.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\03 - Events of Buttons in Ribbon_Sn\03 - Events of Buttons in Ribbon\obj\Debug\03 - Events of Buttons in Ribbon.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\03 - Events of Buttons in Ribbon_Sn\03 - Events of Buttons in Ribbon\obj\Debug\03 - Events of Buttons in Ribbon.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\03 - Events of Buttons in Ribbon_Sn\03 - Events of Buttons in Ribbon\obj\Debug\03 - Events of Buttons in Ribbon.pdb

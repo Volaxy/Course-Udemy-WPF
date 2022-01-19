@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "17ce0b50-24f0-43e3-aa76-cd86e84d6a78": {
+      "ProjectGuid": "17ce0b50-24f0-43e3-aa76-cd86e84d6a78",
+      "DisplayName": "08 - Toggle Button to Ribbon",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

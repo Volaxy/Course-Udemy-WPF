@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\10 - TextBox and Label to Ribbon_Sn\10 - TextBox and Label to Ribbon\bin\Debug\10 - TextBox and Label to Ribbon.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\10 - TextBox and Label to Ribbon_Sn\10 - TextBox and Label to Ribbon\bin\Debug\10 - TextBox and Label to Ribbon.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\10 - TextBox and Label to Ribbon_Sn\10 - TextBox and Label to Ribbon\bin\Debug\10 - TextBox and Label to Ribbon.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\10 - TextBox and Label to Ribbon_Sn\10 - TextBox and Label to Ribbon\obj\Debug\10 - TextBox and Label to Ribbon.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\10 - TextBox and Label to Ribbon_Sn\10 - TextBox and Label to Ribbon\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\10 - TextBox and Label to Ribbon_Sn\10 - TextBox and Label to Ribbon\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\10 - TextBox and Label to Ribbon_Sn\10 - TextBox and Label to Ribbon\obj\Debug\10 - TextBox and Label to Ribbon_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\10 - TextBox and Label to Ribbon_Sn\10 - TextBox and Label to Ribbon\obj\Debug\10 - TextBox and Label to Ribbon_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\10 - TextBox and Label to Ribbon_Sn\10 - TextBox and Label to Ribbon\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\10 - TextBox and Label to Ribbon_Sn\10 - TextBox and Label to Ribbon\obj\Debug\10 - TextBox and Label to Ribbon.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\10 - TextBox and Label to Ribbon_Sn\10 - TextBox and Label to Ribbon\obj\Debug\_10___TextBox_and_Label_to_Ribbon.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\10 - TextBox and Label to Ribbon_Sn\10 - TextBox and Label to Ribbon\obj\Debug\10 - TextBox and Label to Ribbon.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\10 - TextBox and Label to Ribbon_Sn\10 - TextBox and Label to Ribbon\obj\Debug\10 - TextBox and Label to Ribbon.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\10 - TextBox and Label to Ribbon_Sn\10 - TextBox and Label to Ribbon\obj\Debug\10 - TextBox and Label to Ribbon.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\10 - TextBox and Label to Ribbon_Sn\10 - TextBox and Label to Ribbon\obj\Debug\10 - TextBox and Label to Ribbon.pdb

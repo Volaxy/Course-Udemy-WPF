@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 - Customize Help Pane", "04 - Customize Help Pane\04 - Customize Help Pane.csproj", "{366A1A31-3E3E-482D-876F-AD02A95131B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{366A1A31-3E3E-482D-876F-AD02A95131B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{366A1A31-3E3E-482D-876F-AD02A95131B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{366A1A31-3E3E-482D-876F-AD02A95131B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{366A1A31-3E3E-482D-876F-AD02A95131B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F0462F8-D8F3-4B14-ADB3-C1747D2BB6DF}
+	EndGlobalSection
+EndGlobal

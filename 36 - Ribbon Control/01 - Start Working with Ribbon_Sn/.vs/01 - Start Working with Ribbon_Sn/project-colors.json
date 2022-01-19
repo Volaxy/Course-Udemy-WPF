@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bf64951f-bacc-41c1-a48f-a95b67b33356": {
+      "ProjectGuid": "bf64951f-bacc-41c1-a48f-a95b67b33356",
+      "DisplayName": "01 - Start Working with Ribbon",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

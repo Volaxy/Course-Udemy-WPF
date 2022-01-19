@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9809350f-d484-44e5-862a-8b35a4d5ffe6": {
+      "ProjectGuid": "9809350f-d484-44e5-862a-8b35a4d5ffe6",
+      "DisplayName": "02 - Add Buttons to Ribbon Control",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

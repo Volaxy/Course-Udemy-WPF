@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "230fe594-683e-4768-b896-86a34257ca75": {
+      "ProjectGuid": "230fe594-683e-4768-b896-86a34257ca75",
+      "DisplayName": "07 - Add CheckBx to Ribbon",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

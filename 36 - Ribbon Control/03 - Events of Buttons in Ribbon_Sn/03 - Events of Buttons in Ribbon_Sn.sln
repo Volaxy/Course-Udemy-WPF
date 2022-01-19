@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 - Events of Buttons in Ribbon", "03 - Events of Buttons in Ribbon\03 - Events of Buttons in Ribbon.csproj", "{E08B6591-7E13-4E0A-A353-BD55A649EBBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E08B6591-7E13-4E0A-A353-BD55A649EBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08B6591-7E13-4E0A-A353-BD55A649EBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08B6591-7E13-4E0A-A353-BD55A649EBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08B6591-7E13-4E0A-A353-BD55A649EBBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53D6FE12-CF78-476D-834F-47F384ADCA9A}
+	EndGlobalSection
+EndGlobal

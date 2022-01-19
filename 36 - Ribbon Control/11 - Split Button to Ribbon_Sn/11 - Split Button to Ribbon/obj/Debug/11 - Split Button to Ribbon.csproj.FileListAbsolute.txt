@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\11 - Split Button to Ribbon_Sn\11 - Split Button to Ribbon\bin\Debug\11 - Split Button to Ribbon.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\11 - Split Button to Ribbon_Sn\11 - Split Button to Ribbon\bin\Debug\11 - Split Button to Ribbon.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\11 - Split Button to Ribbon_Sn\11 - Split Button to Ribbon\bin\Debug\11 - Split Button to Ribbon.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\11 - Split Button to Ribbon_Sn\11 - Split Button to Ribbon\obj\Debug\11 - Split Button to Ribbon.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\11 - Split Button to Ribbon_Sn\11 - Split Button to Ribbon\obj\Debug\11 - Split Button to Ribbon.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\11 - Split Button to Ribbon_Sn\11 - Split Button to Ribbon\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\11 - Split Button to Ribbon_Sn\11 - Split Button to Ribbon\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\11 - Split Button to Ribbon_Sn\11 - Split Button to Ribbon\obj\Debug\11 - Split Button to Ribbon_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\11 - Split Button to Ribbon_Sn\11 - Split Button to Ribbon\obj\Debug\11 - Split Button to Ribbon_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\11 - Split Button to Ribbon_Sn\11 - Split Button to Ribbon\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\11 - Split Button to Ribbon_Sn\11 - Split Button to Ribbon\obj\Debug\11 - Split Button to Ribbon.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\11 - Split Button to Ribbon_Sn\11 - Split Button to Ribbon\obj\Debug\_11___Split_Button_to_Ribbon.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\11 - Split Button to Ribbon_Sn\11 - Split Button to Ribbon\obj\Debug\11 - Split Button to Ribbon.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\11 - Split Button to Ribbon_Sn\11 - Split Button to Ribbon\obj\Debug\11 - Split Button to Ribbon.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\11 - Split Button to Ribbon_Sn\11 - Split Button to Ribbon\obj\Debug\11 - Split Button to Ribbon.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\11 - Split Button to Ribbon_Sn\11 - Split Button to Ribbon\obj\Debug\11 - Split Button to Ribbon.pdb

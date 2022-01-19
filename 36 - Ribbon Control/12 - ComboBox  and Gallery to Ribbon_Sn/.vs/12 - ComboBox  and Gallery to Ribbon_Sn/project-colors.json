@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c66a7159-2f76-4ce5-8ed1-a18774550d84": {
+      "ProjectGuid": "c66a7159-2f76-4ce5-8ed1-a18774550d84",
+      "DisplayName": "12 - ComboBox  and Gallery to Ribbon",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e08b6591-7e13-4e0a-a353-bd55a649ebbd": {
+      "ProjectGuid": "e08b6591-7e13-4e0a-a353-bd55a649ebbd",
+      "DisplayName": "03 - Events of Buttons in Ribbon",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

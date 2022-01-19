@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\05 - Customize Quick Access ToolBar_Sn\05 - Customize Quick Access ToolBar\bin\Debug\05 - Customize Quick Access ToolBar.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\05 - Customize Quick Access ToolBar_Sn\05 - Customize Quick Access ToolBar\bin\Debug\05 - Customize Quick Access ToolBar.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\05 - Customize Quick Access ToolBar_Sn\05 - Customize Quick Access ToolBar\bin\Debug\05 - Customize Quick Access ToolBar.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\05 - Customize Quick Access ToolBar_Sn\05 - Customize Quick Access ToolBar\obj\Debug\05 - Customize Quick Access ToolBar.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\05 - Customize Quick Access ToolBar_Sn\05 - Customize Quick Access ToolBar\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\05 - Customize Quick Access ToolBar_Sn\05 - Customize Quick Access ToolBar\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\05 - Customize Quick Access ToolBar_Sn\05 - Customize Quick Access ToolBar\obj\Debug\05 - Customize Quick Access ToolBar_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\05 - Customize Quick Access ToolBar_Sn\05 - Customize Quick Access ToolBar\obj\Debug\05 - Customize Quick Access ToolBar_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\05 - Customize Quick Access ToolBar_Sn\05 - Customize Quick Access ToolBar\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\05 - Customize Quick Access ToolBar_Sn\05 - Customize Quick Access ToolBar\obj\Debug\05 - Customize Quick Access ToolBar.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\05 - Customize Quick Access ToolBar_Sn\05 - Customize Quick Access ToolBar\obj\Debug\_05___Customize_Quick_Access_ToolBar.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\05 - Customize Quick Access ToolBar_Sn\05 - Customize Quick Access ToolBar\obj\Debug\05 - Customize Quick Access ToolBar.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\05 - Customize Quick Access ToolBar_Sn\05 - Customize Quick Access ToolBar\obj\Debug\05 - Customize Quick Access ToolBar.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\05 - Customize Quick Access ToolBar_Sn\05 - Customize Quick Access ToolBar\obj\Debug\05 - Customize Quick Access ToolBar.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\05 - Customize Quick Access ToolBar_Sn\05 - Customize Quick Access ToolBar\obj\Debug\05 - Customize Quick Access ToolBar.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\36 - Ribbon Control\05 - Customize Quick Access ToolBar_Sn\05 - Customize Quick Access ToolBar\obj\Debug\05 - Customize Quick Access ToolBar.csproj.AssemblyReference.cache

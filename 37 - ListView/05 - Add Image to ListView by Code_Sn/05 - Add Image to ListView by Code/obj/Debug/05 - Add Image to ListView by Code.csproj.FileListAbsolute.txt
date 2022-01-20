@@ -1,0 +1,45 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\05 - Add Image to ListView by Code.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\05 - Add Image to ListView by Code.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\05 - Add Image to ListView by Code.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\obj\Debug\05 - Add Image to ListView by Code.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\obj\Debug\05 - Add Image to ListView by Code_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\obj\Debug\05 - Add Image to ListView by Code_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\obj\Debug\05 - Add Image to ListView by Code.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\obj\Debug\_05___Add_Image_to_ListView_by_Code.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\obj\Debug\05 - Add Image to ListView by Code.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\obj\Debug\05 - Add Image to ListView by Code.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\obj\Debug\05 - Add Image to ListView by Code.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\obj\Debug\05 - Add Image to ListView by Code.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\about.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\add_memo.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\bold.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\Close_butt.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\content-paste-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\cut.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\Decrease Font-.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\exit.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\file_32.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\floppy-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\help_32.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\ic_content_copy_48px-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\Increase Font.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\indent-decrease-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\indent-increase-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\Italic.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\male_user.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\Minimize_butt.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\ok.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\Redo-2-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\search_memo.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\settings-alt-32.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\text_align_center-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\text_align_left-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\text_align_right-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\Title.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\tools.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\underline.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\Undo-2-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\05 - Add Image to ListView by Code_Sn\05 - Add Image to ListView by Code\bin\Debug\images\view_32.png

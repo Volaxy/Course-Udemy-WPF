@@ -1,0 +1,20 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\bin\Debug\08 - Class to Add Data inside ListView.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\bin\Debug\08 - Class to Add Data inside ListView.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\bin\Debug\08 - Class to Add Data inside ListView.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\obj\Debug\08 - Class to Add Data inside ListView.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\obj\Debug\08 - Class to Add Data inside ListView_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\obj\Debug\08 - Class to Add Data inside ListView_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\obj\Debug\08 - Class to Add Data inside ListView.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\obj\Debug\_08___Class_to_Add_Data_inside_ListView.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\obj\Debug\08 - Class to Add Data inside ListView.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\obj\Debug\08 - Class to Add Data inside ListView.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\obj\Debug\08 - Class to Add Data inside ListView.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\obj\Debug\08 - Class to Add Data inside ListView.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\bin\Debug\images\koala_resized.jpg
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\bin\Debug\images\me.jpg
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\bin\Debug\images\mm.jpg
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\bin\Debug\images\v.jpg
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\08 - Class to Add Data inside ListView_Sn\08 - Class to Add Data inside ListView\obj\Debug\08 - Class to Add Data inside ListView.csproj.AssemblyReference.cache

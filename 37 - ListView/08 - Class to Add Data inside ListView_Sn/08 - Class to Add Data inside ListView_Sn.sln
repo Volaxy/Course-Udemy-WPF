@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 - Class to Add Data inside ListView", "08 - Class to Add Data inside ListView\08 - Class to Add Data inside ListView.csproj", "{7EE2882E-E1E7-47A2-AA5E-F3534145F574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EE2882E-E1E7-47A2-AA5E-F3534145F574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE2882E-E1E7-47A2-AA5E-F3534145F574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE2882E-E1E7-47A2-AA5E-F3534145F574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE2882E-E1E7-47A2-AA5E-F3534145F574}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61B1AD03-19EF-4738-BE39-C76E07E32771}
+	EndGlobalSection
+EndGlobal

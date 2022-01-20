@@ -1,0 +1,9 @@
+﻿<Application x:Class="_05___Add_Image_to_ListView_by_Code.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_05___Add_Image_to_ListView_by_Code"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

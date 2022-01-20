@@ -1,0 +1,16 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\04 - Add Image to ListView by XAML_Sn\04 - Add Image to ListView by XAML\bin\Debug\04 - Add Image to ListView by XAML.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\04 - Add Image to ListView by XAML_Sn\04 - Add Image to ListView by XAML\bin\Debug\04 - Add Image to ListView by XAML.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\04 - Add Image to ListView by XAML_Sn\04 - Add Image to ListView by XAML\bin\Debug\04 - Add Image to ListView by XAML.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\04 - Add Image to ListView by XAML_Sn\04 - Add Image to ListView by XAML\obj\Debug\04 - Add Image to ListView by XAML.csproj.AssemblyReference.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\04 - Add Image to ListView by XAML_Sn\04 - Add Image to ListView by XAML\obj\Debug\04 - Add Image to ListView by XAML.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\04 - Add Image to ListView by XAML_Sn\04 - Add Image to ListView by XAML\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\04 - Add Image to ListView by XAML_Sn\04 - Add Image to ListView by XAML\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\04 - Add Image to ListView by XAML_Sn\04 - Add Image to ListView by XAML\obj\Debug\04 - Add Image to ListView by XAML_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\04 - Add Image to ListView by XAML_Sn\04 - Add Image to ListView by XAML\obj\Debug\04 - Add Image to ListView by XAML_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\04 - Add Image to ListView by XAML_Sn\04 - Add Image to ListView by XAML\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\04 - Add Image to ListView by XAML_Sn\04 - Add Image to ListView by XAML\obj\Debug\04 - Add Image to ListView by XAML.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\04 - Add Image to ListView by XAML_Sn\04 - Add Image to ListView by XAML\obj\Debug\_04___Add_Image_to_ListView_by_XAML.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\04 - Add Image to ListView by XAML_Sn\04 - Add Image to ListView by XAML\obj\Debug\04 - Add Image to ListView by XAML.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\04 - Add Image to ListView by XAML_Sn\04 - Add Image to ListView by XAML\obj\Debug\04 - Add Image to ListView by XAML.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\04 - Add Image to ListView by XAML_Sn\04 - Add Image to ListView by XAML\obj\Debug\04 - Add Image to ListView by XAML.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\04 - Add Image to ListView by XAML_Sn\04 - Add Image to ListView by XAML\obj\Debug\04 - Add Image to ListView by XAML.pdb

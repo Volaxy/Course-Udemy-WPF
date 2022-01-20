@@ -1,0 +1,45 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\about.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\add_memo.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\bold.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\Close_butt.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\content-paste-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\cut.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\Decrease Font-.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\exit.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\file_32.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\floppy-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\help_32.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\ic_content_copy_48px-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\Increase Font.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\indent-decrease-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\indent-increase-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\Italic.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\male_user.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\Minimize_butt.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\ok.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\Redo-2-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\search_memo.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\settings-alt-32.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\text_align_center-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\text_align_left-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\text_align_right-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\Title.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\tools.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\underline.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\Undo-2-16.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\images\view_32.png
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\06 - Common Events of ListView.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\06 - Common Events of ListView.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\bin\Debug\06 - Common Events of ListView.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\obj\Debug\06 - Common Events of ListView.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\obj\Debug\06 - Common Events of ListView_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\obj\Debug\06 - Common Events of ListView_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\obj\Debug\06 - Common Events of ListView.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\obj\Debug\_06___Common_Events_of_ListView.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\obj\Debug\06 - Common Events of ListView.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\obj\Debug\06 - Common Events of ListView.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\obj\Debug\06 - Common Events of ListView.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\37 - ListView\06 - Common Events of ListView_Sn\06 - Common Events of ListView\obj\Debug\06 - Common Events of ListView.pdb

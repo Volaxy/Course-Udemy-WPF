@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f5c86e76-85f2-4229-b34b-782c9fdf3ebd": {
+      "ProjectGuid": "f5c86e76-85f2-4229-b34b-782c9fdf3ebd",
+      "DisplayName": "05 - Add Image to ListView by Code",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

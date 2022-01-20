@@ -1,0 +1,33 @@
+﻿<Window x:Class="_04___Add_Image_to_ListView_by_XAML.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_04___Add_Image_to_ListView_by_XAML"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="233" Width="404">
+    <Grid>
+        <ListView>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Tools" Width="200"/>
+                </GridView>
+            </ListView.View>
+
+            <ListViewItem>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/images/about.png" Height="55" Width="92" />
+                    <Label Content="About" />
+                </StackPanel>
+            </ListViewItem>
+
+            <ListViewItem>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/images/add_memo.png" Height="55" Width="92" />
+                    <Label Content="Edit Data" />
+                </StackPanel>
+            </ListViewItem>
+        </ListView>
+
+    </Grid>
+</Window>

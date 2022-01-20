@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "79e6aba7-0aad-4c32-b13f-7ecdba2d7a53": {
+      "ProjectGuid": "79e6aba7-0aad-4c32-b13f-7ecdba2d7a53",
+      "DisplayName": "04 - Add Image to ListView by XAML",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

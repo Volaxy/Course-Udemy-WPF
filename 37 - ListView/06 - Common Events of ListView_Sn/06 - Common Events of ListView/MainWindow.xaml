@@ -1,0 +1,21 @@
+﻿<Window x:Class="_06___Common_Events_of_ListView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_06___Common_Events_of_ListView"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="251" Width="371">
+    <Grid>
+        <ListView x:Name="imagesListView" Margin="0,45,0,0" SelectionChanged="imagesListView_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Tools" Width="150"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="addImageButton" Content="Add Image" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="30" Width="88" Click="addImageButton_Click"/>
+        <Button x:Name="deleteAllButton" Content="Delete All" HorizontalAlignment="Left" Margin="121,10,0,0" VerticalAlignment="Top" Height="30" Width="97" Click="deleteAllButton_Click"/>
+
+    </Grid>
+</Window>

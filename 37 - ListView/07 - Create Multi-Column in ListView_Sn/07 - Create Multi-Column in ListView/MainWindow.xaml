@@ -1,0 +1,27 @@
+﻿<Window x:Class="_07___Create_Multi_Column_in_ListView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_07___Create_Multi_Column_in_ListView"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="303" Width="603">
+    <Grid Margin="0,59,0,0">
+        <ListView Margin="0,-30,0,0">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Photo" Width="150"/>
+                    <GridViewColumn Header="Id" Width="50"/>
+                    <GridViewColumn Header="First Name" Width="140"/>
+                    <GridViewColumn Header="Last Name" Width="150"/>
+                    <GridViewColumn Header="Date of Birth" Width="100"/>
+
+                </GridView>
+            </ListView.View>
+            <ListViewItem Content="25"/>
+        </ListView>
+        <Button Content="Add Multi Column data by Items" HorizontalAlignment="Left" Margin="6,-55,0,0" VerticalAlignment="Top" Width="166" FontSize="11"/>
+        <Button Content="Add Multi Column data by List" Margin="0,-55,6,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="153" FontSize="11"/>
+
+    </Grid>
+</Window>

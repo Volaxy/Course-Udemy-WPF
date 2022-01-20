@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace _01___Simple_Project_with_MVVM___View.MVVM.View
+namespace _01___Simple_Project_with_MVVM.MVVM.View
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

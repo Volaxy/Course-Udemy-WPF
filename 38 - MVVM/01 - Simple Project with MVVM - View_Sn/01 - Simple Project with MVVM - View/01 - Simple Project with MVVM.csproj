@@ -61,6 +61,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MVVM\Model\User.cs" />
+    <Compile Include="MVVM\ViewModel\UsersViewModel.cs" />
     <Compile Include="MVVM\View\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
     </Compile>

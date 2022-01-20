@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 - Simple Project with MVVM - View", "01 - Simple Project with MVVM - View\01 - Simple Project with MVVM - View.csproj", "{A9396DFF-D92E-4B3F-98D4-E954963C5A4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 - Simple Project with MVVM", "01 - Simple Project with MVVM - View\01 - Simple Project with MVVM.csproj", "{A9396DFF-D92E-4B3F-98D4-E954963C5A4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

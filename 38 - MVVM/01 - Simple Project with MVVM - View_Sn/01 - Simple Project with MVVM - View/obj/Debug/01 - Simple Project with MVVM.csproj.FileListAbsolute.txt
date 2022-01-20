@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\38 - MVVM\01 - Simple Project with MVVM - View_Sn\01 - Simple Project with MVVM - View\bin\Debug\01 - Simple Project with MVVM - View.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\38 - MVVM\01 - Simple Project with MVVM - View_Sn\01 - Simple Project with MVVM - View\bin\Debug\01 - Simple Project with MVVM - View.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\38 - MVVM\01 - Simple Project with MVVM - View_Sn\01 - Simple Project with MVVM - View\bin\Debug\01 - Simple Project with MVVM - View.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\38 - MVVM\01 - Simple Project with MVVM - View_Sn\01 - Simple Project with MVVM - View\obj\Debug\01 - Simple Project with MVVM.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\38 - MVVM\01 - Simple Project with MVVM - View_Sn\01 - Simple Project with MVVM - View\obj\Debug\MVVM\View\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\38 - MVVM\01 - Simple Project with MVVM - View_Sn\01 - Simple Project with MVVM - View\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\38 - MVVM\01 - Simple Project with MVVM - View_Sn\01 - Simple Project with MVVM - View\obj\Debug\01 - Simple Project with MVVM - View_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\38 - MVVM\01 - Simple Project with MVVM - View_Sn\01 - Simple Project with MVVM - View\obj\Debug\01 - Simple Project with MVVM - View_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\38 - MVVM\01 - Simple Project with MVVM - View_Sn\01 - Simple Project with MVVM - View\obj\Debug\MVVM\View\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\38 - MVVM\01 - Simple Project with MVVM - View_Sn\01 - Simple Project with MVVM - View\obj\Debug\01 - Simple Project with MVVM - View.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\38 - MVVM\01 - Simple Project with MVVM - View_Sn\01 - Simple Project with MVVM - View\obj\Debug\_01___Simple_Project_with_MVVM___View.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\38 - MVVM\01 - Simple Project with MVVM - View_Sn\01 - Simple Project with MVVM - View\obj\Debug\01 - Simple Project with MVVM.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\38 - MVVM\01 - Simple Project with MVVM - View_Sn\01 - Simple Project with MVVM - View\obj\Debug\01 - Simple Project with MVVM.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\38 - MVVM\01 - Simple Project with MVVM - View_Sn\01 - Simple Project with MVVM - View\obj\Debug\01 - Simple Project with MVVM - View.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\38 - MVVM\01 - Simple Project with MVVM - View_Sn\01 - Simple Project with MVVM - View\obj\Debug\01 - Simple Project with MVVM - View.pdb

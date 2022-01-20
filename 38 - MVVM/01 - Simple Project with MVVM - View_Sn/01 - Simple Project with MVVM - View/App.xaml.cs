@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace _01___Simple_Project_with_MVVM___View
+namespace _01___Simple_Project_with_MVVM
 {
     /// <summary>
     /// Interaction logic for App.xaml

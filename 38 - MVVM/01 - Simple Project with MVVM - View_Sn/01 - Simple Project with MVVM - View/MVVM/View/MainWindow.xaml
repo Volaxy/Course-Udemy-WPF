@@ -7,6 +7,9 @@
         xmlns:ViewModel="clr-namespace:_01___Simple_Project_with_MVVM___View.MVVM.ViewModel" x:Class="_01___Simple_Project_with_MVVM.MVVM.View.MainWindow"
         mc:Ignorable="d"
         Title="MainWindow" Height="214" Width="342">
+    <Window.DataContext>
+        <ViewModel:UsersViewModel/>
+    </Window.DataContext>
     <Grid>
         <ListView ItemsSource="{Binding Users}">
             <ListView.View>
@@ -15,9 +18,6 @@
                     <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}"/>
                 </GridView>
             </ListView.View>
-            <ListView.DataContext>
-                <ViewModel:UsersViewModel/>
-            </ListView.DataContext>
         </ListView>
 
     </Grid>

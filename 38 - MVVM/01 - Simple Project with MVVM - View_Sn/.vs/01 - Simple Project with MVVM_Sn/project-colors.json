@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9396dff-d92e-4b3f-98d4-e954963c5a4f": {
+      "ProjectGuid": "a9396dff-d92e-4b3f-98d4-e954963c5a4f",
+      "DisplayName": "01 - Simple Project with MVVM",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

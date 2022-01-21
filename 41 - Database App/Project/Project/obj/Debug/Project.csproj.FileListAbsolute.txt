@@ -1,0 +1,15 @@
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\41 - Database App\Project\Project\bin\Debug\Project.exe.config
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\41 - Database App\Project\Project\bin\Debug\Project.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\41 - Database App\Project\Project\bin\Debug\Project.pdb
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\41 - Database App\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\41 - Database App\Project\Project\obj\Debug\MainWindow.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\41 - Database App\Project\Project\obj\Debug\App.g.cs
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\41 - Database App\Project\Project\obj\Debug\Project_MarkupCompile.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\41 - Database App\Project\Project\obj\Debug\Project_MarkupCompile.lref
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\41 - Database App\Project\Project\obj\Debug\MainWindow.baml
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\41 - Database App\Project\Project\obj\Debug\Project.g.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\41 - Database App\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\41 - Database App\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\41 - Database App\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\41 - Database App\Project\Project\obj\Debug\Project.exe
+D:\WS\Visual Studio 2021\C# com Visual Studio\Udemy\WPF\41 - Database App\Project\Project\obj\Debug\Project.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a8419276-e59b-4096-b1f3-67b3a7abe7ee": {
+      "ProjectGuid": "a8419276-e59b-4096-b1f3-67b3a7abe7ee",
+      "DisplayName": "01 - Window Basic Properties",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

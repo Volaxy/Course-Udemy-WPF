@@ -8,6 +8,8 @@ URL do curso -> [Easy WPF in C# Windows Presentation Foundation XAML ADO.Net](ht
 
 ## Links Úteis
 * [Visual Studio 2022](https://visualstudio.microsoft.com/pt-br/downloads/) - Site da IDE principal para desenvolvimento em WPF.
+* [200 Things to do with WPF](https://wpf.2000things.com/) - Site de 2000 coisas que se pode fazer no WPF.
+* [Black Wasp](http://www.blackwasp.co.uk/Default.aspx) - Site de Dicas de WPF.
 
 ## Siglas
 * WPF - **W**indows **P**resentation **F**oundation.
